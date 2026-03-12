@@ -959,6 +959,56 @@ function findExplicitProducts(query, max = 3) {
   return uniqueByUrl(hits).slice(0, max);
 }
 
+function extractSimilarBaseHint(query) {
+  const q = normalize(query);
+  if (!q) return '';
+
+  const patterns = [
+    /(?:similares?|alternativas?)\s+a\s+(.+?)(?:\s+por\s+sustancia(?:\s+activa)?|\s*$)/,
+    /(?:similares?|alternativas?)\s+de\s+(.+?)(?:\s+por\s+sustancia(?:\s+activa)?|\s*$)/
+  ];
+
+  for (const re of patterns) {
+    const m = q.match(re);
+    if (m && m[1]) return m[1].trim();
+  }
+  return '';
+}
+
+function findProductsByNameHint(nameHint, max = 5) {
+  const hint = normalize(nameHint);
+  if (!hint) return [];
+
+  const terms = hint.split(/\s+/).filter(x => x.length > 2);
+  const scored = [];
+
+  for (const x of TITLE_INDEX) {
+    const t = x.titleNorm;
+    let score = 0;
+
+    if (t === hint) score += 120;
+    else if (t.startsWith(hint)) score += 85;
+    else if (t.includes(hint)) score += 65;
+
+    if (terms.length > 0) {
+      let overlap = 0;
+      for (const term of terms) {
+        if (t.includes(term)) overlap += 1;
+      }
+      score += overlap * 10;
+      if (overlap === terms.length && terms.length >= 2) score += 18;
+    }
+
+    if (score > 0) scored.push({ item: x.item, score });
+  }
+
+  return uniqueByUrl(
+    scored
+      .sort((a, b) => b.score - a.score || a.item.t.localeCompare(b.item.t))
+      .map(x => x.item)
+  ).slice(0, max);
+}
+
 function isGenericTag(tag) {
   const t = normalize(tag);
   const generic = new Set([
@@ -1315,7 +1365,24 @@ async function buildComparisonResponse(query, found) {
 }
 
 async function buildSimilarResponse(query, found) {
-  const base = findExplicitProducts(query, 1)[0] || uniqueByUrl(found)[0];
+  const hint = extractSimilarBaseHint(query);
+  const fromHint = hint ? findProductsByNameHint(hint, 5) : [];
+  const explicit = findExplicitProducts(query, 3);
+
+  let base = null;
+  if (fromHint.length > 0) {
+    const hintNorm = normalize(hint);
+    const exact = fromHint.find(x => normalize(x.t) === hintNorm);
+    if (exact) {
+      base = exact;
+    } else if (fromHint.length > 1) {
+      return buildDisambiguationResponse(query, fromHint);
+    } else {
+      base = fromHint[0];
+    }
+  }
+
+  if (!base) base = explicit[0] || uniqueByUrl(found)[0];
   if (!base) return 'No encontré un producto base para buscar similares.';
 
   const baseSubstances = await getItemSubstances(base);
