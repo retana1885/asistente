@@ -1,0 +1,57 @@
+# SPLENDO2R CRÉME JOUR
+
+**URL:** https://www.medicamentosplm.com/home/productos/splendo2r-creme-jour-crema-dermica/2510/101/44670/319
+
+**Sección:** S
+
+**Acceso restringido detectado:** True
+
+---
+
+## CONTRAINDICACIONES
+
+CONTRAINDICACIONES: Ninguna.
+
+## RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA
+
+RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA: Ninguna.
+
+## REACCIONES ADVERSAS
+
+REACCIONES SECUNDARIAS Y ADVERSAS: Ninguna.
+
+PRECAUCIONES EN RELACIÓN CON EFECTOS DE CARCINOGÉNESIS, MUTAGÉNESIS, TERATOGÉNESIS Y SOBRE LA FERTILIDAD: Ninguna.
+
+## INTERACCIONES MEDICAMENTOSAS Y DE OTRO GÉNERO
+
+INTERACCIONES MEDICAMENTOSAS Y DE OTRO GÉNERO: Ninguna.
+
+## PRECAUCIONES Y ADVERTENCIAS
+
+PRECAUCIONES GENERALES: En caso de cualquier reacción adversa suspenda el uso y consulte al médico.
+
+## DOSIS Y VÍA DE ADMINISTRACIÓN
+
+MODO DE USO: Después de Splendo2r Concentré , aplique diariamente por la mañana en rostro y cuello. Evitar el contorno de los ojos.
+
+## MANIFESTACIONES Y MANEJO DE LA SOBREDOSIFICACIÓN O INGESTA ACCIDENTAL
+
+MANIFESTACIONES Y MANEJO DE LA SOBREDOSIFICACIÓN O INGESTA ACCIDENTAL: Ninguna.
+
+## PRESENTACIÓN
+
+PRESENTACIÓN: Tarro con 50 g.
+
+## RECOMENDACIONES SOBRE ALMACENAMIENTO
+
+RECOMENDACIONES DE ALMACENAMIENTO: Manténgase en un lugar fresco y seco.
+
+## LEYENDAS DE PROTECCIÓN
+
+LEYENDAS DE PROTECCIÓN:
+
+Para uso externo únicamente. No se deje al alcance de los niños.
+
+Fabricante/distribuidor:
+
+SKINPHARMA, S. A. de C. V.

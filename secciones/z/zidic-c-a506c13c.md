@@ -1,0 +1,331 @@
+# ZIDIC-C
+
+**URL:** https://www.medicamentosplm.com/home/productos/zidic-c-capsulas/2503/101/56732/14
+
+**Sección:** Z
+
+**Acceso restringido detectado:** True
+
+---
+
+## COMPOSICIÓN
+
+FORMA FARMACÉUTICA Y FORMULACIÓN:
+
+Cada CÁPSULA contiene:
+
+| Zidovudina | 100 mg | 250 mg |
+| --- | --- | --- |
+| Excipiente, c.b.p. | 1 cápsula | 1 cápsula |
+
+Zidovudina
+
+100 mg
+
+250 mg
+
+Excipiente, c.b.p.
+
+1 cápsula
+
+1 cápsula
+
+## INDICACIONES TERAPÉUTICAS
+
+INDICACIONES TERAPÉUTICAS: En la actualidad la zidovudina es el primer fármaco que se escoge para tratar la infección por VIH en sujetos cuyo número de linfocitos CD4 es menor de 500 células/mm 3 . En personas con SIDA y el complejo a fin al SIDA, la zidovudina permite prolongar la supervivencia, disminuye la frecuencia de infecciones por oportunistas, mejora el peso corporal y el estado funcional, incrementa el número de linfocitos CD4 y otros parámetros inmunitarios, y disminuye el RNA plasmático del VIH.
+
+ZIDIC-C en su formulación oral cápsulas se indica (en combinación con otros antirretrovirales) para el tratamiento de la infección por el Virus de la Inmunodeficiencia Humana (VIH) en niños y en adultos.
+
+## PROPIEDADES FARMACÉUTICAS
+
+FARMACOCINÉTICA Y FARMACODINAMIA:
+
+Farmacocinética de la zidovudina cápsulas: Los datos de un estudio de bioequivalencia con ZIDIC-C Cápsulas, indican que los niveles Cmáx y Cmín después de una dosis oral de 200 mg cada cuatro horas son de 4.5 µM (1.2 µg/ml) y 0.4 µM (0.1 µg/ml), respectivamente. El 5"-glucurónido de zidovudina es el principal metabolito, en plasma y en orina; y corresponde al 50-80% de la dosis administrada, misma que se elimina por excreción renal.
+
+Existen datos escasos sobre el empleo de zidovudina en pacientes con insuficiencia renal y/o hepática.
+
+Niños: El perfil farmacocinético de la zidovudina en niños de 5-6 meses, es similar al del adulto. La zidovudina se absorbe bien del intestino en todos los rangos de dosis estudiados. La biodisponibilidad fue del 60-74% con una media del 65%.
+
+Las concentraciones máximas en estado de equilibrio fueron de 4.45 µM (1.19 µg/ml) a la dosis de 120 mg de zidovudina/m 2 y de 7.7 µM (2.06 µg/ml) a la dosis de 180 mg/m 2 de superficie corporal.
+
+Los datos disponibles de la farmacocinética en neonatos y lactantes indican que la glucuronidación de la zidovudina se reduce como consecuencia de su mayor biodisponibilidad, reducción en el aclaramiento y más prolongada vida media en niños menores de 14 días, posteriormente la farmacocinética es similar a la reportada en los adultos.
+
+La zidovudina también se ha detectado en el semen y en la leche materna.
+
+La unión de la zidovudina a las proteínas plasmáticas es relativamente baja (34-38%) y en consecuencia no se anticipan interacciones con otras sustancias por desplazamiento de los sitios de unión.
+
+Insuficiencia renal: Los pacientes con insuficiencia renal tenían concentraciones plasmáticas de zidovudina un 50% más altas que los sujetos sanos. La exposición sistémica (medida como área bajo la curva [ABC] de zidovudina-tiempo) se incrementa el 100%; la vida media de la zidovudina no se alteró significativamente. En la insuficiencia renal se acumula en forma importante el metabolito glucurónido, pero parece no tener toxicidad.
+
+La hemodiálisis y la diálisis peritoneal no tienen efecto significativo sobre la zidovudina, en tanto que aumentan la eliminación del glucurónido.
+
+Insuficiencia hepática: Los datos en los pacientes con cirrosis sugieren que puede ocurrir acumulación de zidovudina, por la insuficiencia hepática y disminución en la glucuronidación. Pueden ser necesarios ajustes en la dosis, pero no se pueden hacer recomendaciones por lo limitado de la información.
+
+Seniles: La farmacocinética de la zidovudina no se ha estudiado en mayores de 65 años.
+
+Embarazo: La farmacocinética de la zidovudina se estudió en 8 mujeres embazadas durante el último trimestre de la gestación. Conforme progresó el embarazo no se evidenció acumulación de zidovudina. La farmacocinética fue similar a la de adultos sin embarazo. Se observó consistencia en la transmisión pasiva de la zidovudina a través de la placenta. Las concentraciones de zidovudina en el plasma fetal al nacimiento, fueron esencialmente iguales a las concentraciones maternas en el momento del parto.
+
+Bioequivalencia: En los pacientes infectados por el VIH y en tratamiento con ZIDIC-C, la tableta de 300 mg es equivalente a la cápsula de 250 mg, en estado de equilibrio, ajustada para la dosis. Debido a que la cinética de la zidovudina es independiente de la dosis, después de múltiples dosis orales.
+
+La solución oral de ZIDIC-C es bioequivalente a ZIDIC-C Cápsulas en lo que respecta al ABC, según se observó en pacientes. La absorción de zidovudina, fue marginalmente más rápida para las cápsulas, con concentraciones máximas promedio de 0.5 y 0.8 horas, respectivamente. Los valores promedio de las concentraciones máximas en el estado de equilibrio normalizadas a 200 mg, fueron de 5.8 µM (o 1.55 µg/ml) y 4.5 µM (1.2 µg/ml) para la solución oral y las cápsulas respectivamente.
+
+Farmacodinamia: La zidovudina por grupo farmacoterapéutico es un análogo nucleósido, en la clasificación ATC tiene la clave J05A F01. Es un agente antiviral altamente activo in vitro contra los retrovirus, incluyendo al VIH.
+
+La zidovudina es fosforilada por la cinasa celular de la timidina en células infectadas y no infectadas, lo que da lugar a la zidovudina monofosfato (ZDV-MP). La fosforilación subsecuente de la ZDV-MP a la forma difosfato (ZDP) y posteriormente a la trifosfato (ZTP), es catalizada por la timidilato-cinasa y cinasas inespecíficas, respectivamente. La ZTP actúa como inhibidor y sustrato de la transcriptasa reversa viral (TR) y se bloquea en consecuencia la formación de ADN al incorporarse la ZTP a la cadena, con la consecuente terminación de la cadena. La afinidad de la ZTP por la TR viral, es aproximadamente 100 veces más grande que por la polimerasa alfa del ADN celular. Se ha mostrado que la zidovudina actúa en forma aditiva o sinérgica con un gran número de agentes contra el VIH, como la lamivudina, la didanosina y el interferón alfa, inhibiendo la replicación del VIH en los cultivos celulares.
+
+La resistencia a los análogos de la timidina (uno de los cuales es la zidovudina), está bien caracterizada y es conferida por la acumulación escalonada de hasta seis mutaciones específicas en la transcriptasa reversa en los codones: 41, 67, 70, 210, 215 y 219.
+
+Los virus adquieren resistencia fenotípica a los análogos de la timidina por mutaciones de los codones 41 y 215 o por la acumulación de por lo menos cuatro de las seis mutaciones antes señaladas. Las mutaciones de los análogos de la timidina no causan resistencia cruzada con otros nucléosidos y permiten el uso subsecuente de otros inhibidores de la transcriptasa reversa análogos nucléosidos (ITRAN).
+
+Existen dos patrones en las mutaciones de resistencia: El primero caracterizado por mutaciones de la TR en los codones 62, 75, 77, 116 y 151 y el segundo involucrando típicamente a las mutaciones T69S más la inserción de un par con 6 bases en la misma posición, resultando en resistencia fenotípica a la zidovudina. Cualesquiera de estas dos mutaciones en los patrones de resistencia a nucleósidos, limitan severamente las opciones terapéuticas futuras.
+
+Se ha reportado reducción de la sensibilidad in vitro a la zidovudina en virus de pacientes tratados en forma prolongada con zidovudina. La información disponible indica que en el HIV inicial, la frecuencia y grado de reducción de la sensibilidad in vitro de la zidovudina es notablemente menor que para el HIV avanzado.
+
+La relación entre la susceptibilidad in vitro del virus VIH a la zidovudina y la respuesta clínica al tratamiento, está en estudio. Las pruebas de susceptibilidad in vitro no han sido estandarizadas y los resultados pueden variar por factores metodológicos.
+
+Los estudios de la zidovudina en combinación con lamivudina, indican que aislamientos de virus resistentes a la zidovudina, pueden tornarse nuevamente sensibles a ésta, cuando simultáneamente adquieren resistencia contra la lamivudina. Más aún, hay evidencia clínica que muestra que lamivudina más la zidovudina, retrasan la aparición de cepas resistentes a la zidovudina en pacientes vírgenes a tratamiento antirretroviral. La zidovudina se ha empleado ampliamente como un componente de la terapia antirretroviral (ARV) combinada con otros ITRAN o con inhibidores de la transcriptasa reversa no análogos nucleósidos o con inhibidores de proteasa.
+
+Profilaxis post-exposición (PPE): Las guías reconocidas internacionalmente (del Centro para la prevención y control de enfermedades-junio 1998), recomiendan que en caso de exposición accidental con sangre infectada con VIH, por ejemplo, de una lesión con aguja (picadura), se debe administrar una combinación de zidovudina y lamivudina de manera inmediata (dentro de las primeras dos horas). En los casos de alto riesgo de infección se debe incluir un inhibidor de proteasa en la combinación. Se recomienda que la profilaxis antirretroviral se continúe durante cuatro semanas.
+
+No se han llevado a cabo estudios clínicos en profilaxis post-exposición y la información que la apoya es limitada. La seroconversión puede llegar a presentarse a pesar del tratamiento temprano con agentes antirretrovirales.
+
+## CONTRAINDICACIONES
+
+CONTRAINDICACIONES: La zidovudina está contraindicada en pacientes con hipersensibilidad conocida a este o a cualquiera de los componentes de la fórmula.
+
+La zidovudina no debe administrarse a pacientes con un recuento de neutrófilos anormalmente bajo (menor de 0.75 x 109/L) o niveles de hemoglobina anormalmente bajos (menor de 7.5 g/dL o 4.65 mmol/L) (véase Precauciones generales).
+
+## RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA
+
+RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA:
+
+Embarazo: Se ha demostrado que la zidovudina cruza la placenta en humanos. Debido a los limitados datos sobre el uso de ZIDIC-C antes de la semana 14 de la gestación, su empleo debe ser considerado únicamente cuando el beneficio potencial supere los riesgos para el feto.
+
+Transmisión materno-fetal: En el estudio ACTG-076 sobre (AIDS Clinical Trials Group) el empleo de ZIDIC-C en la mujer embarazada a partir de las 14 semanas de gestación, con el subsecuente tratamiento de su recién nacido, ha demostrado reducir significativamente el porcentaje de transmisión materno-fetal del VIH (23% de infección con placebo contra 8% para zidovudina). La terapia oral con ZIDIC-C comenzó entre las semanas 14 y 34 de gestación y continuó hasta el inicio del trabajo de parto.
+
+Se desconoce si hay consecuencias a largo plazo de la administración de zidovudina en útero y en posnatal inmediato. Con base en los hallazgos de carcinogenicidad/mutagenicidad animal los riesgos en el humano no pueden ser excluidos. La relevancia de estos hallazgos en recién nacidos infectados y no infectados expuestos a ZIDIC-C, es desconocida.
+
+Sin embargo, las mujeres embarazadas que reciban ZIDIC-C durante el embarazo, deben ser enteradas de estos hallazgos.
+
+Lactancia: Algunos expertos en salud recomiendan que las mujeres infectadas con VIH no amamanten a sus hijos con el objeto de evitar la transmisión del VIH. Después de una simple dosis de 200 mg de zidovudina a mujeres infectadas con VIH, la concentración promedio de zidovudina fue similar en la leche humana y el plasma. Por lo tanto, ya que tanto el virus como el fármaco pasan a través de la leche materna, se recomienda que las mujeres en terapia con ZIDIC-C no amamanten a sus hijos.
+
+## REACCIONES ADVERSAS
+
+REACCIONES SECUNDARIAS Y ADVERSAS: El perfil de efectos indeseables es similar para niños y adultos. Se han reportado los siguientes eventos adversos en pacientes tratados con ZIDIC-C. También pueden ocurrir como parte de la enfermedad subyacente, en asociación con otros medicamentos utilizados para el tratamiento de la enfermedad por VIH. La relación entre estos eventos y ZIDIC-C es difícil de evaluar, particularmente en situaciones médicamente complicadas, como las que caracterizan la enfermedad avanzada por VIH. Una reducción en la dosis o suspensión del tratamiento con ZIDIC-C puede ser justificada en las siguientes condiciones:
+
+Se ha establecido la siguiente forma convencional para la clasificación de los eventos indeseables:
+
+Muy comunes: > 1/10, comunes: > 1/100 < 1/10, no comunes: > 1/1,000 < 1/100, raros: > 1/10,000 < 1/1,000, muy raros: < 1/10,000.
+
+Eventos adversos hematológicos:
+
+Comunes: anemia (puede requerir transfusiones), neutropenia y leucopenia. Estos eventos ocurren más frecuentemente en pacientes con VIH/SIDA avanzado (especialmente cuando hay pobre reserva de la médula ósea antes del tratamiento) y particularmente en pacientes con CD4< 100/mm 3 . Puede ser necesario reducir la dosis o suspender el tratamiento. (Véase Precauciones generales).
+
+* La incidencia de neutropenia fue mayor en pacientes cuyas cuentas de neutrófilos, niveles de hemoglobina y de vitamina B12 se encontraban bajos al inicio del tratamiento con zidovudina.
+
+Raros: aplasia pura de células rojas.
+
+Muy raros: anemia aplásica.
+
+No comunes: trombocitopenia y pancitopenia (con hipoplasia de médula ósea).
+
+Alteraciones de la nutrición y del metabolismo:
+
+Raros: acidosis láctica en ausencia de hipoxemia, anorexia.
+
+Alteraciones psiquiátricas:
+
+Raros: ansiedad y depresión.
+
+Alteraciones del sistema nervioso:
+
+Muy comunes: cefalea.
+
+Comunes: mareos.
+
+Raros: insomnio, parestesia, somnolencia, pérdida de la agudeza mental, convulsiones.
+
+Alteraciones cardiacas:
+
+Raros: cardiomiopatía.
+
+Alteraciones respiratorias:
+
+No comunes: disnea.
+
+Raros: tos.
+
+Alteraciones gastrointestinales:
+
+Muy comunes: náuseas.
+
+Comunes: vómito, dolor abdominal y diarrea.
+
+No común: flatulencia.
+
+Raros: pigmentación de la mucosa oral, alteraciones del gusto y dispepsia.
+
+Pancreatitis.
+
+Alteraciones hepatobiliares:
+
+Raros: alteraciones hepáticas como hepatomegalia severa con esteatosis.
+
+Piel y tejido subcutáneo:
+
+No comunes: eritema y prurito.
+
+Raros: pigmentación de piel y uñas, urticaria y diaforesis.
+
+Alteraciones musculoesqueléticas y del tejido conectivo:
+
+Comunes: mialgias.
+
+No comunes: miopatías.
+
+Alteraciones renales y urinarias:
+
+Raros: poliaquiuria.
+
+Alteraciones del aparato reproductor y glándulas mamarias:
+
+Raros: ginecomastia.
+
+Alteraciones generales y asociadas al sitio de administración:
+
+Comunes: malestar.
+
+No comunes: fiebre, dolor generalizado y astenia.
+
+Raros: Dolor de pecho, síntomas catarrales.
+
+Los datos obtenidos de los estudios controlados con placebo y abiertos, indican que la incidencia de las náuseas y otros eventos adversos clínicos reportados, disminuyen consistentemente con el tiempo, durante las primeras semanas de tratamiento con ZIDIC-C.
+
+Reacciones adversas por el uso de ZIDIC-C para la prevención de la transmisión materno-fetal: En un estudio controlado con placebo (ACTG 076), ZIDIC-C fue bien tolerado por mujeres embarazadas a las dosis recomendadas para esta indicación. Las reacciones adversas clínicas y las alteraciones de laboratorio fueron similares en los grupos que recibieron ZIDIC-C y en los grupos placebo.
+
+En el mismo estudio se observó que la concentración de hemoglobina en los niños expuestos a ZIDIC-C para esta indicación fue marginalmente menor a las observadas en el grupo placebo, pero no se requirió transfusión. La anemia se resolvió a las seis semanas después de completar el tratamiento con ZIDIC-C.
+
+Otros eventos adversos clínicos y alteraciones en estudios de laboratorio fueron similares en los grupos tratados con placebo y ZIDIC-C. Las consecuencias a la exposición fetal en útero y en el periodo neonatal a largo plazo al ZIDIC-C son desconocidas.
+
+PRECAUCIONES EN RELACIÓN CON EFECTOS DE CARCINOGÉNESIS, MUTAGÉNESIS, TERATOGÉNESIS Y SOBRE LA FERTILIDAD:
+
+Carcinogenicidad: Los datos disponibles en pacientes tratados con enfermedad avanzada por VIH con ZIDIC-C indican que el riesgo de desarrollar linfomas, es similar que el observado en pacientes no tratados. ZIDIC-C no es un tratamiento curativo de la infección por VIH y los pacientes siempre están en riesgo de desarrollar enfermedades asociadas con la depresión del sistema inmune, incluyendo infecciones oportunistas y neoplasias.
+
+La administración de zidovudina en dosis altas a ratas y ratones ocasionó la aparición de neoplasias vaginales. Es incierto el valor predictivo de los estudios de carcinogenicidad para el humano y, por lo tanto, su significado clínico no es claro.
+
+Mutagenicidad: No se observó evidencia de mutagenicidad en la prueba Ames. No obstante, la zidovudina fue levemente mutagénica en un ensayo con células de linfoma de ratón y fue positiva en un ensayo de transformación celular in vitro . Se observaron efectos clastogénicos (daño cromosómico) in vitro en linfocitos humanos e in vivo en ratas y ratones. Un estudio citogenético in vivo realizado en ratas, no mostró daño cromosómico. Un estudio en linfocitos de sangre periférica de 11 pacientes con SIDA, demostró una frecuencia mayor de ruptura cromosómica en aquellos que habían recibido ZIDIC-C, que en los del grupo control. No es claro el significado clínico de estos hallazgos.
+
+Teratogenicidad: Los estudios en ratas y conejas preñadas no revelaron evidencia de teratogenicidad; sin embargo, hubo un incremento estadísticamente significativo en la incidencia de resorción fetal. En otro estudio realizado en ratas durante el periodo de organogénesis, se observó una marcada toxicidad materna y un incremento en la incidencia de malformaciones fetales. No hubo evidencia de incremento en la incidencia de anormalidades fetales con las dosis más bajas.
+
+Fertilidad: La zidovudina no dañó la fertilidad de ratas machos o hembras que recibieron dosis orales de hasta 450 mg/kg/día. No hay datos disponibles sobre el efecto de ZIDIC-C en la fertilidad humana femenina. En el hombre ZIDIC-C no ha demostrado afectar la cuenta espermática ni su morfología ni su motilidad.
+
+## INTERACCIONES MEDICAMENTOSAS Y DE OTRO GÉNERO
+
+INTERACCIONES MEDICAMENTOSAS Y DE OTRO GÉNERO: La zidovudina se elimina principalmente por conjugación hepática a un metabolito glucurónido inactivo.
+
+Las sustancias activas que también son eliminadas principalmente por esta vía en el hígado, pueden potencialmente inhibir el metabolismo de la zidovudina. Las interacciones mencionadas no deben considerarse exhaustivas sino más bien representativas de la clase de medicamentos con los que debe tenerse especial cuidado.
+
+Lamivudina: Un modesto incremento en la Cmáx. se observó cuando se administró zidovudina con lamivudina; sin embargo el ABC en general no fue afectado importantemente. La zidovudina no tuvo efectos en la cinética plasmática de la lamivudina.
+
+Difenilhidantoína (DFH): Los niveles de la DFH en sangre se han reportado bajos en algunos pacientes tratados con ZIDIC-C, en tanto que en un paciente estos niveles fueron elevados.
+
+Estas observaciones sugieren que los niveles de la DFH deben monitorearse especialmente en pacientes que reciben estos dos medicamentos.
+
+Probenecid: Existen limitados datos que sugieren incrementos en la vida media y el ABC de la zidovudina por descenso en la glucuronidación. La excreción renal del glucurónido (y posiblemente de la misma zidovudina), se reduce por la presencia del probenecid.
+
+Ribavirina: El nucléosido análogo ribavirina antagoniza la actividad antiviral in vitro de la zidovudina, por lo que se deberá evitar el uso concomitante.
+
+Rifampicina: Existen datos limitados que sugieren que la coadministración de la zidovudina con la rifampicina deprime el ABC de la zidovudina en un 48 ± 34%.
+
+Se desconoce el significado clínico de esto.
+
+Estavudina: La zidovudina inhibe la fosforilación intracelular de la estavudina cuando se emplean ambos productos en combinación. En consecuencia no deben emplearse estos productos en forma combinada o simultánea.
+
+Otras sustancias activas como ácido acetilsalicílico, codeína, morfina, metadona, indometacina, ketoprofeno, naproxen, oxazepam, lorazepam, cimetidina, clofibrato, dapsona e isoprinosina, pueden también alterar el metabolismo de la zidovudina por inhibición competitiva de la glucuronidación o al inhibir directamente el metabolismo microsomal hepático. Se debe cuidar especialmente la posibilidad de interacciones antes de utilizar otros medicamentos, particularmente para tratamientos crónicos combinados con ZIDIC-C.
+
+El tratamiento concomitante, especialmente durante el tratamiento agudo con drogas potencialmente nefrotóxicas o mielosupresoras (ejemplos: dapsona, pentamidina sistémica, pirimetamina, co-trimoxazol, anfotericina, flucitosina, ganciclovir, interferón, vincristina, vinblastina y doxorubicina), puede también aumentar el riesgo de reacciones adversas al ZIDIC-C. Si es necesario el tratamiento concomitante con cualquiera de estas drogas, se debe tener cuidado extra para el seguimiento de la función renal y los parámetros hematológicos y si se requiere, la dosis de uno o más de estos agentes debe ser reducida.
+
+Debido a que algunos pacientes que reciben ZIDIC-C pueden continuar presentando infecciones oportunistas, se debe considerar el uso concomitante de terapia antimicrobiana profiláctica.
+
+Dicha terapia puede incluir co-trimoxazol, pentamidina en aerosol, pirimetamina y aciclovir.
+
+Los limitados datos de los estudios clínicos indican que no existe mayor riesgo de reacciones adversas al ZIDIC-C al ser combinado con estos fármacos.
+
+## HALLAZGOS DE LABORATORIO CLÍNICO
+
+ALTERACIONES EN LOS RESULTADOS DE PRUEBAS DE LABORATORIO: Se recomienda en forma general, que en pacientes con enfermedad sintomática avanzada por VIH que están tomando ZIDIC-C, se realicen exámenes de sangre por lo menos cada dos semanas durante los tres primeros meses de tratamiento y posteriormente una vez al mes, debido a que se espera que se presenten anemia (en general no se observa antes de seis semanas de tratamiento), neutropenia (generalmente no se observa antes de 4 semanas de tratamiento) y leucopenia (generalmente secundaria a la neutropenia).
+
+Debe prestarse particular atención a los pacientes con compromiso previo de médula ósea; para éstos, se recomiendan dosis diarias inferiores desde el inicio del tratamiento.
+
+Las reacciones adversas hematológicas son menos frecuentes en pacientes con enfermedad temprana, en quienes la reserva de médula ósea es generalmente buena.
+
+Disminuciones en los niveles de hemoglobina de más de 25% de la línea basal y caídas en el recuento de neutrófilos de más de 50% de la línea basal, pueden requerir un control más frecuente. Si se presentan anemia severa o datos de mielosupresión, se sugiere ajustar la dosis debido a que tales anormalidades son reversibles en forma rápida al suspender la terapia. En pacientes con anemia importante, los ajustes en la dosificación no eliminan la necesidad de transfusiones.
+
+Rara vez se ha reportado acidosis láctica en ausencia de hipoxemia o hepatomegalia severa con esteatosis, mismas que son potencialmente fatales. Se ignora si estos eventos están relacionados en forma directa con ZIDIC-C pero se han reportado en pacientes VIH positivos, sin SIDA. Se deberá suspender el tratamiento con ZIDIC-C si ocurre una rápida elevación de los niveles de aminotransferasas, hepatomegalia progresiva o acidosis metabólica o láctica de etiología desconocida. Se deberá proceder con precaución cuando se administra ZIDIC-C a pacientes con hepatomegalia, hepatitis o cualquier otro factor de riesgo para enfermedad hépatica. Se recomienda el seguimiento estrecho de los pacientes mientras estén en tratamiento con ZIDIC-C.
+
+## PRECAUCIONES Y ADVERTENCIAS
+
+PRECAUCIONES GENERALES: Se debe informar a los pacientes que el tratamiento no ha demostrado evitar la transmisión del VIH a otras personas a través del contacto sexual o por contaminación sanguínea. Se deben tomar y continuar las precauciones apropiadas.
+
+El tratamiento con ZIDIC-C no significa la erradicación de la infección por el VIH y los pacientes continúan en riesgo de desarrollar enfermedades asociadas con la inmunosupresión, incluyendo infecciones oportunistas y neoplasias asociadas. En tanto se ha visto que se reducen los riesgos de infecciones oportunistas, los datos sobre el desarrollo de neoplasias, incluyendo linfomas, son limitados. Los datos disponibles de los pacientes con VIH avanzado, son consistentes con los observados en los pacientes no tratados. Se desconoce el riesgo del desarrollo de linfomas en los pacientes con enfermedad reciente por el VIH en tratamientos a largo plazo.
+
+Debe informarse a las embarazadas que utilicen ZIDIC-C para la prevención de la transmisión del VIH a sus hijos, que el contagio al recién nacido puede ocurrir en algunos casos, aun a pesar del tratamiento.
+
+Reacciones adversas hematológicas: La anemia (usualmente no observada sino hasta después de seis semanas de tratamiento, pero eventualmente ocurriendo antes), neutropenia (usualmente observada hasta después de cuatro semanas de tratamiento, pero puede ocurrir antes) y leucopenia secundaria a la neutropenia, pueden esperarse en pacientes con enfermedad sintomática por VIH avanzada y que reciban ZlDIC-C. Estos casos ocurren más frecuentemente en quienes reciben dosis elevadas (1,200 a 1,500 mg/día) y en pacientes con pobre reserva de médula ósea antes del tratamiento, particularmente con enfermedad avanzada por el VIH.
+
+Se debe monitorear los parámetros hematológicos. Para los pacientes con enfermedad sintomática avanzada por VIH, se recomienda que las pruebas sanguíneas se efectúen cada dos semanas durante los primeros tres meses de tratamiento y por lo menos una vez al mes posteriormente. En pacientes con enfermedad reciente por el VIH (cuando es buena la reserva de la médula), las reacciones adversas hematológicas no son raras. Las pruebas hematológicas pueden realizarse no tan a menudo, dependiendo de la condición general del paciente, por ejemplo cada 1-3 meses.
+
+Si los niveles de hemoglobina descienden de 7.5 g/dL (4.65 mmol/L) a 9 g/dL (5.59 mmol/L) o la cuenta de neutrófilos cae de 0.75 x 109/L a 1.0 x 109/L, la dosis diaria puede ser reducida hasta que se recupere la médula ósea; alternativamente la recuperación puede lograrse con interrupciones cortas (2-4 semanas) del tratamiento con ZIDIC-C. Usualmente la médula ósea se recupera a las dos semanas de la interrupción, después de las cuales puede reinstituirse el tratamiento a dosis bajas. En pacientes con anemia severa, los ajustes en la dosis no necesariamente eliminan la necesidad de transfusiones (véase Contraindicaciones).
+
+Debe advertirse a los pacientes precaución para el uso concomitante de los medicamentos sin receta o de libre acceso (también denominados OTC).
+
+Acidosis láctica/hepatomegalia severa con esteatosis: Se han reportado casos de acidosis láctica, hepatomegalia severa con esteatosis, incluyendo casos fatales, con el empleo de antirretrovirales análogos nucleósidos solos o en combinación, incluyendo zidovudina. La mayoría de los casos se han presentado en mujeres. Se debe tener precaución cuando se administre ZIDIC-C a cualquier paciente y en particular a aquellos con factores de riesgo conocidos para enfermedad hepática. El tratamiento con ZIDIC-C se debe suspender en cualquier paciente que presente datos clínicos o de laboratorio sugestivos de acidosis láctica o hepatotoxicidad.
+
+## DOSIS Y VÍA DE ADMINISTRACIÓN
+
+DOSIS Y VÍA DE ADMINISTRACIÓN: La dosis de 500 a 600 mg tiene casi la misma eficacia y son mucho menos tóxicas que las de mayor magnitud. Dosis de 180 mg/m 2 cada 6 horas son eficaces en niños con enfermedad avanzada. La administración de zidovudina puede ser beneficiosa en la enfermedad neurológica por VIH; trombocitopenia, psoriasis y neumonía intersticial Iinfocítica. No se sabe si dosis menores son eficaces en enfermedades del sistema nervioso central.
+
+Se ha demostrado que la administración de zidovudina a dosis de 500 mg/día torna lenta la disminución de linfocitos CD4 (linfopenia) y retrasa la evolución de la enfermedad en pacientes en fases sintomática inicial y en los infectados por VIH, pero asintomáticos con menos de 500 linfocitos CD4/mm 3 . Sin embargo, el tratamiento temprano de dichos pacientes no prolonga la supervivencia a largo plazo. En personas asintomáticas con menos de 500 linfocitos CD4/mm 3 , la zidovudina aminora el peligro de evolución hasta llegar a la enfermedad definitoria de SIDA o a la muerte en un lapso de 2 años en promedio. En personas asintomáticas con menos de 200 linfocitos CD4/mm 3 , la opinión varía con respecto a emprender la administración de zidovudina en parte porque el tratamiento temprano no brinda beneficios clínicos o sostenidos ni reduce la mortalidad. El beneficio puramente cronológico de usar sólo zidovudina ha hecho que se utilicen con frecuencia cada vez mayor estrategias terapéuticas por combinación.
+
+No se ha precisado la eficacia de la zidovudina como profiláctico, después de exposición, en transfusiones o en lesiones por pinchazo de aguja, y se sabe de fracasos en este sentido. Sin embargo, la administración del fármaco a mujeres infectadas durante su embarazo (500 mg/día, comenzando entre las 14 y 34 semanas con una aplicación de dosis intravenosa durante el parto) y en sus neonatos (2 mg/kg durante 6 horas por 6 semanas, comenzando a las 8 a 12 horas después del parto) aminora el peligro de transmisión de VIH al neonato en 68%. La administración de zidovudina (250 mg 2 veces al día por 6 meses) durante la infección primaria por VIH incrementa el número de linfocitos CD4 y puede mejorar el curso clínico.
+
+Dosis en adultos y adolescentes 12 años: La dosis recomendada de ZIDIC-C es de 500 o 600 mg/día divididos en 2 o 3 dosis.
+
+Dosis mayores de 1,000 mg/día divididas fueron empleadas en los estudios clínicos iniciales. Se desconoce la efectividad de dosis menores de 1,000 mg en el tratamiento o en la prevención de la disfunción neurológica asociada a la infección por VIH.
+
+Dosis en pacientes con reacciones hematológicas adversas: La reducción de la dosis o retiro del ZIDIC-C puede ser necesario en pacientes cuya hemoglobina (Hb) sea menor de 7.5 g/dL (4.65 mmol/L) a 9 g/dL (5.59 mmol/L o cuya cuenta de neutrófilos de 0.75 x 109/L a 1.0 x 109/L (véase Contraindicaciones y Precauciones generales).
+
+Dosis en el anciano: La farmacocinética de la zidovudina no se ha estudiado en mayores de 65 años y no hay datos específicos. Sin embargo, se necesita atención especial para este grupo etario, debido a los cambios asociados con la edad, como el descenso en la función renal y alteraciones en los parámetros hematológicos. Se sugiere el monitoreo adecuado de los pacientes.
+
+## MANIFESTACIONES Y MANEJO DE LA SOBREDOSIFICACIÓN O INGESTA ACCIDENTAL
+
+MANIFESTACIONES Y MANEJO DE LA SOBREDOSIFICACIÓN O INGESTA ACCIDENTAL:
+
+Síntomas y signos: No hay signos específicos después de una sobredosificación con zidovudina, además de los efectos indeseables ya señalados, como fatiga, cefalea, vómito y reportes ocasionales de alteraciones hematológicas. Después del reporte sobre un paciente que ingirió una cantidad no especificada de zidovudina, los niveles séricos de éste fueron 16 veces el valor terapéutico normal; sin embargo no se identificaron secuelas bioquímicas ni hematológicas.
+
+Tratamiento: Los pacientes deben ser observados para identificar evidencias de toxicidad (véase Reacciones secundarias y adversas) y se les debe dar la terapia de soporte necesaria. La hemodiálisis y la diálisis peritoneal parecen tener un efecto limitado en la eliminación de la zidovudina, pero aumentan la eliminación del metabolito glucurónido.
+
+## PRESENTACIÓN
+
+PRESENTACIONES:
+
+Venta al público: Caja con frasco de polietileno con 30 cápsulas de 250 mg y caja con frasco de polietileno con 100 cápsulas de 100 mg.
+
+Genéricos Intercambiables: Caja con frasco de polietileno con 30 cápsulas de 250 mg y caja con frasco de polietileno con 100 cápsulas de 100 mg.
+
+## RECOMENDACIONES SOBRE ALMACENAMIENTO
+
+RECOMENDACIONES PARA EL ALMACENAMIENTO: Consérvese a temperatura ambiente a no más de 30°C y en lugar seco. Protéjase de la luz.
+
+## LEYENDAS DE PROTECCIÓN
+
+LEYENDAS DE PROTECCIÓN:
+
+Su venta requiere receta médica. No se use en el embarazo y lactancia. No se deje al alcance de los niños. Este medicamento sólo debe administrarse bajo estricta prescripción medica por un especialista en quimioterapia antirretroviral. Protéjase de la luz.
+
+ARLEX DE MÉXICO, S. A. de C. V.
+
+Puerto Acapulco No. 35, Col. Piloto C.P. 01290 México, D.F.
+
+Reg. Núm. 264M2000, SSA IV
+
+BEAR-120467/RM 2003

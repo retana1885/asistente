@@ -1,0 +1,121 @@
+# LOBEVAT
+
+**URL:** https://www.medicamentosplm.com/home/productos/lobevat-gel-topico/175/101/8431/71
+
+**Sección:** L
+
+**Acceso restringido detectado:** True
+
+---
+
+## COMPOSICIÓN
+
+FORMA FARMACÉUTICA Y FORMULACIÓN:
+
+Cada 100 g de gel contienen:
+
+17-propionato de clobetasol 0.050 g
+
+Excipiente, c.b.p. 100 g.
+
+## INDICACIONES TERAPÉUTICAS
+
+Indicaciones terapéuticas: Dermatosis crónicas: dermatitis alérgica por contacto, dermatitis atópica, eccemas persistentes, trastornos hiperproliferativos, como psoriasis, exceptuando la psoriasis en placa, liquen plano, lupus eritematoso discoide y otro tipo de patologías, principalmente las que no han respondido a los corticosteroides de potencia más baja.
+
+## PROPIEDADES FARMACÉUTICAS
+
+Farmacocinética y farmacodinamia EN HUMANOS: El propionato de clobetasol es un corticosteroide sintético para uso tópico dermatológico con efectos antiinflamatorio, antipruriginoso y vasoconstrictor. También se ha descrito un efecto antimitótico sobre las células epidérmicas. Aún no se ha definido el mecanismo farmacológico exacto de estas acciones. Sin embargo, en la actividad antiinflamatoria parecen ser críticas la constricción vascular y la función leucocitaria y linfocitaria disminuidas. Como todos los corticosteroides tópicos, la absorción percutánea del clobetasol generalmente se incrementa en los procesos inflamatorios de la piel, cuando la absorción es prolongada, cuando hay áreas grandes de piel afectada y con el uso de vendajes oclusivos. Una vez que se absorben, los corticosteroides tópicos presentan un perfil farmacocinético similar a los corticosteroides sistémicos, se pueden unir a las proteínas plasmáticas a diferentes concentraciones, se metabolizan primariamente en el hígado y son excretados por riñón y vías biliares.
+
+## CONTRAINDICACIONES
+
+Contraindicaciones: Hipersensibilidad conocida a algún componente de la fórmula.
+
+Como todo corticosteroide, está contraindicado en infecciones bacterianas (tuberculosis de la piel e impétigo), infecciones virales (como herpes simple, sarampión y varicela), e infecciones fúngicas (por ejemplo, candidiasis, tiñas), así como en acné rosácea y dermatitis peribucal.
+
+En niños menores de un año con cualquier tipo de dermatitis.
+
+## RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA
+
+RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA:
+
+Embarazo: No se han realizado estudios que demuestren la innocuidad del uso tópico de corticosteroides en mujeres embarazadas, por lo que no deberán usarse en ninguna etapa de la gestación en dosis grandes y por periodos largos.
+
+Lactancia: Los corticosteroides administrados sistémicamente se excretan a través de la leche humana y pueden suprimir el crecimiento, interferir con la producción de corticosteroides endógenos o causar otro tipo de efecto adverso. Se desconoce si la administración tópica de corticosteroides resulte en absorción sistémica suficiente para producir cantidades detectables en la leche humana. Debido a que muchos medicamentos son excretados a través de ésta, se recomienda tener precaución cuando se administre propionato de clobetasol en mujeres lactando.
+
+## REACCIONES ADVERSAS
+
+Reacciones secundarias y adversas: Los efectos secundarios locales clásicos son la atrofia, la hipopigmentación y la telangiectasia. Las áreas más susceptibles son cara y regiones intertriginosas, donde la piel es más delgada.
+
+La etapa de atrofia es reversible; sin embargo, también pueden presentarse estrías y éstas son irreversibles.
+
+En superficies extensoras de brazos pueden presentarse lesiones purpúricas. También se han descrito dermatitis peribucal, erupciones del tipo de rosácea y acneiformes.
+
+Con tratamientos de largo plazo en áreas cercanas o adyacentes a ojos pueden presentarse glaucoma y cataratas.
+
+Los efectos secundarios sistémicos de los corticosteroides tópicos pueden presentarse cuando la absorción sistémica está aumentada, los factores que incrementan la absorción sistémica incluyen la cantidad aplicada, la extensión del área tratada, frecuencia de aplicación, duración del tratamiento, potencia del fármaco y uso de oclusión.
+
+Precauciones EN relaciÓn con efectos de carcinogÉnesis, mutagÉnesis, teratogÉnesis y sobre la fertilidad: Los estudios a largo plazo correspondientes para determinar carcinogénesis y disminución de la fertilidad, no se han ensayado en animales de laboratorio.
+
+Estudios realizados con prednisona e hidrocortisona para determinar mutagénesis han sido negativos. Sin embargo, los corticosteroides tópicos no deberán ser usados en dosis elevadas o por periodos prolongados durante el embarazo.
+
+La administración en animales preñados puede causar anormalidades del desarrollo fetal, la relevancia de estos hallazgos.
+
+En pacientes embarazadas no se han logrado estudios teratogénicos controlados con corticosteroides tópicos.
+
+## INTERACCIONES MEDICAMENTOSAS Y DE OTRO GÉNERO
+
+Interacciones medicamentosas y de otro género: Se desconocen a la fecha.
+
+## HALLAZGOS DE LABORATORIO CLÍNICO
+
+Alteraciones en LOS resultados de pruebas de laboratorio: A dosis elevadas y aplicación crónica, como todo corticosteroide puede producir una disminución en los niveles plasmáticos de hormonas corticoadrenales, la cual se revierte al suspender el tratamiento.
+
+Las siguientes pruebas resultan útiles en la evaluación de la supresión del eje hipotálamo-hipófisis-suprarrenal (hpa)-orina libre de cortisol- estimulaciones de la hormona adrenocorticotrópica (acth).
+
+## PRECAUCIONES Y ADVERTENCIAS
+
+Precauciones generales: Solamente para uso externo. Evitar el contacto con los ojos. Como con todo corticosteroide, una aplicación prolongada a la cara debe ser evitada.
+
+Si se desarrollara una infección, el uso de cura oclusiva deberá ser descontinuada e instituir una terapia antimicrobiana adecuada.
+
+## DOSIS Y VÍA DE ADMINISTRACIÓN
+
+Dosis y vía de administración: Tópica.
+
+Aplicar una pequeña cantidad en el área afectada, dos veces al día; una aplicación más frecuente no mejora la respuesta.
+
+En lesiones muy resistentes, en especial cuando haya hiperqueratosis, use cura oclusiva. Deben usarse por periodos no superiores a dos semanas, a fin de evitar toxicidad.
+
+Población pediátrica: No se ha establecido su seguridad en niños. Úsese bajo criterio médico.
+
+## MANIFESTACIONES Y MANEJO DE LA SOBREDOSIFICACIÓN O INGESTA ACCIDENTAL
+
+Manifestaciones y manejo de la sobredosificación o ingesta accidental: Cuando se apliquen grandes cantidades del medicamento en áreas extensas de la piel por periodos prolongados, será necesario valorar los niveles de cortisol urinario y los niveles plasmáticos de hormonas corticoadrenales, ya que se pueden producir efectos sistémicos.
+
+Si el medicamento tuviera contacto con ojos, lave con abundante agua.
+
+## PRESENTACIÓN
+
+PresentaciOnES: LOBEVAT MR Gel se presenta en tubos de 15, 30 y 40 g.
+
+## RECOMENDACIONES SOBRE ALMACENAMIENTO
+
+RECOMENDACIONES SOBRE ALMACENAMIENTO: Consérvese a temperatura ambiente entre 15° a 30°C.
+
+## LEYENDAS DE PROTECCIÓN
+
+LEYENDAS DE PROTECCIÓN:
+
+No se deje al alcance de los niños. Su venta requiere receta médica.
+
+Hecho en México por:
+
+STIEFEL MEXICANA, S. A. de C. V.
+
+Según fórmula y bajo licencia de:
+
+Stiefel Laboratories, Inc., E.U.A.
+
+Reg. Núm. 559M99, SSA IV
+
+KEAR-05330020451068/RM2005

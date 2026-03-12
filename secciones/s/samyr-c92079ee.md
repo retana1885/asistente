@@ -1,0 +1,296 @@
+# SAMYR
+
+**URL:** https://www.medicamentosplm.com/home/productos/samyr-comprimidos/3/103/9644/25
+
+**Sección:** S
+
+**Acceso restringido detectado:** True
+
+---
+
+## COMPOSICIÓN
+
+FORMA FARMACÉUTICA Y FORMULACIÓN:
+
+Cada COMPRIMIDO contiene:
+
+1,4 butano disulfonato de ademetionina equivalente a 500 mg de iones de ademetionina
+
+Excipiente, c.b.p. 1 comprimido.
+
+Cada frasco ámpula de SOLUCIÓN INYECTABLE con liofilizado contiene:
+
+1,4 butano disulfonato de ademetionina equivalente a 500 mg de iones de ademetionina
+
+Cada ampolleta con diluyente contiene:
+
+L-Lisina 428 mg
+
+Vehículo, c.b.p. 5 ml.
+
+## INDICACIONES TERAPÉUTICAS
+
+INDICACIONES TERAPÉUTICAS: SAMYR ® (ademetionina) está indicado en adultos para el tratamiento de la insuficiencia hepática, hepatitis alcohólica, esteatosis hepática, colestasis intrahepática en estados pre-cirróticos y cirrosis, así como en la colestasis intrahepática del embarazo.
+
+## PROPIEDADES FARMACÉUTICAS
+
+FARMACOCINÉTICA Y FARMACODINAMIA:
+
+Absorción: En humanos, posterior a la administración intravenosa, el perfil farmacocinético de la ademetionina es bi-exponencial y compuesto por una aparente rápida fase de distribución caracterizada por una vida media de 1.5 horas aproximadamente. Cuando se administra por vía intramuscular, la absorción de la ademetionina es prácticamente completa (96%); las concentraciones máximas en plasma se alcanzan después de 45 minutos.
+
+Posterior a la administración oral de ademetionina, las concentraciones máximas en plasma de 0.5 a 1 mg/L se relacionan con la dosis, y se obtuvieron a las 3-5 horas después de la ingesta de las tabletas con capa entérica (dosis únicas de 400-1,000 mg). La biodisponibilidad por vía oral mejora si se administra la ademetionina en condiciones de ayuno. Las concentraciones iniciales declinan dentro de las 24 horas.
+
+Distribución: El volumen de distribución es de 0.44 L/kg para dosis de 500 mg de ademetionina. La unión a las proteínas del plasma es menor a 5%.
+
+Metabolismo: A las reacciones mediante las cuales se produce, consume y regenera la ademetionina se les conoce como el ciclo de la ademetionina. En el primer paso de este ciclo, las metilasas dependientes de la ademetionina, utilizan la ademetionina como sustrato y producen S-adenosyl-homocisteína. Posteriormente la S-adenosyl-homocisteína es hidrolizada por la S-adenosyl-homocisteína hidrolasa y se convierte en homocisteína y adenosina. La homocisteína se recicla y convierte de nuevo en metionina mediante la transferencia de un grupo metilo a partir del 5-metiltetrahidrofolato. Finalmente, la metionina se vuelve a convertir en ademetionina, completándose el ciclo.
+
+Excreción: La excreción de la ademetionina no metabolizada en humanos se divide entre la excreción urinaria (15.5 ± 1.5%) y excreción fecal (23.5 ± 3.5%).
+
+Género: En un pequeño estudio en sujetos sanos (4 mujeres y 4 hombres), se informó que las concentraciones máximas observadas en plasma fueron más altas en las mujeres (promedio: 150 ng/ml, rango: 90-190 ng/ml) que en los hombres (promedio: 100 ng/ml, rango: 75-150 ng/ml). Se desconoce el significado clínico de estos resultados.
+
+Mecanismo de acción: S-adenosyl metionina (ademetionina) es una molécula presente en el ser humano de manera natural virtualmente en todos los líquidos y tejidos. La ademetionina se produce de manera endógena a partir del aminoácido esencial metionina y del adenosintrifosfato (ATP) mediante la enzima S-adenosyl metionina sintetasa. SAMYR ® (ademetionina SD 4 ) es butanedisulfonato de ademetionina, una sal estable para su administración por vía oral o parenteral.
+
+SAMYR ® (ademetionina) es un iniciador de 3 importantes vías metabólicas en los humanos; la transmetilación, transulfuración y síntesis de poliaminas funciona principalmente: a) como una coenzima y donador que transfiere grupos metilo (transmetilación) lo que representa un proceso metabólico esencial en humanos y animales. La transferencia de metilos también es esencial para el desarrollo de la bicapa lipídica de las membranas celulares, lo que contribuye a la fluidez de la membrana. La ademetionina puede penetrar la barrera encefálica y a través de la transmetilación es crítica en la formación en el sistema nervioso central (SNC) de neurotransmisores, incluyendo las catecolaminas (dopamina, noradrenalina, adrenalina), serotonina, melatonina e histamina; b) SAMYR ® (ademetionina) también es precursor en la formación fisiológica de compuestos sulfurados (cisteína, taurina, glutatión, CoA, etcétera) vía transulfuración . El glutatión es el más potente antioxidante en el hígado, es importante en la detoxificación hepática. SAMYR ® (ademetionina) incrementa los niveles de glutatión hepático en los pacientes con padecimientos hepáticos relacionados o no con el alcohol. Tanto el folato como la vitamina B 12 son co-nutrientes esenciales en el metabolismo y reposición de la ademetionina.
+
+## CONTRAINDICACIONES
+
+CONTRAINDICACIONES: SAMYR ® (ademetionina) se contraindica en pacientes con hipersensibilidad conocida al principio activo o a cualquier componente activo de la fórmula.
+
+## RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA
+
+RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA: El empleo de altas dosis de ademetionina en mujeres durante el último trimestre del embarazo no ocasionó ningún evento adverso. Se recomienda administrar ademetionina en el primer trimestre del embarazo sólo y únicamente si es absolutamente necesario por indicación médica.
+
+No hay estudios adecuados y bien controlados en mujeres en periodo de lactancia. La ademetionina debe emplearse durante el periodo de lactancia una vez que el médico ha valorado el riesgo del infante sobre el beneficio de su administración.
+
+## REACCIONES ADVERSAS
+
+REACCIONES SECUNDARIAS Y ADVERSAS: En la mayoría de los pacientes, a dosis terapéuticas recomendadas, ademetionina es bien tolerada. En algunos casos puede producir ansiedad, ligero insomnio, náuseas, cefalea, pirosis y diarrea. En pacientes con enfermedad maniaco depresiva puede precipitar la aparición de un episodio maniaco.
+
+Reacciones durante estudios clínicos: Ademetionina se ha estudiado en 1,983 pacientes con enfermedad hepática, en estudios controlados y abiertos hasta por 2 años.
+
+La siguiente tabla se basó en 1,667 pacientes en 22 estudios clínicos tratados con ademetionina, de los cuales 121 (7.2%) experimentaron un total de 188 reacciones adversas. Náuseas, dolor abdominal y diarrea fueron los eventos adversos más frecuentes. De los eventos adversos, no siempre se pudo establecer una relación causal con la ademetionina.
+
+| Órgano o sistema | Evento adverso |
+| --- | --- |
+| Trastornos psiquiátricos | Confusión |
+| Insomnio |
+| Trastornos del sistema nervioso | Mareos |
+| Cefalea |
+| Parestesias |
+| Trastornos gastrointestinales | Distensión abdominal |
+| Dolor abdominal |
+| Diarrea |
+| Boca seca |
+| Dispepsia |
+| Esofagitis |
+| Flatulencia |
+| Dolor gastrointestinal |
+| Trastorno gastrointestinal |
+| Náuseas |
+| Vómito |
+| Hemorragia gastrointestinal |
+| Trastornos vasculares | Rubor |
+| Flebitis superficial |
+| Trastorno hepatobiliar | Cólico biliar |
+| Cirrosis hepática |
+| Piel y tejido subcutáneo | Hiperhidrosis |
+| Prurito |
+| Reacciones de la piel |
+| Trastornos musculoesqueléticos y del tejido conjuntivo | Artralgia |
+| Espasmos musculares |
+| Trastornos generales y en el sitio de administración | Astenia |
+| Calosfríos |
+| Reacciones en el sitio de inyección |
+| Malestar general |
+| Edema periférico |
+| Pirexia |
+
+Órgano o sistema
+
+Evento adverso
+
+Trastornos psiquiátricos
+
+Confusión
+
+Insomnio
+
+Trastornos del sistema nervioso
+
+Mareos
+
+Cefalea
+
+Parestesias
+
+Trastornos gastrointestinales
+
+Distensión abdominal
+
+Dolor abdominal
+
+Diarrea
+
+Boca seca
+
+Dispepsia
+
+Esofagitis
+
+Flatulencia
+
+Dolor gastrointestinal
+
+Trastorno gastrointestinal
+
+Náuseas
+
+Vómito
+
+Hemorragia gastrointestinal
+
+Trastornos vasculares
+
+Rubor
+
+Flebitis superficial
+
+Trastorno hepatobiliar
+
+Cólico biliar
+
+Cirrosis hepática
+
+Piel y tejido subcutáneo
+
+Hiperhidrosis
+
+Prurito
+
+Reacciones de la piel
+
+Trastornos musculoesqueléticos y del tejido conjuntivo
+
+Artralgia
+
+Espasmos musculares
+
+Trastornos generales y en el sitio de administración
+
+Astenia
+
+Calosfríos
+
+Reacciones en el sitio de inyección
+
+Malestar general
+
+Edema periférico
+
+Pirexia
+
+Reacciones en estudios clínicos Fase IV postmercadeo:
+
+| Trastornos del sistema inmunológico | Reacción anafiláctica |
+| --- | --- |
+| Trastornos de la piel y tejido subcutáneo | Reacciones en el sitio de inyección (rara vez con necrosis epidérmica) |
+
+Trastornos del sistema inmunológico
+
+Reacción anafiláctica
+
+Trastornos de la piel y tejido subcutáneo
+
+Reacciones en el sitio de inyección (rara vez con necrosis epidérmica)
+
+PRECAUCIONES EN RELACIÓN CON EFECTOS DE CARCINOGÉNESIS, MUTAGÉNESIS, TERATOGÉNESIS Y SOBRE LA FERTILIDAD: De los estudios de toxicología realizados, no demostraron que la ademetionina ni sus metabolitos provocan alteraciones de este tipo en modelos animales (rata, ratón, perro).
+
+## INTERACCIONES MEDICAMENTOSAS Y DE OTRO GÉNERO
+
+INTERACCIONES MEDICAMENTOSAS Y DE OTRO GÉNERO: Se ha reportado síndrome serotoninérgico en pacientes que toman ademetionina y clomipramina. Por lo tanto, aunque se ha postulado una potencial interacción, se recomienda precaución cuando se administre SAMYR ® (ademetionina) de manera conjunta con inhibidores selectivos de la recaptura de serotonina (ISRS), antidepresivos tricíclicos (como clomipramina), así como compuestos herbales o de libre venta (OTC) que contengan triptófano.
+
+## HALLAZGOS DE LABORATORIO CLÍNICO
+
+ALTERACIONES EN LOS RESULTADOS DE PRUEBAS DE LABORATORIO: El tratamiento con ademetionina de los pacientes con insuficiencia hepática corrige las alteraciones en las pruebas de función hepática.
+
+## PRECAUCIONES Y ADVERTENCIAS
+
+PRECAUCIONES GENERALES: La administración de ademetionina I.V. debe ser lenta.
+
+Se debe monitorear los niveles de amonio en pacientes precirróticos y cirróticos con hiperamonemia y que se encuentren en tratamiento con ademetionina.
+
+Algunos pacientes pueden experimentar mareo cuando se encuentran en tratamiento con ademetionina, por lo que se recomienda advertir al paciente que no maneje u opere maquinaria durante el tratamiento, hasta estar seguros de que el tratamiento no afecta su capacidad de llevar a cabo tales actividades.
+
+No se recomienda el empleo de ademetionina en pacientes con enfermedad bipolar. Ha habido reportes de pacientes que cambian de un estado depresivo a hipomanía o manía cuando están en tratamiento con ademetionina.
+
+Se ha reportado un solo caso de síndrome serotoninérgico en un paciente tomando ademetionina y clomipramina. Aún cuando se ha postulado una potencial interacción, se recomienda precaución cuando se administra ademetionina de manera concomitante con inhibidores selectivos de la recaptura de serotonina (ISRS), antidepresivos tricíclicos (tales como clomipramina), y suplementos herbales OTC que contengan triptófano.
+
+## DOSIS Y VÍA DE ADMINISTRACIÓN
+
+DOSIS Y VÍA DE ADMINISTRACIÓN: El tratamiento puede iniciarse con la presentación parenteral y continuar el mantenimiento con la presentación oral o iniciar y continuar el tratamiento con la presentación oral.
+
+Debido a que la vitamina B 12 y las deficiencias de folatos, pueden disminuir los niveles de ademetionina, se recomienda administrar de manera rutinaria un suplemento con vitamina B 12 y folatos.
+
+Solución inyectable (polvo liofilizado):
+
+El polvo liofilizado de SAMYR ® (ademetionina) y el solvente (solución acuosa para inyección, L lisina e hidróxido de sodio) está disponible en viales de 500 mg/5 ml para administración intravenosa o intramuscular. El polvo liofilizado se debe disolver utilizando el solvente adjunto al momento de administrarse.
+
+SAMYR ® (ademetionina) no debe mezclarse con soluciones alcalinas o que contengan iones de calcio. Si el liofilizado no es de apariencia blanquecina (debido a fractura del vial o exposición al calor), el producto no debe utilizarse.
+
+La forma de administrar SAMYR ® (ademetionina), solución inyectable por vía intravenosa debe ser lenta.
+
+Comprimidos: Los comprimidos de SAMYR ® (ademetionina) se deben deglutir y no se deben masticar. Para mejor absorción de la ademetionina y un efecto terapéutico completo, se debe ingerir el comprimido en ayunas.
+
+Los comprimidos se deben extraer del empaque de aluminio al momento de utilizarse. Si los comprimidos presentan una coloración diferente a la blanca (debido a la presencia de agujeros en la envoltura de aluminio) se recomienda no consumir el producto.
+
+La dosis diaria recomendada de SAMYR ® (ademetionina), para el alivio sintomático de la colestasis y enfermedad hepática crónica, independientemente de su etiología, es de 500 a 1,000 mg cada 24 horas por vía intramuscular, intravenosa lenta (directa o diluida en solución glucosada o salina), y de 1,000 a 1,500 mg por vía oral.
+
+Terapia inicial: I.V. o I.M. durante dos semanas uno o dos viales al día (equivalente a 500-800 mg/día).
+
+Terapia de mantenimiento: De 1,000 a 1,500 mg al día por vía oral.
+
+Ancianos: No se han llevado a cabo un número suficientes de estudios en personas mayores de 65 años como para determinar si responden de manera diferente a personas más jóvenes. Los informes de experiencia clínica no han identificado diferencias en la respuesta entre pacientes jóvenes y ancianos. En general, la selección de la dosis para un paciente anciano debe ser con precaución, iniciando con la dosis más baja, tomando en cuenta la disminución de la función hepática, renal o cardiaca frecuente en este grupo de pacientes así como enfermedades y/o terapias farmacológicas concomitantes.
+
+Niños: No se ha establecido la seguridad y eficacia del empleo de ademetionina en niños.
+
+Daño hepático: Los parámetros farmacocinéticos son similares en voluntarios sanos y en pacientes con enfermedad hepática crónica.
+
+Daño renal: No se han realizado estudios en pacientes con daño renal. Por lo tanto, se recomienda precaución cuando se administre ademetionina en este grupo de pacientes.
+
+## MANIFESTACIONES Y MANEJO DE LA SOBREDOSIFICACIÓN O INGESTA ACCIDENTAL
+
+MANIFESTACIONES Y MANEJO DE LA SOBREDOSIFICACIÓN O INGESTA ACCIDENTAL: No se han reportado casos de sobredosificación en humanos, ni de ingesta accidental.
+
+No se conoce antídoto específico, y en caso de sobredosificación, se recomiendan medidas generales y mantenimiento de las funciones vitales respiratoria y cardiovascular, entre otras.
+
+## PRESENTACIÓN
+
+PRESENTACIONES:
+
+SAMYR ® (ademetionina) Solución inyectable se presenta en caja de cartón con 5 frascos ámpula con liofilizado conteniendo 500 mg de ademetionina cada liofilizado y 5 ampolletas con 5 ml de diluyente cada ampolleta.
+
+Cajas con 10, 20 y 40 comprimidos de 500 mg, en envase de burbuja.
+
+## RECOMENDACIONES SOBRE ALMACENAMIENTO
+
+RECOMENDACIONES SOBRE ALMACENAMIENTO: Consérvese a temperatura ambiente, a no más de 25°C.
+
+## LEYENDAS DE PROTECCIÓN
+
+LEYENDAS DE PROTECCIÓN:
+
+No se deje al alcance de los niños. Su venta requiere receta médica. Protéjase de la luz. Hecha la mezcla, adminístrese de inmediato; si no se administra todo el producto, deséchese el sobrante. Con jeringa y aguja estériles, extráigase el contenido de la ampolleta con diluyente e inyéctese en el frasco ámpula con liofilizado. Una vez obtenida la completa disolución, el medicamento está listo para su uso. No se administre si el cierre ha sido violado, si contiene partículas en suspensión o sedimentos.
+
+ABBOTT LABORATORIES DE MÉXICO, S. A. de C. V.
+
+Comprimidos:
+
+Reg. Núm. 147M99, SSA IV
+
+093501415D0025
+
+Solución inyectable:
+
+Reg. Núm. 044M99, SSA IV
+
+093501415D0024

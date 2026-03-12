@@ -1,0 +1,15 @@
+# MELADERMIC ENERGY
+
+**URL:** https://www.medicamentosplm.com/home/productos/meladermic-energy-crema-facial/2508/101/44653/40
+
+**Sección:** M
+
+**Acceso restringido detectado:** True
+
+---
+
+## INDICACIONES TERAPÉUTICAS
+
+ACCIONES:
+
+MELADERMIC ® ADVANCED Suero facial despigmentante para pacientes con melasma, efélides y lentigo mediante un efecto sinérgico de Symwhite ® 377*, palmitato de Dimetilmetoxi cromanil , aceite de semilla de arándano y lúpulo que por diferentes mecanismos inhiben la tirosinasa, disminuyendo así la síntesis de melanina. Innovadoras cápsulas Vegicaps ® que mantienen a los ingredientes estables dentro de cada cápsula impidiendo la entrada de rayos solares e intercambio gaseoso, asegurando su eficacia. Su presentación en monodosis permite la aplicación exacta y el apego al tratamiento. La textura que brinda la tecnología SoftGel ® proporciona una adecuada cosmética que ayuda a mejorar la apariencia de la piel brindando un efecto matificante. MELADERMIC ® DAY Crema facial con acción despigmentante, aclaradora y fotoprotectora para personas alérgicas a la hidroquinona con lentigos benignos y efélides. La uva Ursi inhibe la producción de tirosinasa en el melanocito disminuyendo la producción de melanina. El ascorbil fosfato de magnesio (PMG o vitamina C) desempeña un papel esencial en la síntesis de colágeno que sumando su efecto antioxidante protege a la piel y retarda los efectos del envejecimiento. Ácido láctico con efecto exfoliante y filtros solares que brindan una adecuada protección solar. MELADERMIC ® ENERGY Crema facial con acción despigmentante, regeneradora, exfoliante y humectante para el melasma, lentigos, efélides y en los casos de intolerancia a la hidroquinona. Formulación con acción reforzada ( Energy ) despigmentante que contiene uva Ursi , arbutina (derivado natural de la hidroquinona) y ácido octadecenodioico, los cuales inhiben la producción de tirosinasa en el melanocito, disminuyendo la producción de melanina. Los ácidos glicólico y láctico dan una acción regeneradora y el isomerato de sacáridos una acción humectante. MELADERMIC ® MANOS Y CUERPO Crema aclaradora y regeneradora para lentigos benignos, efélides y melanosis por fricción. La uva Ursi inhibe la producción de tirosinasa en el melanocito, disminuyendo la producción de melanina. Ácido glicólico con acción exfoliante y regeneradora. El aceite de girasol brinda una acción humectante. MELADERMIC ® NIGHT Crema facial con acción despigmentante, aclaradora y regeneradora para melasma, léntigos benignos y efélides. La uva Ursi y arbutina (derivado natural de la hidroquinona) inhiben la producción de tirosinasa en el melanocito, disminuyendo la producción de melanina. Ácido láctico dan una acción exfoliante y regeneradora. La glicerina hidrata la piel. MELADERMIC ® TOTAL: Suero facial despigmentante de última generación con avanzada tecnología despigmentante; previene el fotodaño y el fotoenvejecimiento prematuro, con un FPS 50+ que protege contra la radiación UVA/UVB, luz visible y radiación infrarroja.

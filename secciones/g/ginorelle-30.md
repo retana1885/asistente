@@ -1,0 +1,143 @@
+# GINORELLE 30
+
+**URL:** https://www.medicamentosplm.com/home/productos/ginorelle-30-comprimidos/2877/101/66264/25
+
+**Sección:** G
+
+**Acceso restringido detectado:** True
+
+---
+
+## COMPOSICIÓN
+
+FORMA FARMACÉUTICA Y FORMULACIÓN:
+
+Cada COMPRIMIDO (amarillo) contiene: Drospirenona 3 mg Etinilestradiol 30 mcg Excipiente cbp 1 comprimido Cada COMPRIMIDO (blanco) contiene: Excipiente cbp 1 comprimido
+
+## INDICACIONES TERAPÉUTICAS
+
+INDICACIONES TERAPÉUTICAS: Anticonceptivo oral, que contrarresta la acción mineral corticoide y androgénica, que resulta beneficioso para mujeres que presentan retención de líquidos y para mujeres con acné y seborrea.
+
+## PROPIEDADES FARMACÉUTICAS
+
+FARMACOCINÉTICA Y FARMACODINAMIA: Farmacodinamia: El efecto anticonceptivo de los AOC"s (anticonceptivos orales combinados) se basa en la interacción de diversos factores, entre ellos; la inhibición de la ovulación y los cambios en la secreción cervical. Aunado a la protección contra el embarazo, los AOC"s tienen también propiedades positivas que, pueden ser útiles al optar por un método de control de la natalidad, ya que, el ciclo es más regular, la menstruación suele ser menos dolorosa y el sangrado menos intenso. Esto último puede reducir la incidencia de déficit de hierro. La drospirenona tiene propiedades benéficas además de la anticoncepción. La drospirenona tiene actividad antimineralocorticoide que puede evitar el incremento de peso y de algunos otros síntomas causados por la retención de líquidos. Compensa la retención de sodio causada por los estrógenos, lo que da lugar a una muy buena tolerancia y tiene efectos positivos sobre el síndrome premenstrual. En combinación con etinilestradiol, la drospirenona exhibe un perfil lípido favorable con aumento de la HDL. La drospirenona ejerce actividad antiandrogénica, lo que produce un efecto positivo sobre la piel y una reducción de las lesiones del acné y de la producción de sebo. Además la drospirenona no contrarresta el aumento de la SHBG (globulina fijadora de hormonas sexuales) inducido por el etinilestradiol, la cual es útil para la unión e inactivación de los andrógenos endógenos. La drospirenona carece de toda actividad androgénica, estrogénica, glucocorticoide y antiglucocorticoide. Esto, junto con sus propiedades antimineralocorticoide y antiandrógena. Le confiere un perfil bioquímico y farmacológico muy similar al de la hormona natural progesterona. Con los AOC"s de dosis más altas (50 μg de etinilestradiol) hay evidencia de un menor riesgo de tumores fibroquísticos en las mamas, quistes ováricos, enfermedad pélvica inflamatoria, embarazo ectópico y cáncer de endometrio y ovario. Está pendiente de confirmar si esto también aplica a los AOC"s de dosis bajas. Drospirenona: Administrada por vía oral, la drospirenona se absorbe rápidamente y casi en su totalidad. Las concentraciones máximas del fármaco en suero de aproximadamente 35 ng/ml se alcanzan después de 1-2 horas de la ingestión de una dosis única. La biodisponibilidad está comprendida entre el 76 y 85%. La ingestión de alimentos no influyó en la biodisponibilidad de la drospirenona cuando se comparó con la ingestión del fármaco con el estómago vacío. Tras su administración por vía oral, los niveles de drospirenona en cuerpo disminuyen en dos fases que se caracterizan por una vida media de 1.6 ± 0.7 horas y 27.00 ± 7.5 horas, respectivamente, la drospirenona se une a la albúmina sérica y no se une a la globulina fijadora de hormonas sexuales SHBG ni a la globulina fijadora de corticoides CBG. Sólo del 3 a 5% de las concentraciones totales del fármaco en suero están presentes en forma de esteroide libre. El aumento de la SHBG inducido por el etinilestradiol no afecta la unión de la drospirenona a las proteínas del suero. El volumen de distribución medio aparente de la drospirenona es de 3.7 ± 1.2 Kg. La drospirenona se metaboliza extensamente tras su administración por vía oral. En plasma, los principales metabolitos son la forma ácida de la drospirenona que se genera por la apertura del anillo lactona, el 4.5 = dihidro - drospirenona- 3 sulfato, los dos se forman sin la intervención del sistema P-450. La drospirenona es metabolizada por el citocromo P-450 3A4, el citocromo P-450 1A1, el citocromo P-450 2C9 y el citocromo P-450 2C19 in vitro . La tasa de depuración metabólica de la drospirenona en suero es de 1.5 ± 0.2 ml/min/kg. La drospirenona se elimina sólo en cantidades mínimas en forma intacta. Los metabolitos de la drospirenona se eliminan por heces y orina y el cociente de eliminación es de 1.2 a 1.4 aproximadamente. La vida media de eliminación de los metabolitos por orina y heces es de unas 40 horas. Durante un ciclo de tratamiento se alcanzan concentraciones máximas de drospirenona en fase de equilibrio de unos 60 ng/ml entre los días 7 y 14 del tratamiento. Los niveles séricos de drospirenona se acumularon en un factor de 2 a 3 aproximadamente, como consecuencia del cociente de vida media terminal y del intervalo de administración. Se observó nueva acumulación de los niveles de drospirenona superior a los niveles de los ciclos de tratamiento entre los ciclos 1 y 6, pero posteriormente no se observó más acumulación. Etinilestradiol: El etinilestradiol administrado por vía oral se absorbe rápida y completamente. Las concentraciones séricas máximas de aproximadamente 88 a 100 pg/ml se alcanzan a las 1-2 horas de la administración de una dosis oral única. La biodisponibilidad absoluta como resultado de la conjugación presistémica y del metabolismo de primer paso es aproximadamente del 60%. La ingestión concomitante de alimentos redujo la biodisponibilidad de etinilestradiol en 25% de los sujetos estudiados, mientras que no se observó ningún cambio en los demás. Los niveles séricos de etinilestradiol disminuyen en dos fases: la fase de eliminación terminal se caracteriza por una vida media de aproximadamente 24 horas. El etinilestradiol se une en gran medida pero de forma inespecífica a la albúmina sérica (aproximadamente 98.5%), e induce un aumento en las concentraciones séricas de SHBG. Se determinó un volumen de distribución aparente de 5 l/kg. El etinilestradiol es sometido a conjugación presistémica tanto en la mucosa del intestino delgado como en el hígado. El etinilestradiol es metabolizado principalmente mediante hidroxilación aromática, pero con formación de diversos metabolitos hidroxilados y metilados que están presenten como metabolitos libres y como conjugados con glucurónidos y sulfato. La tasa de depuración metabólica del etinilestradiol es de aproximadamente 5 ml/min/kg. El etinilestradiol no se elimina en forma intacta en grado significativo. La proporción de eliminación urinaria: biliar de los metabolitos de etinilestradiol es de 4:6. La vida media de eliminación de los metabolitos es de 1 día aproximadamente.
+
+## CONTRAINDICACIONES
+
+CONTRAINDICACIONES: El uso de AOC"s está contraindicado en presencia de cualquiera de las situaciones enumeradas a continuación, y se debe suspender inmediatamente el uso del preparado si se presenta cualquiera de ellas por primera vez durante su empleo:
+
+ Trombosis (venosa o arterial) actual o antecedentes de la misma (por ejemplo, trombosis venosa profunda, embolia pulmonar, infarto de miocardio, accidente cerebrovascular).
+
+ Presencia o antecedentes de pródomos de una trombosis (por ejemplo, ataque isquémico transitorio, angina de pecho).
+
+ Diabetes mellitus con compromiso vascular.
+
+ La presencia de un factor de riesgo grave o de múltiple factores de riesgo de trombosis arterial o venosa.
+
+ Presencia o antecedentes de enfermedad hepática severa en tanto que los valores de la función hepática no hayan retornado a lo normal.
+
+ Tumores hepáticos actuales o antecedentes de los mismos (benignos o malignos).
+
+ Neoplasias conocidas o sospechas de las mismas en los órganos genitales o de las mamas, si son influidas por los esteroides sexuales.
+
+ Hemorragia vaginal sin diagnosticar.
+
+ Embarazo conocido o sospecha del mismo.
+
+## RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA
+
+RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA: Estudios epidemiológicos no han revelado un riesgo elevado de defectos de nacimiento en hijos de madres que emplearon AOC" s antes del embarazo ni de efectos teratogénicos cuando se tomaron AOC"s inadvertidamente durante la fase inicial de la gestación (léase también las contraindicaciones). Sin embargo, no se recomienda su uso durante el embarazo. La lactancia puede resultar afectada por los AOC"s dado que éstos pueden reducir la cantidad de leche y alterar su composición, por lo tanto, no se debe recomendar en general el empleo de AOC"s hasta tanto la madre no haya suspendido completamente la lactación. Pequeñas cantidades de esteroides anticonceptivos y/o de sus metabolitos se pueden eliminar por la leche, aunque no hay evidencia de que esto afecte negativamente la salud del lactante.
+
+## REACCIONES ADVERSAS
+
+REACCIONES SECUNDARIAS Y ADVERSAS: Se han comunicado los siguientes efectos secundarios en usuarias de AOC"s y la asociación no ha sido confirmada ni refutada. Hipersensibilidad, dolor o secreción en las mamas, cefalea, migraña, cambios de la libido, estados depresivos, intolerancia a los lentes de contacto, náuseas, vómitos, cambios en la secreción vaginal, diversos trastornos cutáneos, retención de líquido, cambio del peso corporal, reacción de hipersensibilidad.
+
+PRECAUCIONES EN RELACIÓN CON EFECTOS DE CARCINOGÉNESIS, MUTAGÉNESIS, TERATOGÉNESIS Y SOBRE LA FERTILIDAD: Se realizaron estudios de toxicidad animal para estimar el riesgo en humanos con ambos componentes del preparado, etinilestradiol y drospirenona y en algunos casos con la combinación. No se observó ningún efecto que indicara un riesgo inesperado en humanos durante los estudios de tolerancia sistémica después de la administración repetida. Los estudios de toxicidad a largo plazo con dosis repetidas no revelaron potencial tumorogénico. Sin embargo, hay que considerar que los esteroides sexuales pueden promover el crecimiento de ciertos tejidos y tumores hormonodependientes. Los estudios de embriotoxicidad y teratogenicidad y la evaluación de los efectos de la combinación sobre la fertilidad de los animales progenitores, el desarrollo fetal, la lactancia y la función reproductiva de la descendencia no ofrecieron ningún indicio de riesgo de efectos adversos en el ser humano después del uso recomendado del preparado. En especial, el efecto feminizante observado en fetos machos de rata después del tratamiento de animales preñados durante la fase sensible de diferenciación sexual fetal no plantea ningún problema con respecto a la evaluación de la seguridad en el humano, ya que apareció sólo después de exposiciones al fármaco significativamente mayores que aquellas observadas en usuarias. Aunque se encontraron interacciones entre la drospirenona y el ADN de células hepáticas que indican un potencial genotóxico en estudios in vitro e in vivo realizados en ratas, no se observó ningún hallazgo de este tipo en células hepáticas humanas in vitro . Además, las pruebas de mutagenicidad no aportan ningún indicio de un potencial mutagénico del compuesto. Por lo tanto, no puede deducirse ningún potencial mutagénico de esta información.
+
+## INTERACCIONES MEDICAMENTOSAS Y DE OTRO GÉNERO
+
+INTERACCIONES MEDICAMENTOSAS Y DE OTRO GÉNERO: Las interacciones farmacológicas que dan lugar a un aumento de la depuración de las hormonas sexuales pueden producir hemorragia por disrupción y falla del anticonceptivo oral. Esto se ha establecido con las hidantoínas, barbitúricos, primidona, Carbamazepina y rifampicina; también se sospecha de la oxocarbazepina, topiramato, felbamato y gliseofulvina. Al parecer esta interacción se basa en las propiedades de inducción enzimática hepática de estos fármacos. Habitualmente no se observa una inducción enzimática máxima durante 2-3 semanas, pero puede mantenerse entonces al menos hasta por 4 semanas después de la suspensión del tratamiento farmacológico. También se han comunicado fallas anticonceptivas cuando se usó concomitantemente con antibióticos como ampicilinas y tetraciclinas. No se ha dilucidado el mecanismo de este efecto. Las mujeres tratadas durante periodos cortos con cualquiera de las clases de fármacos o de los fármacos individuales antes mencionados deben usar un método de barrera además de AOC"s durante el tiempo de administración concomitante de los fármacos y en los 7 días siguientes a la suspensión. Las mujeres tratadas con rifampicina deben utilizar un método de barrera además del AOC"s mientras dure la administración de rifampicina y en los 28 días siguientes a su suspensión. Si la administración de un fármaco concomitante dura más que la de los comprimidos del envase del AOC"s, se empezará el siguiente envase del AOC"s sin usar los comprimidos de placebo. En mujeres bajo tratamiento a largo plazo con fármacos inductores de enzimas hepáticas, los expertos han recomendado aumentar la dosis de esteroides anticonceptivos. Si no resulta deseable utilizar una dosis elevada de anticonceptivos o si parece no satisfactorio o poco fiable (por ejemplo, en caso de hemorragia irregular), se debe aconsejar otro método anticonceptivo. La drospirenona es un sustrato del citocromo P-450 3A4, aunque sus principales metabolitos en el plasma humano se generan sin la participación del sistema del citocromo P-450. Este fármaco tiene una acción inhibitoria débil a moderada sobre el modelo de recambio de sustratos del citocromo P-450 1A1, el citocromo P-450 2C9, el citocromo P-450 2C19 y el citocromo P-450 3A4 in vitro . Se ha comunicado que la drospirenona es un inhibidor reversible del citocromo P-450 3A4. No puede excluirse la interferencia de la drospirenona con el metabolismo in vivo de otros fármacos en el que se participen estas isoenzimas. La drospirenona no afectó al modelo de recambio de sustrato del citocromo P-450 1A2 y del citocromo P-450 D6 in vitro . Aunque no se han realizado estudios clínicos de interacción, de acuerdo con los resultados in vitro disponibles y la información de que se dispone sobre el metabolismo in vivo de la drospirenona en el hombre, este fármaco muestra una tendencia escasa a interactuar de forma significativa con las enzimas del citocromo P-450 a dosis clínicas. No obstante, los inhibidores del citocromo P-450, como el ketoconazol, la eritromicina, la Ciclosporina y otros, pueden inhibir el metabolismo de la drospirenona.
+
+## HALLAZGOS DE LABORATORIO CLÍNICO
+
+ALTERACIONES EN LOS RESULTADOS DE PRUEBAS DE LABORATORIO: El uso de esteroides anticonceptivos puede afectar los resultados de ciertas pruebas de laboratorio, como los parámetros bioquímicos de función hepática, tiroidea, suprarrenal y renal, los niveles plasmáticos de proteínas (transportadoras), por ejemplo, la globulina transportadora de corticosteroides y las fracciones de lípido/lipoproteínas, los parámetros del metabolismo de los hidratos de carbono y los parámetros de la coagulación y la fibrinólisis. Por lo general, los cambios permanecen dentro de los límites normales del laboratorio.
+
+## PRECAUCIONES Y ADVERTENCIAS
+
+PRECAUCIONES GENERALES: Hay que evaluar la relación riesgo/beneficio del uso de los AOC"s para cada mujer en particular. En caso de aparición por primera vez de cualquier situación o factor de riesgo, la mujer debe ponerse en contacto con su médico, quien decidirá si debe interrumpir el empleo de AOC"s. Algunas de las siguientes situaciones pueden ser un factor de riesgo: Trastornos circulatorios: Estudios epidemiológicos han sugerido una asociación entre el uso de AOC"s y un riesgo incrementado de enfermedades tromboembólicas arteriales y venosas, como infarto de miocardio, accidente cerebrovascular, trombosis venosa profunda y embolismo pulmonar. Durante el empleo de todos los AOC"s, puede aparecer tromboembolismo venoso (TEV), que se manifiesta como una trombosis venosa profunda y/o embolismo pulmonar. La incidencia aproximada de TEV en usuarias de AOC"s con estrógenos a dosis bajas (< 50 μg EE) es de hasta 4 por 10,000 mujeres-año, frente a 0.5-3 por 10,000 mujeres-año en las mujeres no usuarias de AOC"s. No obstante, la incidencia de TEV durante el empleo de AOC"s es sustancialmente menor que la incidencia asociada al embarazo (6 por 10,000 mujeres embarazadas -año). Los síntomas de trombosis venosa o arterial suelen ser: dolor y/o inflamación en una sola pierna, dolor torácico intenso súbito, el cual puede irradiar al brazo izquierdo, disnea repentina, tos de inicio repentino, cefalea no habitual, intensa y prolongada, pérdida súbita de la visión, parcial o completa; diplopía, alteraciones del habla o afasia, vértigo; colapso con o sin convulsiones focales; debilidad o entumecimiento marcado que afecta de forma repentina a un lado o a una parte del cuerpo, trastornos motores, abdomen "agudo". El riesgo de tromboembolismo (arterial y/o venoso) aumenta con:
+
+ Edad.
+
+ Tabaquismo (con un consumo importante y mayor edad el riesgo aumenta, especialmente en mujeres mayores de 35 años).
+
+ Antecedentes familiares positivos. Si se sospecha que existe una predisposición hereditaria, la mujer debe ser remitida a una especialista antes de tomar la decisión de usar cualquier anticonceptivo.
+
+ Obesidad (índice de masa corporal mayor de 30 kg/ m 2 ).
+
+ Dislipoproteinemia.
+
+ Hipertensión.
+
+ Valvulopatía cardiaca.
+
+ Fibrilación auricular.
+
+ Inmovilización prolongada, cirugía mayor, cualquier intervención quirúrgica en las piernas o traumatismo mayor. En estas circunstancias es aconsejable suspender del uso de AOC"s (en caso de cirugía programada, al menos con cuatro semanas de antelación) y no reanudarlos hasta dos semanas después de la recuperación completa de la movilidad.
+
+El médico debe tener en cuenta que el tratamiento adecuado de una enfermedad puede reducir el riesgo asociado de trombosis y que en algunos casos el riesgo asociado al embarazo es mayor que el asociado al uso de AOC"s. En algunos estudios epidemiológicos se ha comunicado un aumento del riesgo de cáncer cervical en usuarias de AOC"s a largo plazo, pero sigue debatiéndose hasta qué punto este hallazgo es atribuible a los efectos de la conducta sexual que pueden inducir a error y a otros factores, como el virus de papiloma humano (VPH). Según un meta análisis de 54 estudios epidemiológicos existe un ligero aumento del riesgo relativo (RR = 1.24) de que se diagnostique cáncer de mama en mujeres que están usando actualmente AOC"s. El exceso de riesgo desaparece paulatinamente en el curso de los 10 años siguientes a la suspensión de los AOC"s. Dado que el cáncer de mama es raro en mujeres menores de 40 años, el exceso de diagnósticos de cáncer de mama en usuarias actuales y recientes de AOC"s es pequeño en relación con el riesgo total de cáncer de mama. El patrón observado de aumento del riesgo puede deberse a un diagnóstico de cáncer de mama más precoz en usuarias de AOC"s, que a los efectos biológicos de los AOC"s o a una combinación de ambos. Los cánceres de mama que se diagnostican en mujeres que han utilizado AOC"s en alguna ocasión tienden a estar menos avanzados desde el punto de vista clínico que los diagnosticados en quienes nunca los han usado. En usuarias de AOC"s se ha observado en raras ocasiones tumores hepáticos benignos, y más raramente aun malignos, que en casos aislados han provocado hemorragias en la cavidad abdominal con peligro para la vida de la paciente. Debe considerarse la posibilidad de un tumor hepático en el diagnóstico diferencial de mujeres que toman AOC"s y presentan dolor abdominal superior intenso, aumento de tamaño del hígado o signos de hemorragia intraabdominal. El efecto antimineralocorticoide de la drospirenona puede contrarrestar el aumento de la presión arterial inducido por el etinilestradiol observado en mujeres normotensas que emplean otros anticonceptivos orales combinados. No se ha establecido la existencia de una relación entre el uso de AOC"s y la hipertensión clínica. No obstante, si aparece una hipertensión clínicamente significativa y sostenida cuando se usan AOC"s, es prudente que el médico retire la administración de AOC"s para tratar la hipertensión y cuando lo considere apropiado, puede reiniciar el uso de AOC"s, si con el tratamiento antihipertensivo se alcanzan valores de presión normales. Los trastornos agudos o crónicos de la función hepática pueden obligar a suspender el uso de AOC"s hasta que los marcadores de función hepática retornen a valores normales. La recurrencia de una ictericia colestásica que se haya presentado por primera vez durante el embarazo o durante el uso previo de esteroides sexuales obliga a suspender los AOC"s. Aunque los AOC"s pueden tener un efecto sobre la resistencia periférica a la insulina y sobre la tolerancia a la glucosa, no existe evidencia suficiente para alterar el régimen terapéutico en diabéticas que empleen AOC"s. No obstante, las mujeres diabéticas que tomen AOC"s deben ser observadas cuidadosamente. Se ha asociado el empleo de AOC"s con la enfermedad de Crohn y la colitis ulcerosa. Puede producirse cloasma ocasionalmente, sobre todo en mujeres con antecedentes de cloasma gravídico. Las mujeres con tendencia al cloasma deben evitar la exposición al sol a los rayos ultravioleta mientras tomen AOC"S. Antes de iniciar o reanudar el tratamiento con AOC"s es necesario obtener una historia clínica y un examen físico completo, y éstos deban repetirse como mínimo una vez al año durante el uso de los AOC"s. Es importante la evaluación médica periódica, porque pueden aparecer contraindicaciones (por ejemplo, un ataque isquémico, transitorio, etc.), o factores de riesgo (por ejemplo, antecedentes familiares de trombosis arterial o venosa), por primera vez durante el empleo de los AOC"s. La frecuencia y la naturaleza de estas evaluaciones deben adaptarse a cada mujer, aunque generalmente debe presentarse una especial atención a la presión arterial, mamas, abdomen y órganos pélvicos, incluida la citología cervical y pruebas de laboratorio relevantes. Se debe advertir a las mujeres que los anticonceptivos orales no protegen contra la infección por el VIH (SIDA) ni contra otras infecciones de transmisión sexual. La eficacia de los AOC"s puede disminuir si la mujer olvida tomar los comprimidos, en caso de vómitos o si toma medicación concomitante. Todos los AOC"s pueden dar lugar a sangrados irregulares, especialmente durante los primeros meses de uso. Por consiguiente, la evaluación de cualquier hemorragia irregular sólo tendrá sentido tras un intervalo de adaptación de unos tres ciclos. Si las irregularidades de sangrado persisten o se producen tras ciclos que antes eran regulares, habrá que tener en cuenta posibles causas no hormonales y se puede diagnosticar proceder a un legrado para excluir trastornos malignos o embarazo. Es posible que en algunas mujeres no se produzca hemorragia por deprivación durante el intervalo de administración de placebo. Si ha tomado AOC"s siguiendo las instrucciones, es improbable que la mujer esté embarazada. Sin embargo, si no ha tomado los AOC"s siguiendo las instrucciones antes de la primera hemorragia por deprivación que falta o si no se presentan dos hemorragias por deprivación de manera consecutiva, se debe descartar un embarazo antes de seguir usando AOC"s.
+
+## DOSIS Y VÍA DE ADMINISTRACIÓN
+
+DOSIS Y VÍA DE ADMINISTRACIÓN:
+
+Vía de administración: Oral. Dosis: Los comprimidos deben ingerirse todos los días aproximadamente a la misma hora, con una cantidad suficiente de líquido. Los comprimidos se extraen siguiendo el sentido de la flecha indicada en el envase, comenzando siempre con el primer comprimido de color amarillo, y al finalizar éstos, al día siguiente y sin ninguna interrupción se toma un comprimido por día de color blanco hasta finalizar el envase. Debe ingerirse diariamente un comprimido durante 28 días consecutivos. Al día siguiente de la toma del último comprimido de un envase se comienza con la ingestión de los comprimidos del envase siguiente. Por lo general un sangrado similar al menstrual se produce luego de la toma del último comprimido de color amarillo. Comienzo de ingestión de comprimidos: Se debe comenzar con la ingestión de los comprimidos el primer día del ciclo, es decir, el primer día del sangrado menstrual. Cambio desde otro anticonceptivo oral combinado: Comenzar el tratamiento con GINORELLE ® al día siguiente de la toma del último comprimido de un envase anterior luego de la toma del último comprimido de placebo del envase anterior. Cambio de un preparado con gestágeno solo (micropíldora inyectable implante): En caso de estar tomando un anticonceptivo de gestágeno solo (micropíldora) puede efectuarse el cambio en cualquier día; el cambio desde un implante se efectúa el día de retiro del mismo, y desde un preparado inyectable, el día que debiera aplicarse la siguiente inyección. Después de un aborto espontáneo en el primer trimestre: La ingestión puede comenzar inmediatamente, no siendo necesarias en este caso medidas anticonceptivas adicionales. Después de un alumbramiento o un aborto espontáneo en el segundo trimestre: Deberá indicarse a la paciente el comienzo de la ingestión en los 21 o 28 días posteriores a un alumbramiento o un aborto espontáneo en el segundo trimestre. En caso de comenzar más tarde, la paciente debe emplear adicionalmente un método de barrera durante los primero 14 días. Si ya se mantuvieron relaciones sexuales, debe excluirse la posibilidad de un embarazo antes de comenzar la ingestión o esperar el primer sangrado menstrual. En caso de olvidarse de la ingestión de los comprimidos amarrillos (activos, con hormonas): La mujer debe tomar el comprimido en cuanto se dé cuenta del olvido y ha de seguir tomando los siguientes a la hora habitual. Cuantos más comprimidos haya olvidado y cuanto más cerca se encuentre del intervalo usual sin medicación, mayor es el riesgo de embarazo. Si la toma de un comprimido se retrasa más de 12 horas, la mujer debe tomar el mismo tan pronto como se acuerde, incluso si esto significara tomar dos comprimidos a la vez (debiendo tomar los siguientes a la hora habitual) y debe utilizar un método anticonceptivo de barrera adicional durante los primeros 14 días de la toma. Si se sufre de vómitos o diarrea en las primeras 3 a 4 horas después de la ingestión de uno de los comprimidos de color amarillo es factible que el organismo no absorba completamente el principio activo. Por ello, debe ingerirse a la brevedad otro comprimido.
+
+## MANIFESTACIONES Y MANEJO DE LA SOBREDOSIFICACIÓN O INGESTA ACCIDENTAL
+
+MANIFESTACIONES Y MANEJO DE LA SOBREDOSIFICACIÓN O INGESTA ACCIDENTAL: No ha habido reportes de efectos graves debido a sobre dosificación. Los síntomas que pueden ocurrir en estos casos son: náuseas, vómitos y en niñas hemorragia vaginal leve. No existe antídoto y el tratamiento debe ser sintomático.
+
+## PRESENTACIÓN
+
+PRESENTACIONES: Caja de cartón con 28 comprimidos (21 de color amarrillo conteniendo los fármacos y 7 de color blanco conteniendo placebo).
+
+## RECOMENDACIONES SOBRE ALMACENAMIENTO
+
+RECOMENDACIONES SOBRE ALMACENAMIENTO: Consérvese a no más de 30°C.
+
+## LEYENDAS DE PROTECCIÓN
+
+LEYENDAS DE PROTECCIÓN:
+
+Literatura exclusiva para médicos. Su venta requiere receta médica. No se deje al alcance de los niños. No se use durante el embarazo ni en la lactancia. Léase instructivo anexo.
+
+Reporte las sospechas de reacción adversa al correo: [farmacovigilancia@cofepris.gob.mx](mailto:farmacovigilancia@cofepris.gob.mx) y/o [farmacovigilanciamx@exeltis.com.](mailto:farmacovigilanciamx@exeltis.com.)
+
+Hecho en España por:
+
+Laboratorios León Farma S.A.
+
+C/La Vallina s/n, Polígono Industrial Navatejera,
+
+Villaquilambre 24008 (León), España.
+
+Importado y distribuido por:
+
+Exeltis Pharma México S.A. de C.V.
+
+Parque Prologis Álamos,
+
+Calle Olivo s/n Nave 6B lnt. 16, Col. Recursos Hidráulicos,
+
+C.P. 54913, Tultitlán, Estado de México, México.
+
+Representante Legal:
+
+EXELTIS PHARMA MÉXICO S.A. de C.V.
+
+Avenida Revolución, No. 1267, Piso 19,
+
+Col. Los Alpes, C.P. 01040,
+
+Deleg. Álvaro Obregón, Ciudad de México, México.
+
+Reg. Núm. 253M2012, SSA IV

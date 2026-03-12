@@ -1,0 +1,113 @@
+# SABIMA
+
+**URL:** https://www.medicamentosplm.com/home/productos/sabima-suspension/16/101/9632/194
+
+**Sección:** S
+
+**Acceso restringido detectado:** True
+
+---
+
+## COMPOSICIÓN
+
+FORMA FARMACÉUTICA Y FORMULACIÓN:
+
+Cada TABLETA contiene:
+
+Secnidazol 500 mg
+
+Excipiente, c.b.p. 1 tableta.
+
+SUSPENSIÓN:
+
+Secnidazol 0.750 g
+
+Excipiente, c.b.p. 1.755 g.
+
+Una vez hecha la mezcla cada cucharadita de 5 ml contiene el equivalente a 125 mg de secnidazol.
+
+## INDICACIONES TERAPÉUTICAS
+
+INDICACIONES TERAPÉUTICAS: SABIMA MR está indicado para el tratamiento de la amebiasis, giardiasis, tricomoniasis y vaginosis bacteriana.
+
+## PROPIEDADES FARMACÉUTICAS
+
+FARMACOCINÉTICA Y FARMACODINAMIA: El secnidazol pertenece a la familia de los 5-nitroimidazoles, con una actividad anaeróbica in vitro similar a la de los derivados 5-nitroimidazoles y una mayor vida media de eliminación in vivo.
+
+Estudios in vivo demuestran que el secnidazol es efectivo contra E. histolytica, T. vaginalis , G. lamblia y Gardnerella vaginalis al producir la degradación del DNA, así como la inhibición de la síntesis del ácido nucleico. Después de su administración oral, el secnidazol se absorbe rápidamente en el tubo digestivo, distribuyéndose en los diversos líquidos corporales, alcanzando altas concentraciones en saliva, bilis, líquido seminal, huesos, hígado, pulmones y secreciones vaginales.
+
+Vida media plasmática: Después de la administración oral de 2 g, el secnidazol presenta concentraciones plasmáticas máximas rápidamente, las cuales persisten hasta por 48-72 horas en niveles sanguíneos terapéuticos.
+
+El secnidazol se metaboliza en el hígado y se elimina por la orina, heces y leche materna como secnidazol en forma inalterada, conjugados glucurónidos, conjugados de sulfato y derivados hidroxilados. La vida media de eliminación es de aproximadamente 20 horas y el aclaramiento total es de 25 ml/min.
+
+## CONTRAINDICACIONES
+
+CONTRAINDICACIONES: El secnidazol está contraindicado en pacientes hipersensibles al principio activo o sus derivados 5-nitroimidazoles, así como también en pacientes con discrasias sanguíneas.
+
+## RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA
+
+RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA: Se carece de estudios bien controlados en mujeres embarazadas, por lo que secnidazol debe ser administrado durante el embarazo cuando sea estrictamente necesario y previa valoración del posible riesgo-beneficio de su administración. No se recomienda su administración durante el primer trimestre del embarazo. No debe ser usado en mujeres que le estén dando pecho al recién nacido, en todo caso deberá suspenderse la lactancia al seno materno.
+
+## REACCIONES ADVERSAS
+
+REACCIONES SECUNDARIAS Y ADVERSAS: El secnidazol habitualmente es bien tolerado, pero pueden presentarse náuseas, vómito, dolor epigástrico, diarrea, vértigo y sabor metálico.
+
+PRECAUCIONES EN RELACIÓN CON EFECTOS DE CARCINOGÉNESIS, MUTAGÉNESIS, TERATOGÉNESIS Y SOBRE LA FERTILIDAD: El secnidazol no presenta potencial carcinogénico, mutagénico, teratogénico ni existen reportes de alteraciones sobre la fertilidad.
+
+## INTERACCIONES MEDICAMENTOSAS Y DE OTRO GÉNERO
+
+INTERACCIONES MEDICAMENTOSAS Y DE OTRO GÉNERO: La administración concomitante del secnidazol con: anticoagulantes potencia el efecto de éstos.
+
+Fenobarbital disminuye la vida media plasmática del secnidazol. Litio se asocia con potencial de toxicidad. Alcohol produce intolerancia etílica.
+
+## HALLAZGOS DE LABORATORIO CLÍNICO
+
+ALTERACIONES EN LOS RESULTADOS DE PRUEBAS DE LABORATORIO: El secnidazol puede interferir con las pruebas de funcionamiento hepático (transaminasas) y de enzimas hepáticas en sangre, produciendo resultados anormalmente bajos; asimismo interfiere con el método de hexoquinasa para determinar las concentraciones de glucosa en plasma. Existen reportes de interferencia del secnidazol en los ensayos para determinar las concentraciones en procainamida.
+
+## PRECAUCIONES Y ADVERTENCIAS
+
+PRECAUCIONES GENERALES: Realizar la determinación del tiempo de protrombina y el monitoreo de la INR ( International Normalized Ratio ) con más frecuencia.
+
+La ingestión de bebidas alcohólicas, debe evitarse, ya que ocasiona intolerancia similar a la producida por el disulfiram.
+
+## DOSIS Y VÍA DE ADMINISTRACIÓN
+
+DOSIS Y VÍA DE ADMINISTRACIÓN: Oral.
+
+Niños: 30 mg/kg por vía oral dividido en 2 tomas con un intervalo de administración de cada 12 horas (un solo día de tratamiento).
+
+Adultos: 2 tabletas de 500 mg por vía oral cada 12 horas (un solo día de tratamiento). Previa valoración y severidad de la amebiasis intestinal el médico deberá evaluar la posibilidad de prolongar el tratamiento hasta por tres días consecutivos.
+
+En los casos de vaginosis bacteriana, tricomoniasis vaginal y uretritis, se recomienda evaluar la posibilidad de administrar el tratamiento a la pareja (un solo día de tratamiento para ambos).
+
+## MANIFESTACIONES Y MANEJO DE LA SOBREDOSIFICACIÓN O INGESTA ACCIDENTAL
+
+MANIFESTACIONES Y MANEJO DE LA SOBREDOSIFICACIÓN O INGESTA ACCIDENTAL:
+
+Manifestaciones: Náuseas, vómito y ataxia.
+
+Manejo: Sintomático y medidas de soporte.
+
+## PRESENTACIÓN
+
+PRESENTACIONES:
+
+Cajas con 4 y 8 tabletas de 500 mg.
+
+Caja y frasco con 750 mg de secnidazol en polvo para reconstituir a 30 ml.
+
+## RECOMENDACIONES SOBRE ALMACENAMIENTO
+
+RECOMENDACIONES SOBRE ALMACENAMIENTO: Consérvese a temperatura ambiente a no más de 30°C y en lugar seco.
+
+## LEYENDAS DE PROTECCIÓN
+
+LEYENDAS DE PROTECCIÓN:
+
+Su venta requiere receta médica. No se deje al alcance de los niños. No se administre simultáneamente con bebidas alcohólicas. No se use durante el embarazo y la lactancia. Literatura exclusiva para médicos.
+
+ATLANTIS, S. A. de C. V.
+
+Regs. Núms. 150M98 y 165M2000, SSA IV
+
+IEAR-06330060100804/RM2006 y EEAR-102428/R2000

@@ -1,0 +1,115 @@
+# ROSUVASTATINA
+
+**URL:** https://www.medicamentosplm.com/home/productos/rosuvastatina-tabletas/10/101/65007/210
+
+**Sección:** R
+
+**Acceso restringido detectado:** True
+
+---
+
+## COMPOSICIÓN
+
+FORMA FARMACÉUTICA Y FORMULACIÓN:
+
+Cada TABLETA contiene: Rosuvastatina 10 mg, 20 mg, 40 mg Excipiente c.b.p. 1 tableta
+
+## INDICACIONES TERAPÉUTICAS
+
+INDICACIONES TERAPÉUTICAS: Rosuvastatina, un inhibidor de la enzima 3-Hidroxi-3-Metil-Glutaril Coenzima A (HMG-CoA) reductasa, es un fármaco hipolipemiante que se utiliza en conjunto con las modificaciones en el estilo de vida, tales como adherirse a una dieta saludable y ejercicio regular, a fin de disminuir las concentraciones de colesterol LDL (LDL-C), apolipoproteína B (Apo B) y triglicéridos, así como para incrementar los niveles de colesterol HDL (HDL-C) en el tratamiento de las hiperlipidemias en pacientes adultos, incluidas:
+
+ Hipercolesterolemia familiar homocigótica como adjunto a otros tratamientos para disminuir los lípidos (Aféresis de LDL).
+
+ Hiperlipoproteinemia familiar tipo 3.
+
+ Hipercolesterolemia primaria (heterocigótica familiar y no familiar) y dislipidemia mixta (Fredrickson tipos IIa y IIb).
+
+ Hipertrigliceridemia.
+
+Así mismo, la rosuvastatina está indicada en el tratamiento de pacientes pediátricos de 10-17 años con hipercolesterolemia familiar heterocigótica para reducir el colesterol total elevado, LDL-C y Apo B cuando las modificaciones en el estilo de vida no son suficientes.
+
+## PROPIEDADES FARMACÉUTICAS
+
+FARMACOCINÉTICA Y FARMACODINAMIA: La rosuvastatina es una estatina de alta potencia, eficaz y generalmente bien tolerada durante la terapia de diversos estados dislipidémicos. Las propiedades farmacocinéticas de esta estatina son proporcionales a la dosis, con poca o ninguna acumulación después de la administración repetida. Absorción y distribución: La rosuvastatina se absorbe de forma incompleta en el tubo digestivo, con una biodisponibilidad aproximada del 20%. La tasa de absorción y el grado de exposición sistémica de la rosuvastatina son similares luego de la administración matutina o vespertina. Las concentraciones plasmáticas máximas de rosuvastatina de 19-25 μg/L se obtienen después de 3-5 horas de la administración de una dosis oral única de 40 mg en voluntarios sanos. El área bajo la curva (ABC) fue de 202-238 μg/h/L. Los valores tanto de las concentraciones máximas de rosuvastatina (Cmax) y la concentración-tiempo del área bajo la curva (ABC) de cero a 24 horas, se incrementaron linealmente con el aumento de la dosis de rosuvastatina (20-80 mg; dosis únicas o múltiples); hubo poca o ninguna acumulación después de la administración repetida. En una condición estable, el volumen promedio de distribución de rosuvastatina es de 134 litros. Se une en un 90% de forma reversible a las proteínas plasmáticas; esta unión es independiente de las concentraciones plasmáticas. Metabolismo y eliminación: La rosuvastatina es captada predominantemente por las células hepáticas, su lugar de acción principal, en donde sufre una baja biotransformación por la isoenzima CYP2C9 del citocromo P450 dando lugar a la N- desmetil rosuvastatina, el principal metabolito de la rosuvastatina. La N- desmetil rosuvastatina tiene hasta un 50% de la actividad inhibitoria de la reductasa HMG-CoA del compuesto original. La rosuvastatina es sometida principalmente a excreción biliar; aproximadamente el 90% de una dosis oral de 40 mg de rosuvastatina es recuperada en las heces (en un 92% como compuesto original y 8% como metabolitos), mientras que el resto se excreta por la orina (10%). En voluntarios sanos la semivida de eliminación plasmática es de 18 a 24 horas. Poblaciones especiales: En general, la farmacocinética de la rosuvastatina no se afectó por la edad o el género. Aunque la tasa y el grado de absorción fueron discretamente mayores en voluntarios jóvenes que en los mayores, y ligeramente menor en varones que en mujeres, estas diferencias no fueron consideradas clínicamente relevantes. La insuficiencia renal leve a moderada (depuración de creatinina ≥ 30 mL/min/1.73 m 2 ) no tuvo influencia en las concentraciones plasmáticas de rosuvastatina después de la administración de 20 mg/día por un periodo de 14 días. Sin embargo, las concentraciones plasmáticas de rosuvastatina se incrementaron 3 veces, en pacientes con insuficiencia renal severa (depuración de creatinina < 30 mL/min/1.73 m 2 ) comparada con las concentraciones en pacientes con función renal normal. Después de un tratamiento de 10 mg de rosuvastatina al día por 2 semanas, la farmacocinética de la rosuvastatina fue similar en adultos con insuficiencia hepática leve a moderada (Clase de Child-Pugh A y B) y pacientes con función hepática normal. Sin embargo, dos pacientes con disfunción hepática más importante (pacientes con los puntajes más altos en el grupo de Child-Pugh B) mostraron valores mayores para la concentración plasmática máxima y el área bajo la curva. Las concentraciones plasmáticas de rosuvastatina se incrementaron de forma modesta en pacientes con enfermedad hepática relacionada con el abuso crónico del alcohol. La terapia con rosuvastatina en pacientes asiáticos tiene eficacia similar a la observada en la población caucásica. Sin embargo, se ha reportado que la exposición sistémica a la rosuvastatina es dos veces mayor en los pacientes japoneses, chinos y malayos que en los pacientes caucásicos. Propiedades farmacodinámicas: La rosuvastatina inhibe selectiva y competitivamente a la enzima 3-Hidroxi-3-Metil-Glutaril Coenzima A (HMG-CoA) reductasa, impidiendo la conversión de HMG-CoA a mevalonato, reacción determinante en la síntesis del colesterol. La potencia de la rosuvastatina para inhibir la HMG-CoA reductasa es mayor que otras estatinas. La rosuvastatina difiere estructuralmente de otras estatinas porque contiene un grupo estable de metano sulfonamida (una fracción molecular polar o hidrofílica) que le confiere una lipofilicidad baja e incrementa su unión al sitio activo de la HMG-CoA reductasa. 1. Inhibición de la HMG-CoA Reductasa: La rosuvastatina tiene una alta afinidad por el sitio activo de la HMG-CoA reductasa, con una constante de inhibición de aproximadamente 0.1 nmol/L. La inhibición de la síntesis de colesterol por la rosuvastatina es de mayor duración que la obtenida con otras estatinas. Siete horas después de su administración oral en ratas, la rosuvastatina inhibió la síntesis hepática de colesterol en 62%, contra 13% con simvastatina (p < 0.001) y 7% con atorvastatina (p = 0.01). Además, el principal metabolito de la rosuvastatina, N- desmetil rosuvastatina, mostró también actividad inhibitoria de la HMG-CoA reductasa, que fue de aproximadamente de una sexta parte a un 50% del medicamento original. 2. Selectividad tisular: Los estudios in vivo e in vitro muestran que la rosuvastatina es eficiente y selectivamente captada por las células hepáticas. En un estudio en ratas, la tasa de captación de rosuvastatina en el hígado (0.9 mL/min/g de tejido) fue mayor que en el riñón (0.2 mL/min/g de tejido) y otros tejidos (≤ 0.02 mL/min/g de tejido). En este estudio, la pravastatina siendo relativamente hidrofílica también presentó selectividad hepática, mientras que simvastatina exhibió una alta captación en otros tejidos. La naturaleza hidrofílica de la rosuvastatina puede limitar la entrada del medicamento por difusión pasiva a través de la membrana celular en células no hepáticas. 3. Efectos sobre los niveles de los lípidos: La inhibición del colesterol hepático por rosuvastatina origina la supra-regulación de los receptores hepáticos LDL in vitro , lo que a su vez incrementa la depuración de LDL-C del plasma. En 24 voluntarios sanos, la administración de rosuvastatina 10 mg/día por la noche durante un periodo de 14 días redujo el LDL-C un 44.2%, colesterol total un 31.8%, triglicéridos un 22.7%, y apolipoproteína B (Apo B) un 35.3%. De igual manera, la rosuvastatina fue efectiva para disminuir el colesterol LDL luego de la administración matutina. Por otro lado, la rosuvastatina también afecta la producción de LDL al disminuir la producción hepática de lipoproteína de muy baja densidad (VLDL). En un estudio in vivo en ratas, el incremento de aproximadamente 8 veces de los triglicéridos VLDL asociado con diabetes mellitus se redujo de forma significativa (reducción del 78%; p < 0.01) con 20 mg de rosuvastatina. En un estudio doble ciego, cruzado, controlado con placebo donde participaron 12 pacientes adultos, dosis de rosuvastatina de 40 mg/día por 8 semanas, estimuló una reducción en los niveles plasmáticos de las lipoproteínas que contienen Apo-B altamente aterogénicas. 4. Efectos diferentes a la disminución de lípidos: La rosuvastatina también demostró otros efectos independientes a la disminución de lípidos (por ejemplo, efectos pleiotrópicos) en estudios in vitro e in vivo . Estos efectos pleiotrópicos incluyen mejorías en la función endotelial, efectos anti-inflamatorios, efectos cardiovasculares y anti-ateroscleróticos, efectos vasculo-protectores y cardio/cerebro protectores, así como mejorías en la función neuronal. CONTRAINDICACIONES: El uso de rosuvastatina está contraindicado en personas con antecedentes de hipersensibilidad a los componentes de la fórmula. Asimismo, en pacientes con enfermedad hepática activa o en quienes presentan de forma inexplicable la elevación persistente de las enzimas hepáticas. Este medicamento está contraindicado durante la lactancia y en mujeres que están embarazadas o aquellas con alto riesgo de quedar embarazadas. No se use en pacientes menores de 10 años de edad.
+
+## RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA
+
+RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA: Las estatinas incluyendo a la rosuvastatina, están contraindicadas durante el embarazo debido a que los inhibidores de la reductasa HMG-CoA interfieren con la vía de biosíntesis de colesterol y otros productos biológicamente activos y esenciales para el desarrollo fetal. El riesgo del uso de este medicamento en mujeres embarazadas sobrepasa claramente cualquier posible beneficio. Por lo tanto, la rosuvastatina está contraindicada en mujeres que están o pudieran estar embarazadas. La información sobre el uso de la rosuvastatina durante la lactancia no es concluyente o es inadecuada para determinar el riesgo. Por lo tanto, se debe valorar interrumpir la lactancia o el medicamento tomando en cuenta riesgos potenciales contra los beneficios.
+
+## REACCIONES ADVERSAS
+
+REACCIONES SECUNDARIAS Y ADVERSAS: En los ensayos clínicos de hasta 1 año de duración, la rosuvastatina fue generalmente bien tolerada por pacientes que recibieron dosis terapéuticas de 10 a 40 mg/día. En general, los efectos adversos más comúnmente reportados fueron leves y transitorios (mialgia 12.7%, constipación 4.7%, astenia 4.7%, dolor abdominal 2.4% y náusea 6.3%). La naturaleza e incidencia fue similar entre pacientes menores de 65 años y mayores. Los efectos adversos serios durante la terapia con rosuvastatina son poco comunes e involucran principalmente efectos sobre el hígado y el sistema músculo-esquelético, tales como elevación de las enzimas hepáticas, falla hepática y rabdomiólisis. Otros efectos adversos reportados incluyen: Efectos endocrino-metabólicos: Trastornos en la regulación de la glucosa en ayuno e incremento de la HbA1c. Ginecomastia. Efectos gastrointestinales: Diarrea, indigestión, pancreatitis. Efectos hematológicos: Trombocitopenia. Efectos hepáticos: Hepatotoxicidad, hepatitis, ictericia, anormalidades en las enzimas hepáticas. Efectos Inmunológicos: Reacciones de hipersensibilidad, hepatitis autoinmune, miastenia gravis. Efectos músculo-esqueléticos: Artralgia, dolor de espalda, trastornos musculares, elevaciones de la creatina-fosfocinasa (CPK), ruptura de tendón, tendinitis. Efectos neurológicos: Esclerosis lateral amiotrófica, mareo, cefalea, alteraciones en la cognición. Efectos psiquiátricos: Irritabilidad. Efectos oftálmicos: Cataratas, diplopía, oftalmoplejía, ptosis palpebral. Efectos renales: Insuficiencia renal aguda, hematuria, mioglobinuria, proteinuria. Efectos sobre la sexualidad: Disfunción eréctil. Efectos sobre la función respiratoria: Infección de vías respiratorias superiores (nasofaringitis).
+
+PRECAUCIONES EN RELACIÓN CON EFECTOS DE CARCINOGÉNESIS, MUTAGÉNESIS, TERATOGÉNESIS Y SOBRE LA FERTILIDAD:
+
+Carcinogénesis: No existe evidencia de riesgo en humanos. Teratogénesis: No existen estudios adecuados con rosuvastatina en mujeres embarazadas. La rosuvastatina cruza la placenta en ratas y conejos. Sin embargo, la teratogenicidad no fue evidente en ratas a exposiciones sistémicas equivalentes a las obtenidas a dosis terapéuticas en humanos (40 mg/día). Mientras que dosis de 50 mg/kg/día en ratas (12 veces la dosis recomendada en humanos) administrada antes del embarazo y continuada hasta 7 días postcoital, originó una disminución del peso corporal fetal y retrasó el proceso de osificación. En conejos, la rosuvastatina a dosis de 3 mg/kg/día (equivalente a dosis humanas recomendadas) durante la gestación originó una menor viabilidad fetal. Fertilidad: No existe evidencia de toxicidad reproductiva.
+
+## INTERACCIONES MEDICAMENTOSAS Y DE OTRO GÉNERO
+
+INTERACCIONES MEDICAMENTOSAS Y DE OTRO GÉNERO: La rosuvastatina sufre un pobre metabolismo hepático por la isoenzima CYP2C9, y sus concentraciones plasmáticas no se incrementan por los inhibidores del citocromo P450. Por lo tanto, resulta poco probable que se presente una interacción clínicamente relevante entre la rosuvastatina y medicamentos metabolizados por CYP3A4 (por ejemplo: ketoconazol, itraconazol, eritromicina, claritromicina). Por otro lado, la rosuvastatina es un sustrato de la captación hepática activa (proteína transportadora de aniones orgánicos OATP1B1). El uso concomitante de Rosuvastatina con medicamentos que son inhibidores de estas proteínas transportadoras, puede ocasionar elevación de las concentraciones de la rosuvastatina e incrementar el riesgo de miopatía. Se han observado incrementos de las concentraciones plasmáticas de rosuvastatina con fármacos como ciclosporina y, en menor medida, con gemfibrozilo, por lo que tales combinaciones deben evitarse. En particular, la exposición a la rosuvastatina fue significativamente mayor en receptores de trasplante en terapia inmunosupresora con ciclosporina. En caso de que deban administrase juntos, es necesario reducir las dosis de rosuvastatina (véase Dosis y vía de administración). La coadministración de antiácidos y rosuvastatina disminuyó la concentración plasmática de la estatina hasta un 54%. Sin embargo, si el antiácido se administra 2 horas posteriores a la ingesta de la rosuvastatina no se presentan cambios en las concentraciones plasmáticas del fármaco que sean clínicamente relevantes. Se ha sugerido una interacción entre la rosuvastatina y amiodarona, que puede provocar un incremento de los niveles de transaminasas. La coadministración de rosuvastatina y el antiarrítmico dronedarona puede provocar incrementos en el ABC de rosuvastatina (1.4 veces más). Por otro lado, cuando se administró rosuvastatina con rifampicina o silymarin (cardo mariano) el ABC se mantuvo sin cambios. El uso conjunto de baicalin (escutelaria) y rosuvastatina puede disminuir el ABC de la estatina hasta un 47%. La administración de anticonceptivos orales (etinil estradiol y norgestrel) y rosuvastatina incrementó las concentraciones plasmáticas de etinil estradiol (26%) y norgestrel (34%). El uso concomitante de rosuvastatina y warfarina puede provocar un aumento en el índice internacional normalizado (INR por sus siglas en inglés) y en el riesgo de hemorragia. Se recomienda el monitoreo de INR en estos pacientes, tanto al inicio de la terapia y después de un ajuste de dosis de rosuvastatina.
+
+## HALLAZGOS DE LABORATORIO CLÍNICO
+
+ALTERACIONES EN LOS RESULTADOS DE PRUEBAS DE LABORATORIO: Al igual que con otras estatinas, durante la terapia con rosuvastatina se han observado elevaciones de las transaminasas hepáticas y creatina-fosfocinasa (CPK), pero en un número limitado de casos. Luego de la administración de inhibidores de la HMG-CoA reductasa incluyendo a la rosuvastatina, los niveles séricos de HbA1c y glucosa en ayuno se incrementaron significativamente. También, se han observado casos de proteinuria mediante pruebas realizadas con tiras reactivas, predominantemente entre los pacientes que recibieron dosis de 40 mg de rosuvastatina. Generalmente, la proteinuria fue transitoria y no se relacionó con deterioro de la función renal.
+
+## PRECAUCIONES Y ADVERTENCIAS
+
+PRECAUCIONES GENERALES: El consumo intenso de alcohol incrementa el riesgo de disfunción hepática. La rosuvastatina no debe administrarse en pacientes que ingieren grandes cantidades de alcohol. El uso de rosuvastatina puede provocar miopatías y rabdomiólisis, por lo que debe administrarse con precaución en pacientes que toman fármacos que incrementen la concentración de la rosuvastatina y en pacientes con hipotiroidismo descompensado o insuficiencia renal. El tratamiento con rosuvastatina debe suspenderse cuando las concentraciones de creatina-fosfocinasa (CPK) se incrementen de forma notoria. En pacientes de 65 años o mayores el riesgo de rabdomiólisis y miopatía está incrementado. Los pacientes con sepsis, infección severa, hipotensión, deshidratación, trastornos metabólicos o hidroelectrolíticos severos, trauma, cirugía mayor, crisis convulsivas incontrolables tienen alto riesgo de desarrollar insuficiencia renal secundaria a rabdomiólisis. Se han reportado casos raros de miopatía necrotizante mediada inmunológicamente (miopatía autoinmune). Se manifiesta con debilidad muscular proximal persistente y elevación de los niveles de CPK. Suspenda la terapia inmediatamente si se diagnostica miopatía o se sospecha de la misma. Los pacientes que tengan historia de enfermedad hepática, que presenten valores elevados persistentes e inexplicables de las transaminasas o síntomas clínicos de lesión hepática e ictericia deben ser vigilados estrechamente. Se recomienda realizar determinaciones periódicas de las pruebas de perfil hepático, debiendo interrumpir el tratamiento si la concentración de transaminasas hepáticas se incrementa (3 veces más por encima de los niveles normales). Se han reportado casos inexplicables de hematuria o proteinuria persistente con dosis de 40 mg de rosuvastatina. Considerar reducir la dosis si esto llegara a ocurrir. Existe evidencia de que la exposición sistémica a la rosuvastatina es mayor (incremento del doble) en pacientes asiáticos que en caucásicos. Se aconseja administrar dosis menores a estos pacientes. En reportes post comercialización de rosuvastatina se ha descrito la aparición de alteraciones cognitivas no graves (confusión, pérdida o alteración de la memoria, amnesia) que son reversibles a la suspensión del tratamiento. Como con otras estatinas, se ha observado incremento en los niveles de HbA1c y la glucosa plasmática sobre todo en pacientes con tendencia a desarrollar diabetes mellitus. Se recomienda monitorear los niveles de glucosa en pacientes de riesgo.
+
+## DOSIS Y VÍA DE ADMINISTRACIÓN
+
+DOSIS Y VÍA DE ADMINISTRACIÓN: La rosuvastatina se administra por vía oral, como dosis única en cualquier momento del día, con o sin alimentos. La terapia con rosuvastatina debe individualizarse para cada paciente de acuerdo a los niveles de colesterol y a la respuesta clínica. Dosis recomendadas en adultos: La dosis inicial recomendada de rosuvastatina es de 10 mg una vez al día. Cuando la hipercolesterolemia sea importante, como es el caso de los pacientes con hipercolesterolemia familiar homocigótica, puede comenzarse con dosis de 20 mg al día. La dosis puede ajustarse cada 2 a 4 semanas hasta un máximo de 40 mg/día. Dosis recomendadas en niños: A los niños y adolescentes de edades comprendidas entre 10 y los 17 años con hipercolesterolemia familiar heterocigótica, el rango de dosis recomendada es de 5 a 20 mg al día. La seguridad de dosis mayores de 20 mg no ha sido establecida. Dosis recomendadas en poblaciones especiales y co-administración con otros medicamentos:
+
+ La dosis de rosuvastatina administrada simultáneamente con ciclosporina debe limitarse a 5 mg una vez al día.
+
+ La rosuvastatina debe iniciarse con 5 mg/día y limitarse a un máximo de 10 mg/día en pacientes con terapia concomitante con gemfibrozilo.
+
+ Si la rosuvastatina se utiliza concomitantemente con atazanavir/ritonavir, o lopinavir/ritonavir, debe considerarse la disminución de la dosis de inicio y mantenimiento. Dosis inicial de 5 mg una vez al día y dosis máxima de 10 mg/día.
+
+ La dosis inicial recomendada en pacientes asiáticos es de 5 mg una vez al día.
+
+ Los pacientes con insuficiencia renal leve a moderada no requieren ajuste de dosis. Para los que tienen insuficiencia renal severa (depuración de creatinina menor a 30 mL/min/1.73 m 2 ) sin hemodiálisis, la dosis de inicio es 5 mg/día, se puede incrementar si es necesario a la dosis máxima de 10 mg una vez al día.
+
+ No se requiere ajuste de dosis en pacientes con insuficiencia hepática de leve a moderada. En esta población se debe valorar minuciosamente el uso de dosis mayores a 10 mg/día.
+
+## MANIFESTACIONES Y MANEJO DE LA SOBREDOSIFICACIÓN O INGESTA ACCIDENTAL
+
+MANIFESTACIONES Y MANEJO DE LA SOBREDOSIFICACIÓN O INGESTA ACCIDENTAL: La sobredosis con estatinas podría manifestarse por la acentuación de los efectos adversos. No existe antídoto específico. El manejo debe encaminarse a medidas de apoyo y tratamiento sintomático como: descontaminación con carbón activado después de grandes ingestiones o en caso de que otras sustancias están involucradas, de lo contrario no es necesario efectuar algún procedimiento. En caso de presentarse rabdomiólisis, se sugiere administrar solución salina al 0.9% para mantener la producción de orina de 2 a 3 ml/kg/hora. Se debe monitorear al paciente realizando mediciones de la función renal, hepática y CPK.
+
+## PRESENTACIÓN
+
+PRESENTACIONES:
+
+Caja con 15 o 30 tabletas de 10 mg. Caja con 15 o 30 tabletas de 20 mg. Caja con 15 o 30 tabletas de 40 mg.
+
+## RECOMENDACIONES SOBRE ALMACENAMIENTO
+
+RECOMENDACIONES SOBRE ALMACENAMIENTO: Consérvese a no más de 30ºC en lugar seco.
+
+## LEYENDAS DE PROTECCIÓN
+
+LEYENDAS DE PROTECCIÓN:
+
+Literatura exclusiva para médicos. No se deje al alcance de los niños. Su venta requiere receta médica. No se use en el embarazo ni en la lactancia.
+
+Reporte las sospechas de reacción adversa a los correos: [farmacovigilancia@cofepris.gob.mx](mailto:farmacovigilancia@cofepris.gob.mx) y [farmacovigilancia@penipot.com.mx](mailto:farmacovigilancia@penipot.com.mx)
+
+Distribuido por:
+
+ANTIBIÓTICOS DE MÉXICO, S. A. de C. V.
+
+Las Flores No. 56, Col. La Candelaria
+
+C.P. 04380, Deleg. Coyoacán, CDMX, México.
+
+Hecho en México por:
+
+Laboratorios Pisa, S. A. de C. V.
+
+Av. Miguel Ángel de Quevedo No. 555,
+
+Col. Romero de Terreros,
+
+C.P. 04310, Deleg. Coyoacán, CDMX, México.
+
+Reg. Núm. 337M2014 SSA IV

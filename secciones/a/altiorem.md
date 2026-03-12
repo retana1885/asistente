@@ -1,0 +1,119 @@
+# ALTIOREM
+
+**URL:** https://www.medicamentosplm.com/home/productos/altiorem-tableta/2867/101/81009/1146
+
+**Sección:** A
+
+**Acceso restringido detectado:** True
+
+---
+
+## COMPOSICIÓN
+
+FORMA FARMACÉUTICA Y FORMULACIÓN:
+
+Cada TABLETA contiene: Clonixinato de lisina 125 mg Cafeína anhidra 50 mg Tartrato de ergotamina 1 mg Excipiente cbp 1 tableta
+
+## INDICACIONES TERAPÉUTICAS
+
+INDICACIONES TERAPÉUTICAS:
+
+Está indicado para el tratamiento de la cefalea de origen vascular.
+
+## PROPIEDADES FARMACÉUTICAS
+
+FARMACOCINÉTICA Y FARMACODINAMIA:
+
+Ergotamina: El tartrato de ergotamina ha sido utilizado en el tratamiento de la migraña por más de 40 años. Es considerado el medicamento de elección para los ataques agudos. Existen en el mercado algunos compuestos afines, como la dihidroergotamina, ergonovina y metilergonovina, pero son mucho menos efectivos que la ergotamina. Estos agentes ejercen en los vasos sanguíneos un efecto bloqueador adrenérgico o agonista adrenérgico, dependiendo del estado tónico del vaso al momento del tratamiento. Los vasos que están en constricción se dilatan y los que están dilatados se cierran. La ergotamina también actúa sobre los mecanismos humorales, inhibiendo la recaptación de serotonina en las plaquetas, previniendo el descenso brusco en sus niveles plasmáticos, que se piensa desencadena la cefalea. Inhibe la recaptación en los lugares de depósito de la adrenalina almacenada neuronalmente. Después de su administración oral, la absorción de ergotamina y sus derivados es muy variable, pero frecuentemente pobre, debido al parecer a la disminución en la motilidad gástrica que se observa durante el ataque agudo de migraña. Una dosis suficiente de ergotamina debe de administrarse de manera temprana, ya que su efectividad disminuye cuando la cefalea está bien establecida. Cuando se administra de manera adecuada, la ergotamina es sintomáticamente benéfica entre 80 y 90% de los pacientes. Generalmente se piensa que la administración de ergotamina durante la fase de vasoconstricción previa a la cefalea puede ser peligrosa, debido a que puede provocar o empeorar una isquemia cerebral. Sin embargo, las evidencias existentes indican que la ergotamina no reduce el flujo sanguíneo en los hemisferios cerebrales porque el territorio de la carótida interna parece que responde menos que el de la carótida externa a las propiedades vasoconstrictoras del fármaco. Una dosificación razonable es la administración de 1 mg al inicio de los síntomas, repitiéndola 30 a 60 minutos después si se requiere. Si se necesitaran dosis repetidas, una dosis de 2 mg se administra al inicio del siguiente ataque y 1 mg 30 a 60 minutos después si se requiere. Este método debe continuarse hasta que se requiera una sola dosis al inicio del ataque, o hasta que la dosis inicial alcance los 6 mg. Las acciones de la ergotamina son variadas y complejas: Actúa como agonista o antagonista parcial en receptores alfa-adrenérgicos, triptaminérgicos y dopaminérgicos (Weiner) por lo que algunos de sus efectos pueden no tener ninguna relación entre sí o ser mutuamente antagonistas. Como ejemplo, produce simultáneamente en el sistema cardiovascular vasoconstricción periférica, depresión de los centros vasomotores y bloqueo adrenérgico. La ergotamina produce vasoconstricción de arterias y venas. En las dosis usualmente empleadas reduce el flujo sanguíneo extracranéano y disminuye la hiperperfusión de las regiones irrigadas por la arteria basilar sin disminuir el flujo hemisférico cerebral, el cual puede seguir elevado varios días después del ataque. Las dosis terapéuticas de la ergotamina, actuando quizá como agonista triptaminérgico, causan una disminución del “shunting” de sangre de la arteria carótida a la vena yugular en los animales de experimentación. La ergotamina se absorbe lenta e incompletamente del tracto gastrointestinal. Por razones desconocidas, la administración simultánea de cafeína (50 a 100 mg por 1 mg de ergotamina) aumenta la absorción de concentraciones plasmáticas al doble. La cafeína actúa sobre el sistema nervioso central, llevando a una condición de vigilia, aumentando la capacidad para el esfuerzo intelectual y disminuyendo la somnolencia y la fatiga; aumenta la resistencia cerebrovascular con la consiguiente disminución de la circulación cerebral. Este último efecto puede mejorar la respuesta terapéutica en la migraña. El clonixinato de lisina es la droga de elección en el tratamiento del dolor leve a moderado. Útil para aliviar cefaleas, neuralgias y de estructuras tegumentarias. Alivia el dolor por un efecto periférico y central, ya que actúa impidiendo la formación de prostaglandinas, inhibiendo la enzima ciclooxigenasa, ya que las prostaglandinas se producen como respuesta inflamatoria, originando dolor. Se absorbe rápidamente por vía oral, principalmente en el intestino delgado. Su uso crónico no produce adicción ni tolerancia.
+
+## CONTRAINDICACIONES
+
+CONTRAINDICACIONES:
+
+Hipersensibilidad a los componentes de la fórmula. Historia de dispepsia ulcerosa. La ergotamina y sus derivados están contraindicados en pacientes con migraña hemipléjica, enfermedad vascular periférica, enfermedad coronaria, enfermedad de Reynaud, enfermedad de Buerger, Insuficiencia renal o hepática, sepsis, tirotoxicosis, hipertensión arterial importante y embarazo.
+
+## RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA
+
+RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA:
+
+Este medicamento está contraindicado durante el embarazo y la lactancia.
+
+## REACCIONES ADVERSAS
+
+REACCIONES SECUNDARIAS Y ADVERSAS:
+
+Las reacciones secundarias y adversas de la ergotamina cuando se administra a dosis terapéuticas y tomando en cuenta sus contraindicaciones son poco frecuentes y leves (náusea, vómito, astenia, dolores musculares, espasmos vasculares transitorios y adormecimiento de extremidades), y no contraindican el uso posterior del medicamento. Algunos pacientes pueden tolerar dosis altas del medicamento sin presentar efectos adversos, ya que al parecer la toxicidad a la Ergotamina es idiosincrásica y no relacionada con la dosis. La cefalea de rebote, después de la suspensión de la ergotamina cuando ésta se ha usado de manera crónica, es similar a la de la migraña. En los pacientes con este problema, se deben de suspender totalmente la Ergotamina y sus derivados. Los trastornos comunes son del tubo digestivo e incluyen pirosis, dolor abdominal y malestar epigástrico. Puede existir sangrado gastrointestinal oculto en algunos pacientes. Cuando se usa a largo plazo, puede causar úlcera gástrica, por lo que está contraindicado en pacientes con historia reciente de úlcera péptica o trastornos de la coagulación. Otros efectos colaterales encontrados son hepatotoxicidad cuando se da en grandes dosis, e intolerancia aguda. Los efectos colaterales de la cafeína son náusea, cefalea e insomnio. Su consumo excesivo en bebidas puede causar cefalea, irritabilidad y ansiedad. Grandes dosis pueden causar excitación, temblor muscular, tinnitus, escotomas, taquicardia, extrasístoles. Puede causar ulceración gástrica. Los efectos adversos del clonixinato de lisina son en general poco frecuentes e importantes. Los más frecuentes son: acidez de estómago, somnolencia, sudoración, escalofrío y náusea. Raramente puede producir insomnio, alergia, y no deben consumirse bebidas alcohólicas durante el tratamiento por que aumenta la acidez y la posible somnolencia.
+
+PRECAUCIONES EN RELACIÓN CON EFECTOS DE CARCINOGÉNESIS, MUTAGÉNESIS, TERATOGÉNESIS Y SOBRE LA FERTILIDAD:
+
+No se han realizado estudios adecuados sobre la administración de clonixinato de lisina en mujeres embarazadas y no se conoce que pase a la leche materna. No existen reportes de mutagénesis y teratogénesis, por lo que está contraindicado el uso de ergotamina en el embarazo.
+
+## INTERACCIONES MEDICAMENTOSAS Y DE OTRO GÉNERO
+
+INTERACCIONES MEDICAMENTOSAS Y DE OTRO GÉNERO:
+
+El clonixinato de lisina puede interactuar con metotrexato y corticoides (dexametasona, prednisona).
+
+## HALLAZGOS DE LABORATORIO CLÍNICO
+
+ALTERACIONES EN LOS RESULTADOS DE PRUEBAS DE LABORATORIO:
+
+No se han reportado ninguna a la fecha.
+
+## PRECAUCIONES Y ADVERTENCIAS
+
+PRECAUCIONES GENERALES:
+
+Se recomienda no duplicar las dosis, y mantener una vigilancia estrecha de las crisis migrañosas. Evitar las bebidas alcohólicas, y si los síntomas no mejoran deberá acudir al médico neurólogo.
+
+## DOSIS Y VÍA DE ADMINISTRACIÓN
+
+DOSIS Y VÍA DE ADMINISTRACIÓN:
+
+La dosificación más recomendada es la administración de 1 tableta al inicio de los síntomas, repitiéndola 30 a 60 minutos después si se requiere. Si se necesitaran dosis repetidas, una dosis de 2 tabletas se administra al inicio del siguiente ataque y 1 tableta 30 a 60 minutos después si se requiere, sin pasar de 6 tabletas.
+
+## MANIFESTACIONES Y MANEJO DE LA SOBREDOSIFICACIÓN O INGESTA ACCIDENTAL
+
+MANIFESTACIONES Y MANEJO DE LA SOBREDOSIFICACIÓN O INGESTA ACCIDENTAL:
+
+Si se excede la dosis recomendada puede presentarse mareo, nerviosismo y dificultad respiratoria; no se ha reportado depresión del Sistema Nervioso. En algunos casos de sobredosificación puede presentarse más excitación que depresión. Se recomienda tratamiento sintomático.
+
+## PRESENTACIÓN
+
+PRESENTACIONES:
+
+Caja de cartón con 2 o 15 o 30 tabletas (125 mg / 50mg / 1mg) en envase de burbuja.
+
+## RECOMENDACIONES SOBRE ALMACENAMIENTO
+
+RECOMENDACIONES SOBRE ALMACENAMIENTO:
+
+Consérvese la caja bien cerrada a no más de 30 °C. Protéjase de la luz.
+
+## LEYENDAS DE PROTECCIÓN
+
+LEYENDAS DE PROTECCIÓN:
+
+Su venta requiere receta médica, la cual se retendrá en la farmacia. No se deje al alcance de los niños. No se use en el embarazo y la lactancia. Literatura exclusiva para médicos.
+
+En caso de presentar alguna sospecha de reacción adversa al medicamento, favor de reportarla a los correos: [farmacovigilancia@cofepris.gob.mx](mailto:farmacovigilancia@cofepris.gob.mx) y [farmacovigilancia@weserpharma.com.mx](mailto:farmacovigilancia@weserpharma.com.mx) o al teléfono 800 93737 00.
+
+WESER PHARMA, S.A. de C.V.
+
+Calle 2 No. 30-A,
+
+Fraccionamiento Industrial Benito Juárez,
+
+C.P. 76120, Querétaro, Querétaro, México
+
+Distribuido por:
+
+WESER PHARMA, S.A. de C.V.
+
+Autopista Chamapa-Lechería Km. 2.5,
+
+Edificio B002, Interior B, Col. San Martín Obispo,
+
+C.P. 54769, Cuautitlán Izcalli, México, México.
+
+Reg. Núm. 249M2005 SSA II

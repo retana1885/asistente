@@ -1,0 +1,205 @@
+# PACETANDAX
+
+**URL:** https://www.medicamentosplm.com/home/productos/pacetandax-solucion/159/101/80889/146
+
+**Sección:** P
+
+**Acceso restringido detectado:** True
+
+---
+
+## COMPOSICIÓN
+
+FORMA FARMACÉUTICA Y FORMULACIÓN:
+
+El frasco ámpula con liofilizado contiene: Parecoxib sódico equivalente a 40 mg de parecoxib Vehículo cbp Diluyente La ampolleta contiene: Cloruro de sodio 18 mg Vehículo 2 mL
+
+## INDICACIONES TERAPÉUTICAS
+
+INDICACIONES TERAPÉUTICAS:
+
+El parecoxib está indicado para el manejo del dolor agudo, preoperatorio (analgesia preventiva) para prevenir o reducir el dolor postoperatorio, o concomitantemente con analgésicos opioides para reducir los requerimientos de éstos.
+
+## PROPIEDADES FARMACÉUTICAS
+
+FARMACOCINÉTICA Y FARMACODINAMIA:
+
+Propiedades farmacocinéticas: Después de la administración de la inyección IV o IM, parecoxib rápidamente se convierte a valdecoxib, la sustancia farmacológicamente activa, mediante hidrólisis enzimática en el hígado. Absorción: La exposición de valdecoxib después de dosis únicas de parecoxib medido tanto por el área bajo la curva de concentración plasmática vs tiempo (ABC) y la concentración máxima (C máx ), es aproximadamente lineal en el rango de las dosis clínicas. El ABC y la C máx después de la administración de dos veces al día son lineales hasta 50 mg IV y 20 mg IM. Las concentraciones plasmáticas de valdecoxib en el estado estable se obtuvieron a los 4 días con dosificación dos veces al día. Después de dosis IV e IM de parecoxib sódico 20 mg, la C máx de valdecoxib se alcanza en aproximadamente 30 minutos y aproximadamente 1 hora respectivamente. La exposición a valdecoxib fue similar en términos de ABC y Cmax después de la administración IV e IM. La exposición a parecoxib fue similar después de una administración IV o IM en términos de ABC. La C máx promedio de parecoxib después de una dosificación IM fue más baja comparada con el bolo de la dosificación IV, la cual es atribuida a la más lenta absorción extravascular después de administración IM. Estas disminuciones no son consideradas clínicamente importantes desde que Cmax de valdecoxib es comparable después de administración IV o IM de parecoxib sódico. Distribución: El volumen de distribución de valdecoxib después de la administración de parecoxib IV es de aproximadamente 55 L. La unión a proteínas plasmáticas es de aproximadamente 98% en el rango de concentración obtenido con la mayor dosis recomendada, 80 mg/día. El valdecoxib, pero no el parecoxib, se distribuye extensamente en los eritrocitos. Metabolismo: El parecoxib se convierte rápida y casi completamente a valdecoxib y ácido propiónico in vivo con una vida media plasmática de aproximadamente 22 minutos. La eliminación de valdecoxib es mediante un metabolismo hepático extenso, involucrando diferentes vías, incluyendo las isoenzimas del citocromo P-450 (CYP) 3A4 y CYP2C9 y la glucoronidación independiente de la CYP (cerca del 20%) de la unidad sulfonamida. Se ha identificado un metabolito hidroxilado del valdecoxib (vía la ruta CYP) en el plasma humano que es activo como inhibidor de la ciclooxigenasa-2 (COX-2). Éste representa aproximadamente 10% de la concentración del valdecoxib; debido a la baja concentración de este metabolito, no se espera que contribuya a un efecto clínico significativo después de la administración de dosis terapéuticas de parecoxib sódico. Eliminación: El valdecoxib se elimina vía metabolismo hepático con menos del 5% del fármaco recuperado en orina sin cambios. No se ha detectado parecoxib sin cambios en la orina y solamente cantidades trazas en las heces. Cerca del 70% de la dosis se excreta en la orina como metabolitos inactivos. La depuración plasmática (CLp) para el valdecoxib es cerca de 6 L/h. Después de la dosificación IV o IM de parecoxib sódico, la vida media de eliminación (t½) de valdecoxib es de aproximadamente 8 horas. Propiedades farmacodinámicas: El parecoxib es un profármaco de valdecoxib. El valdecoxib es un AINE que muestra propiedades analgésicas, antiinflamatorias y antipiréticas en modelos animales. Se cree que el mecanismo de acción se debe a la inhibición de la síntesis de prostaglandina, principalmente por la inhibición de la COX-2. A concentraciones plasmáticas terapéuticas en humanos, el valdecoxib no inhibe la ciclooxigenasa-1 (COX-1). Estudios clínicos: Parecoxib ha sido estudiado en un amplio rango de cirugías mayores y menores. La eficacia de parecoxib se estableció en estudios de dolor por cirugía dental, ginecológica (histerectomía), cirugía ortopédica (reemplazo de rodilla y cadera) e implantación de puente arterial coronario (ver sección Contraindicaciones). El inicio de la analgesia se presentó en 7 a 13 minutos, con analgesia clínicamente significativa demostrada en 23 a 39 minutos y un efecto pico en un plazo de 2 horas después de la administración de dosis únicas de 40 mg IV o IM de parecoxib. La magnitud del efecto analgésico de la dosis de 40 mg fue comparable a la de ketorolaco 60 mg IM o ketorolaco 30 mg IV. Después de una dosis única, la duración de la analgesia dependió de la dosis y del modelo de dolor clínico y fue de 6 a más de 12 horas. Uso por más de 3 días: La mayoría de las pruebas fueron diseñadas para dosificación hasta por 3 días. Datos de 3 de 28 pruebas controladas aleatorizadas, en donde los protocolos permitieron el tratamiento con parecoxib por un tiempo >3 días, fueron agrupados y analizados, 358 pacientes recibieron parecoxib por tiempo >3 días y 318 pacientes recibieron placebo por tiempo >3 días. Ambos grupos poseían datos demográficos similares. La duración media del tratamiento (D.E.) fue 4.1 (0.4) días para parecoxib y 4.2 (0.5) días para el placebo, el rango fue de 4 a 7 días para parecoxib y 4 a 9 días para el placebo. La ocurrencia de AE en pacientes que recibieron parecoxib por 4 a 7 días (duración media 4 días) fue baja después del día de tratamiento 3 y similar al placebo. Efectos ahorradores de opioides: El parecoxib, a dosis recomendadas, redujo significativamente el consumo de opioides y los efectos adversos relacionados con el uso de éstos (fatiga, mareos, confusión, incapacidad de concentración, náusea, estreñimiento, dificultad para orinar, comezón, sensación de arqueo/vómito), mientras que mejoró el alivio del dolor comparado con el de los opioides solos. En un estudio placebo controlado, de cirugía ortopédica y general (n = 1050), los pacientes recibieron parecoxib a una dosis parenteral inicial de 40 mg IV seguido de 20 mg dos veces diariamente por un mínimo de 72 horas además del cuidado estándar que incluye opioides suplementarios controlados al paciente (sulfato de morfina IV). La reducción en el uso opioide con el tratamiento de parecoxib en los días 2 y 3 fue 7.2 y 2.8 mg (37 y 28% respectivamente). Esta reducción en el uso opioide fue acompañada por reducciones significativas en el malestar de los síntomas reportados para los opioides, así como una mejora en el alivio del dolor comparado con los opioides solos. Estudios adicionales en otras formas quirúrgicas dieron observaciones similares. Plaquetas: En ensayos clínicos aplicados a sujetos adultos jóvenes (18-55 años) y ancianos (65-83 años), dosis únicas y múltiples hasta por 7 días de 20 mg y 40 mg de parecoxib dos veces al día, no tuvieron efecto en la agregación plaquetaria o en el tiempo de sangrado. Al comparar 15 mg y 30 mg de ketorolaco como dosis única, o después de 5 días de tratamiento, redujeron significativamente la agregación plaquetaria y aumentaron significativamente el tiempo de sangrado. El parecoxib (40 mg dos veces al día) no tuvo un efecto clínicamente significativo en la inhibición de la función plaquetaria mediada por el ácido acetilsalicílico, y no alteró los efectos farmacodinámicos de la heparina en un tiempo de protrombina (PTT por sus siglas en inglés) o las plaquetas, comparado con el placebo. Estudios gastrointestinales: En estudios a corto plazo (7 días), la incidencia de úlceras o erosiones gastroduodenales observadas endoscópicamente en adultos jóvenes sanos y ancianos (≥65 años) a los que se les administró parecoxib (5 al 21%), aunque es mayor que la del placebo (5 al 12%) fue estadísticamente significativa más baja que la incidencia observada con AINE (66 al 90%). Estudios de seguridad postcirugía CABG (derivación de la arteria coronaria): Además del reporte de eventos adversos de rutina, las categorías de eventos adversos preespecificados adjudicadas por un comité experto independiente fueron examinadas en dos estudios de seguridad controlados con placebo en los cuales los pacientes recibieron parecoxib sódico por lo menos 3 días y después se cambiaron a valdecoxib oral para una duración total de 10 a 14 días. Todos los pacientes recibieron el estándar de cuidado de analgesia durante el tratamiento. Los pacientes recibieron ácido acetilsalicílico a dosis bajas antes de la aleatorización y durante los dos estudios de cirugía CABG. El primer estudio de cirugía CABG evaluó pacientes tratados con 40 mg de parecoxib sódico IV dos veces al día por un mínimo de 3 días, seguido por el tratamiento con 40 mg de valdecoxib dos veces al día (grupo parecoxib sódico/valdecoxib) (n = 311) o placebo/placebo (n = 151) en un estudio controlado con placebo, doble-ciego de 14 días. Se evaluaron nueve categorías de eventos adversos pre-especificados (eventos tromboembólicos cardiovasculares; pericarditis; nuevo inicio o exacerbación de insuficiencia cardiaca congestiva; insuficiencia/disfunción renal; complicaciones de úlceras del tracto Gastrointestinal (GI) superior; hemorragias mayores no GI; infecciones; complicaciones pulmonares no infecciosas y muerte). Se detectó una incidencia significativamente mayor ( p <0.05) de eventos cardiovasculares/tromboembólicos (infarto al miocardio, isquemia, accidente cerebrovascular, trombosis venosa profunda y embolismo pulmonar) en el grupo de tratamiento con parecoxib/valdecoxib comparado con el grupo de tratamiento placebo/placebo para el periodo de dosificación IV (2.2 y 0.0%, respectivamente) y durante todo el periodo de estudio (4.8 y 1.3%, respectivamente). Las complicaciones de las heridas quirúrgicas (la mayoría involucraban la herida esternal) se observaron en una tasa aumentada en el tratamiento de parecoxib/valdecoxib. En el segundo estudio de CABG, se evaluaron cuatro categorías de eventos preespecificados (cardiovascular/tromboembólico; disfunción renal/insuficiencia renal; úlcera del tracto GI superior; complicaciones de la herida quirúrgica). Los pacientes se aleatorizaron en un plazo de 24 horas después de la cirugía CABG a parecoxib dosis inicial de 40 mg IV, después 20 mg IV cada 12 horas por un mínimo de 3 días seguido de valdecoxib PO (20 mg cada 12 horas) (n = 544) por el resto de un periodo de tratamiento de 10 días; placebo IV seguido por valdecoxib PO (n = 544); o placebo IV seguido por placebo PO (n = 548). Se detectó una incidencia significativamente mayor ( p = 0.033) de los eventos en la categoría cardiovascular/tromboembólica en el grupo de tratamiento con parecoxib/valdecoxib (2.0%) comparados con el grupo de tratamiento placebo/placebo (0.5%). El tratamiento placebo/valdecoxib también se asoció con una mayor incidencia de eventos tromboembólicos CV contra el tratamiento placebo, pero esta diferencia no alcanzó importancia estadística. Tres de seis eventos tromboembólicos cardiovasculares en el grupo de tratamiento placebo/valdecoxib ocurrieron durante el periodo de tratamiento placebo; estos pacientes no recibieron valdecoxib. Los eventos pre-especificados que ocurrieron con mayor incidencia en los tres grupos de tratamiento involucraron la categoría de complicaciones de la herida quirúrgica, incluyendo infecciones quirúrgicas profundas y trastornos de curación de la herida del esternón. No hubo diferencias significativas entre los tratamientos activos y el placebo para cualquiera de las otras categorías de eventos pre-especificados (disfunción/insuficiencia renal, complicaciones de úlcera en el tracto GI superior, o complicaciones de la herida quirúrgica). El parecoxib no ha sido estudiado en procedimientos de revascularización cardiovascular diferentes a CABG. En un análisis de 17 estudios controlados en cirugía mayor no cardiaca, en donde la mayoría de los pacientes fueron tratados por 2 días, los pacientes que recibían parecoxib no experimentaron un riesgo elevado de eventos adversos cardiovasculares comparados con placebo. Esto incluyó pacientes con ninguno, uno o dos factores de riesgo cardiovascular. Este análisis tuvo una potencia de aproximadamente el 77% para detectar una duplicación en el índice de fondo de eventos adversos cardiovasculares en pacientes tratados con parecoxib. Cirugía general: En un estudio de cirugía mayor ortopédica/general (N = 1050), los pacientes recibieron una dosis inicial de 40 mg de parecoxib IV, después 20 mg IV cada 12 horas por un mínimo de 3 días seguido por valdecoxib PO (20 mg cada 12 horas) (n = 525) para el resto de un periodo de tratamiento de 10 días, o placebo IV seguido por placebo PO (n = 525). No hubo diferencias significativas en el perfil de seguridad global, incluyendo las cuatro categorías de eventos preespecificados descritos antes para el segundo estudio de cirugía CABG para parecoxib sódico/valdecoxib comparado con el tratamiento con placebo en estos pacientes postquirúrgicos.
+
+## CONTRAINDICACIONES
+
+CONTRAINDICACIONES:
+
+El parecoxib está contraindicado en:
+
+ Pacientes con hipersensibilidad conocida al parecoxib, o a cualquier otro ingrediente del producto.
+
+ Pacientes que han demostrado reacciones de tipo alérgico a las sulfonamidas.
+
+ Pacientes que han experimentado asma, urticaria o reacciones de tipo alérgico después de tomar ácido acetilsalicílico o fármacos antiinflamatorios no esteroideos (AINE), incluyendo otros inhibidores específicos de la COX-2.
+
+ El parecoxib está contraindicado para el tratamiento del dolor postquirúrgico inmediatamente después de una cirugía de puente arterial coronario y no debe ser usado en este entorno.
+
+ Mujeres embarazadas o en periodo de lactancia.
+
+ Menores de 18 años.
+
+## RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA
+
+RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA:
+
+Embarazo: No hubo hallazgos de teratogenicidad en estudios en ratas y conejos. Estudios en ratas a dosis tóxicas maternas y estudios en conejos con las dosis máximas evaluables no han revelado efectos embriotóxicos que no sean pérdida postimplantación, lo cual se ha observado con otros medicamentos que inhiben la síntesis de prostaglandinas. No hay estudios en mujeres embarazadas. El parecoxib debe utilizarse durante el embarazo sólo si el beneficio potencial para la madre justifica el riesgo potencial para el feto. Al igual que con otros fármacos que inhiben la síntesis de prostaglandinas, debe evitarse el uso de parecoxib durante el tercer trimestre de embarazo, ya que puede causar inercia uterina y cierre prematuro del ducto arterial. La inhibición de la síntesis de la prostaglandina podría afectar negativamente el embarazo. Los datos de estudios epidemiológicos sugieren un incremento en el riesgo de aborto espontáneo luego del uso de inhibidores de la síntesis de prostaglandina en las primeras etapas del embarazo. En animales, la administración de inhibidores de la síntesis de la prostaglandina ha demostrado generar un incremento en la pérdida previa y posterior a la implantación. Si se usa durante el segundo o tercer trimestre del embarazo, los AINE pueden causar disfunción renal fetal que puede resultar en la reducción del volumen del líquido amniótico u oligohidramnios en casos severos. Tales efectos pueden ocurrir poco después del inicio del tratamiento y son usualmente reversibles. Las mujeres embarazadas tratadas con parecoxib deben ser monitoreadas de cerca en cuanto al volumen del líquido amniótico. Lactancia: El parecoxib y su metabolito activo se excretan en la leche de ratas lactantes. La administración de una dosis única de parecoxib a mujeres lactantes resultó en la transferencia de una cantidad relativamente pequeña de parecoxib y su metabolito activo a la leche materna, y esto a su vez produjo una dosis relativa baja para el lactante (menos del 1% de la dosis materna ajustada según el peso). Debido al potencial de reacciones adversas en infantes lactantes por el parecoxib, debe tomarse una decisión para suspender la lactancia o suspender el fármaco, tomando en cuenta el beneficio esperado del fármaco para la madre.
+
+## REACCIONES ADVERSAS
+
+REACCIONES SECUNDARIAS Y ADVERSAS:
+
+Se reportaron las siguientes reacciones adversas en pacientes que recibieron parecoxib (N = 5,402) en 28 estudios clínicos controlado versus placebo. Eventos que ocurrieron ≥10%:
+
+ Trastornos gastrointestinales: náuseas.
+
+Eventos que ocurrieron ≥1 y <10%:
+
+ Trastornos gastrointestinales: dolor abdominal, estreñimiento, dispepsia, vómito.
+
+ Trastornos generales y condiciones en el lugar de administración: edema periférico.
+
+ Infecciones e infestaciones: osteítis alveolar (cavidad seca).
+
+ Trastornos del sistema nervioso: mareos.
+
+ Trastornos psiquiátricos: insomnio.
+
+ Trastornos renales y urinarios: oliguria.
+
+ Trastornos cutáneos y del tejido subcutáneo: incremento de sudoración, prurito.
+
+ Trastornos vasculares: hipotensión.
+
+Eventos que ocurrieron ≥0.5 y <1%:
+
+ Trastornos gastrointestinales: resequedad bucal, flatulencia.
+
+ Trastornos musculoesqueléticos y del tejido conectivo: dolor de espalda.
+
+ Trastornos cardiacos: bradicardia.
+
+ Infecciones e infestaciones: faringitis.
+
+ Trastornos cutáneos y del tejido subcutáneo: erupción.
+
+ Trastornos vasculares: hipertensión.
+
+Eventos que ocurrieron <0.5%:
+
+ Trastornos cardiacos: infarto al miocardio.
+
+ Trastornos auditivos y del laberinto: dolor de oído.
+
+ Trastornos gastrointestinales: esofagitis, reflujo gastroesofágico, sonidos hipoactivos del intestino, pancreatitis, inflamación perioral.
+
+ Trastornos generales y condiciones en el lugar de administración: dolor en el lugar de la inyección, reacción en el sitio de la inyección, astenia.
+
+ Trastornos del sistema inmune: reacción anafiláctica.
+
+ Laboratorio: incremento del nitrógeno uréico (BUN), aumento de la creatininfosfoquinasa, incremento de la creatina y aumento de la LDH.
+
+ Lesión, envenenamiento y complicaciones de procedimiento: complicaciones cutáneas postoperatorias.
+
+ Trastornos del metabolismo y de nutrición: anorexia, hiperglicemia.
+
+ Trastornos musculoesqueléticos y del tejido conjuntivo: artralgia.
+
+ Trastorno del sistema nervioso: trastorno cerebrovascular.
+
+ Trastornos psiquiátricos: agitación.
+
+ Trastornos renales y urinarios: insuficiencia renal aguda.
+
+ Trastorno respiratorio, torácico y mediastinal: embolismo pulmonar.
+
+ Trastornos cutáneos y del tejido subcutáneo: equimosis, urticaria.
+
+ Trastornos vasculares: hipertensión agravada, hipotensión postural.
+
+Después de la cirugía de punteo arterial coronario, los pacientes con parecoxib tienen un riesgo mayor de eventos adversos, tales como eventos tromboembólicos cardiovasculares (por ejemplo, infarto al miocardio y accidente cerebrovascular), infecciones quirúrgicas profundas o complicaciones en la curación de la herida del esternón. Experiencia posterior a la comercialización: En la experiencia posterior a la comercialización, se han reportado los siguientes eventos adversos graves en asociación con el uso de parecoxib: Colapso circulatorio, eritema multiforme, síndrome de Stevens-Johnson, insuficiencia renal y reacciones de hipersensibilidad incluyendo anafilaxia y angioedema (ver sección Precauciones generales). En la experiencia posterior a la comercialización, además de las reacciones adversas cutáneas graves como eritema multiforme y síndrome de Stevens-Johnson, se reportó necrólisis epidérmica tóxica en asociación con el uso de valdecoxib y no se puede descartar para parecoxib.
+
+## INTERACCIONES MEDICAMENTOSAS Y DE OTRO GÉNERO
+
+INTERACCIONES MEDICAMENTOSAS Y DE OTRO GÉNERO:
+
+General: Los estudios de interacción farmacológica se llevaron a cabo con parecoxib o la mitad activa (valdecoxib). En humanos, el parecoxib experimenta un importante metabolismo hepático, involucrando las isoenzimas P450 3A4 y 2C9, y las vías no dependientes de P450 (por ejemplo, glucuronidación). La administración concomitante del parecoxib con inhibidores conocidos del CYP 3A4 y 2C9 puede resultar en el incremento del ABC de parecoxib. Fármacos específicos: Interacción del parecoxib con warfarina o agentes similares: (ver sección Precauciones generales). Fluconazol y ketoconazol: La administración concomitante de fluconazol, un inhibidor del CYP2C9 y el ketoconazol, un inhibidor del CYP3A4, incrementó el ABC del valdecoxib en 62 y 38%, respectivamente. Cuando se administra parecoxib concomitantemente con fluconazol, debe utilizarse la dosis más baja recomendada de parecoxib. No es necesario ningún ajuste de dosis cuando se coadministra parecoxib con ketoconazol (ver sección Dosis y vía de administración). Antihipertensivos, incluidos inhibidores de la ECA, antagonistas de la angiotensina II, betabloqueadores y diuréticos: La inhibición de las prostaglandinas puede disminuir el efecto de los inhibidores de la enzima convertidora de la angiotensina (ECA), antagonista de la angiotensina II, betabloqueadores y diuréticos. Debe considerarse esta interacción en los pacientes que reciben parecoxib concomitantemente con los inhibidores de la ECA, antagonista de la angiotensina II, betabloqueadores y diuréticos. En pacientes de edad avanzada, con reducción drástica de volumen (incluyendo los pacientes bajo terapia diurética), o con función renal comprometida, la administración concomitante de AINE, incluyendo inhibidores selectivos de la COX-2, con inhibidores de ECA y/o antagonista de la angiotensina II puede resultar en el deterioro de la función renal, incluyendo posible insuficiencia renal aguda. Estos efectos usualmente son reversibles. Por lo tanto, la administración simultánea de estos medicamentos debería hacerse con cuidado. Los pacientes deberían estar adecuadamente hidratados y se debería evaluar la necesidad de monitorear la función renal al comienzo del tratamiento concomitante y después de forma periódica. Diuréticos : Los estudios clínicos han demostrado que los AINE, en algunos pacientes, pueden reducir el efecto natriurético de la furosemida y las tiazidas mediante la inhibición de la síntesis de prostaglandinas renales. Ciclosporina: Dado su efecto sobre las prostaglandinas renales, los AINE pueden aumentar el riesgo de sufrir nefrotoxicidad con la ciclosporina. Metotrexato: Se realizó un estudio de interacción farmacocinética con valdecoxib y metotrexato, y no se evidenció interacción alguna de importancia clínica. No obstante, se recomienda precaución cuando se administre metotrexato de forma concomitante con AINE, ya que la administración de estos puede provocar un aumento en los niveles plasmáticos del metotrexato. Litio: El valdecoxib produjo reducciones significativas en la depuración del litio sérico (25%) y la depuración renal (30%), resultando en un ABC sérica 34% mayor, en comparación con el litio solo. Las concentraciones séricas del litio deben monitorearse estrechamente cuando se inicie o cambie la terapia con parecoxib en pacientes que reciben litio. Otros: Se han realizado estudios de interacción entre el parecoxib y el midazolam I.V. u oral, heparina, propofol, fentanilo y alfentanilo. Asimismo, se han realizado estudios de interacción entre valdecoxib y glibenclamida (gliburida), anticonceptivos orales (etinil estradiol/noretisterona), fenitoína, omeprazol y diazepam. Ninguna interacción clínica importante se observó en estos estudios. El parecoxib puede ser administrado concomitantemente con analgésicos opioides. En pruebas clínicas, los requerimientos diarios para los opioides según se necesiten (PRN) se redujeron significativamente al coadministrarse con parecoxib. No se ha realizado ningún estudio formal de interacción con parecoxib y agentes anestésicos inhalados, tales como el óxido nitroso y el isoflurano; sin embargo, no se observó ninguna evidencia de una interacción farmacológica en los estudios clínicos. El parecoxib no interfiere con el efecto antiplaquetario del ácido acetilsalicílico en dosis bajas. Debido a la ausencia de efectos plaquetarios, el parecoxib no es un sustituto del ácido acetilsalicílico en el tratamiento profiláctico de la enfermedad cardiovascular.
+
+## HALLAZGOS DE LABORATORIO CLÍNICO
+
+ALTERACIONES EN LOS RESULTADOS DE PRUEBAS DE LABORATORIO:
+
+Incremento del BUN, fosfoquinasa creatina, creatina y LDH.
+
+## PRECAUCIONES Y ADVERTENCIAS
+
+PRECAUCIONES GENERALES:
+
+Administración por vías diferentes a la IV o IM: No se han estudiado otras vías aparte de la IV o la IM (por ejemplo, intraarterial, intratecal) y no deben utilizarse. Efectos cardiovasculares: Los inhibidores de la COX-2, de los cuales el parecoxib es uno de ellos, se han asociado con un incremento en el riesgo de eventos adversos cardiovasculares y trombóticos al administrarse a largo plazo. El aumento relativo de este riesgo parece ser similar en aquellos con o sin enfermedad CV conocida o factores de riesgo CV. Sin embargo, los pacientes con enfermedad cardiovascular conocida o factores de riesgo CV pueden correr un riesgo más alto en términos de incidencia absoluta, debido a su tasa de referencia incrementada. No se ha determinado la magnitud exacta del riesgo que se relaciona con una dosis única, ni la duración exacta del tratamiento que se relaciona con el riesgo incrementado. Dos estudios separados en revascularización de arterias coronarias (CABG, por sus siglas en inglés) mostraron que los pacientes que recibieron parecoxib por un mínimo de 3 días seguidos por vía oral de valdecoxib (el metabolito activo de parecoxib) por 7 a 14 días, tuvieron un incremento en la incidencia de eventos cardiovasculares/tromboembólicos, p. ej., infarto al miocardio y accidente cerebrovascular) comparados con aquellos que recibieron placebo (ver sección Propiedades farmacodinámicas). El parecoxib está contraindicado para el tratamiento de dolor postoperatorio inmediato posterior a revascularización de las arterias coronarias. Efectos gastrointestinales (GI): Se han presentado perforaciones del tracto gastrointestinal (GI) superior, úlceras o sangrados en pacientes tratados con parecoxib. Los pacientes con mayor riesgo de desarrollar estos tipos de complicaciones GI con los AINE son los ancianos, los pacientes con enfermedad cardiovascular, los pacientes con antecedentes o una enfermedad GI activa, como úlceras, sangrado o afecciones inflamatorias, o los pacientes que utilizan concomitantemente ácido acetilsalicílico. La clase de AINE también se asocia con un aumento de las complicaciones GI cuando éstos se administran de forma simultánea con corticosteroides, inhibidores selectivos de la recaptación de serotonina, otros medicamentos antiplaquetarios u otros AINE o en pacientes que ingieren alcohol; sin embargo, actualmente no hay datos clínicos específicos sobre parecoxib. Efectos en la piel: El valdecoxib, la molécula activa del parecoxib, contiene una molécula de sulfonamida, por lo que los pacientes con antecedentes de alergia a sulfas pueden tener mayor riesgo de reacciones cutáneas. Los pacientes sin antecedente de alergia a sulfonamidas pueden asimismo tener mayor riesgo de reacciones cutáneas serias. Se han reportado reacciones cutáneas serias, incluyendo dermatitis exfoliativa, síndrome de Stevens-Johnson y necrólisis epidérmicas tóxicas, en la farmacovigilancia postventa en pacientes que reciben valdecoxib y no pueden excluirse para el parecoxib (el profármaco del valdecoxib). Se han informado muertes debido al síndrome de Stevens-Johnson y necrólisis epidérmica con valdecoxib y el riesgo potencial no se puede eliminar para parecoxib. Los pacientes parecen estar en mayor riesgo a estos eventos en las primeras etapas de la terapia. Con el inicio del evento, en la mayoría de los casos, en las dos primeras semanas de tratamiento. El parecoxib debe ser suspendido con la primera aparición de erupción cutánea, lesiones en la mucosa o cualquier otro signo de hipersensibilidad. Las reacciones serias de la piel se han informado con otros inhibidores de la COX-2 durante la farmacovigilancia. El índice divulgado de estos acontecimientos parece ser mayor para valdecoxib con respecto a otros agentes COX-2. Reacciones anafilácticas: Las reacciones de hipersensibilidad (reacciones anafilácticas y angioedema) han sido reportadas en la farmacovigilancia con valdecoxib y parecoxib (ver sección Reacciones secundarias y adversas - Experiencia postmercadeo). Estas reacciones han ocurrido en pacientes con o sin un historial clínico de reacciones del tipo alérgico a sulfonamidas (ver sección Contraindicaciones). Hipotensión severa: Se ha informado de casos de hipotensión severa poco después de la administración de parecoxib en la experiencia postcomercialización. Algunos de estos casos se han presentado sin otros signos de anafilaxia. El médico debe estar preparado para tratar la hipotensión severa. Uso con anticoagulantes orales: El uso concomitante de AINE con anticoagulantes orales aumenta el riesgo de sangrado. Los anticoagulantes orales incluyen los del tipo warfarina/cumarina y nuevos anticoagulantes orales (p. ej. apixabán, dabigatrán y rivaroxabán). La coadministración de parecoxib con warfarina causó un leve incremento en el ABC de la warfarina y también en el tiempo de protrombina (medido por la Tasa Normalizada Internacional [INR por sus siglas en inglés]). Mientras que los valores INR promedio se incrementaron sólo ligeramente con la coadministración de parecoxib, la variabilidad de día a día en los valores INR individuales se incrementó. Debe monitorearse la actividad anticoagulante, particularmente durante los primeros días después de iniciar el parecoxib en pacientes que reciben warfarina o agentes similares, ya que estos pacientes pueden estar bajo riesgo aumentado de complicaciones de sangrado. Hipertensión: Como con todos los AINE, el parecoxib puede llevar al inicio de nueva hipertensión o deterioro de hipertensión preexistente, lo cual puede contribuir al incremento de la incidencia de eventos cardiovasculares. Los AINE, incluyendo al parecoxib, deben ser usados con precaución en pacientes con hipertensión. La presión arterial debe ser cuidadosamente monitoreada durante el inicio de la terapia con parecoxib y durante el curso de la terapia. Retención de líquidos y edema: Como con otros medicamentos conocidos por inhibir la síntesis de prostaglandinas, se han observado retención de fluidos y edema en algunos pacientes que toman parecoxib. Por lo tanto, el parecoxib debe ser usado con precaución en pacientes con función cardiaca comprometida, edema preexistente u otras condiciones que predisponen, o deterioran la retención de líquidos, incluyendo los que están en tratamiento diurético o bajo riesgo de hipovolemia. Efectos renales: Se ha reportado insuficiencia renal aguda en la vigilancia postcomercialización en pacientes que reciben parecoxib (ver sección Reacciones secundarias y adversas). La función renal debe ser monitoreada con cuidado en pacientes con enfermedad renal avanzada a quienes se les administra parecoxib (ver sección Dosis y vía de administración). Se debe tener cuidado al iniciar el tratamiento en pacientes con deshidratación. Se recomienda rehidratar primero al paciente y después iniciar la terapia con parecoxib. Efectos hepáticos: No se han estudiado pacientes con daño hepático severo (Clase C Child-Pugh). El uso de parecoxib en pacientes con daño hepático severo no está recomendado. El parecoxib debe utilizarse con precaución en pacientes con daño hepático moderado (Clase B Child-Pugh) e iniciarse en la dosis más baja recomendada (ver sección Dosis y vía de administración). Los pacientes con síntomas y/o señales de disfunción hepática, o en quienes se haya presentado una prueba de función hepática anormal, deben monitorearse cuidadosamente en busca de evidencia del desarrollo de una reacción hepática más grave cuando se sometan a terapia con parecoxib. General: Con la reducción de la inflamación, el parecoxib puede disminuir la utilidad de los signos diagnósticos, tales como la fiebre en la detección de infecciones. El uso concomitante de parecoxib con otros AINE debe ser evitado. Efectos en la habilidad para el manejo y uso de maquinaria: No se ha estudiado el efecto del parecoxib sobre la habilidad de manejo u operación de maquinaria.
+
+PRECAUCIONES EN RELACIÓN CON EFECTOS DE CARCINOGÉNESIS, MUTÁGENESIS, TERATOGÉNESIS Y SOBRE LA FERTILIDAD:
+
+Fertilidad: En función al mecanismo de acción, el uso de los AINE puede retrasar o evitar la ruptura de folículos ováricos, lo cual se ha asociado a la infertilidad irreversible en algunas mujeres. En mujeres con dificultades para concebir o que están sometidas a investigación de infertilidad, se debería considerar la discontinuación de los AINE, incluido el parecoxib (ver sección Restricciones de uso durante el embarazo y la lactancia).
+
+## DOSIS Y VÍA DE ADMINISTRACIÓN
+
+DOSIS Y VÍA DE ADMINISTRACIÓN:
+
+El parecoxib puede ser administrado por vía parenteral intravenosa o intramuscular en dosis única o múltiples de forma regular o según se necesite. Después del inicio de la terapia, la dosis debe ajustarse según la respuesta del paciente. Se realizaron estudios clínicos con parecoxib por hasta 7 días de tratamiento. El parecoxib solo está indicado en pacientes con necesidad de terapia parenteral y quienes requieren un beneficio similar que podría no ser obtenido por otra alternativa de terapia oral. Se recomienda que los pacientes hagan la transición para la terapia oral alternativa tan pronto se indique clínicamente. Debido a que los inhibidores específicos de la COX-2 pueden incrementar el riesgo cardiovascular (CV) con la dosis y duración de la exposición, se debe usar la duración más corta posible y la dosis diaria más baja efectiva. Sin embargo, la relevancia de estos hallazgos para el uso a corto plazo de parecoxib durante el postoperatorio no ha sido evaluada. Manejo del dolor agudo: La dosis única o inicial recomendada para el tratamiento de dolor agudo es 40 mg, administrado IV o IM, seguido de 20 mg o 40 mg cada 6 a 12 horas, según se requiera, hasta una dosis diaria máxima de 80 mg. La inyección IV en bolo debe administrarse directamente en una vena o en una vía intravenosa existente. La inyección IM debe administrarse lenta y profundamente en el músculo. Prevención o reducción del dolor postoperatorio: La dosis recomendada es 40 mg administrada IV o IM (preferiblemente IV) 30 a 45 minutos antes de la incisión quirúrgica. Se puede requerir medicación postoperatoria continua con parecoxib para un efecto analgésico adecuado. Uso concomitante con analgésicos opioides: Se pueden usar analgésicos opioides simultáneamente con parecoxib, en las dosis ya descritas. En las pruebas clínicas, el requerimiento diario para opioides fue reducido significativamente (20-40%) al ser administrado concomitantemente con parecoxib. Se logró un efecto óptimo cuando el parecoxib se dio antes de la administración de opioides. En todas las evaluaciones clínicas, el parecoxib fue administrado en un intervalo de tiempo fijo mientras que los opioides se administraron según se necesitaran. Ancianos: En general no es necesario ajuste de la dosis. Sin embargo, para los pacientes mayores con menos de 50 kg es recomendable reducir la dosis inicial de parecoxib en 50%. La dosis diaria máxima debe ser reducida en 40 mg para pacientes ancianos con menos de 50 kg. Deterioro hepático: No es necesario ajustar la dosis en pacientes con deterioro hepático leve (Clase A Child-Pugh). El tratamiento con parecoxib debe iniciarse con la dosis recomendada más baja en pacientes con deterioro hepático moderado (Clase B Child-Pugh). Los pacientes con deterioro hepático severo (Clase C Child-Pugh) no han sido estudiados. No se recomienda el uso de parecoxib en estos pacientes. Deterioro renal: En pacientes con deterioro renal severo (depuración de creatinina <30 mL/minuto), o pacientes con predisposición a retener líquidos, el parecoxib debe ser iniciado en la dosis más baja recomendada y se debe monitorear con mucho cuidado la función de los riñones del paciente. Administración concomitante con fluconazol: Cuando se coadministra con fluconazol, se debe emplear la dosis más baja recomendada de parecoxib. Pacientes pediátricos: La seguridad y eficacia no se ha establecido en sujetos menores de 18 años. Incompatibilidades: Después de la reconstitución con un diluyente aceptable, el parecoxib sódico puede ser inyectado por medio de un catéter IV suministrando solución de cloruro de sodio al 0.9%. La inyección a través de un catéter suministrando dextrosa al 5% en solución de Ringer Lactato, u otro líquido IV no listado aquí, no es recomendado, porque puede causar precipitación de la solución. El parecoxib sódico no debe ser mezclado en la misma jeringa con otros medicamentos. No se debe inyectar parecoxib en un catéter IV junto con otro medicamento. El catéter IV debe ser enjuagado adecuadamente antes y después de la inyección de parecoxib con una solución de compatibilidad conocida. Precauciones especiales para la eliminación de residuos y de otro manejo: El parecoxib sódico para inyección es un polvo liofilizado sin conservadores. El parecoxib sódico debe ser reconstituido con 2 mL (vial de 40 mg) de solución de cloruro de sodio (0.9%). El uso de solución de Ringer Lactato, o 5% de dextrosa en solución de Ringer Lactato, no es recomendada para reconstitución porque pueden causar que el fármaco precipite en la solución. El uso de agua para inyección no se recomienda para reconstitución de parecoxib sódico porque la solución resultante no es isotónica. No refrigere o congele el producto reconstituido. Después de la reconstitución, la concentración final de parecoxib es 20 mg/mL. Cuando se reconstituye en solución de cloruro de sodio 9 mg/mL (0.9%), contiene aproximadamente 0.44 mmol de sodio por vial (23 mg por dosis).
+
+## MANIFESTACIONES Y MANEJO DE LA SOBREDOSIFICACIÓN O INGESTA ACCIDENTAL
+
+MANIFESTACIONES Y MANEJO DE LA SOBREDOSIFICACIÓN O INGESTA ACCIDENTAL:
+
+La experiencia clínica de sobredosis es limitada. Dosis I.V. únicas de hasta 200 mg de parecoxib han sido administradas a sujetos saludables sin efectos adversos clínicamente significativos. Las dosis de parecoxib de 50 mg I.V. dos veces diariamente (100 mg/día) por 7 días no mostró ningún signo de toxicidad. En el caso de sospecha de sobredosis, se debe dar el cuidado médico de sustento apropiado. Es poco probable que la diálisis sea un método eficiente de eliminación del fármaco, por el alto enlace de la proteína del fármaco.
+
+## PRESENTACIÓN
+
+PRESENTACIONES:
+
+Caja de cartón con 2 frascos ámpula con liofilizado, con 2 ampolletas con 2 mL de diluyente, e instructivo anexo.
+
+## RECOMENDACIONES SOBRE ALMACENAMIENTO
+
+RECOMENDACIONES SOBRE ALMACENAMIENTO:
+
+Consérvese la caja bien cerrada. Consérvese a no más de 25 °C. Hecha la mezcla, el producto se conserva máximo 48 horas a no más de 25 °C.
+
+## LEYENDAS DE PROTECCIÓN
+
+LEYENDAS DE PROTECCIÓN:
+
+Literatura exclusiva para médicos. Si no se administra todo el producto, deséchese el sobrante. No se administre si la solución no es transparente, si contiene partículas en suspensión o sedimentos. No se administre si el cierre ha sido violado. No se deje al alcance de los niños. Su venta requiere receta médica. No se use en el embarazo, la lactancia, ni en menores de 18 años.
+
+Reporte las sospechas de reacción adversa al correo: [farmacovigilancia@cofepris.gob.mx](mailto:farmacovigilancia@cofepris.gob.mx)
+
+Propiedad de:
+
+Sandoz GmbH
+
+Biochemiestraße 10, 6250 Kundl
+
+Austria
+
+Representante Legal:
+
+SANDOZ, S.A. de C.V.
+
+La Candelaria No. 186
+
+Col. Atlántida, C.P. 04370
+
+Coyoacán, Ciudad de México, México
+
+Reg. Núm. 038M2024 SSA IV
+
+® Marca Registrada
+
+Clave de IPP: 223300404D0383/03Abr2024/
+
+IPPA_DRA-Sandoz

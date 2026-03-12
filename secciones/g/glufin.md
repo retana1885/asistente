@@ -1,0 +1,127 @@
+# GLUFIN
+
+**URL:** https://www.medicamentosplm.com/home/productos/glufin-tabletas-orales/1361/101/33591/403
+
+**Sección:** G
+
+**Acceso restringido detectado:** True
+
+---
+
+## COMPOSICIÓN
+
+FORMA FARMACÉUTICA Y FORMULACIÓN:
+
+Cada tableta contiene:
+
+Acarbosa 50 mg y 100 mg
+
+Excipiente, c.b.p. 1 tableta.
+
+## INDICACIONES TERAPÉUTICAS
+
+INDICACIONES TERAPÉUTICAS:
+
+Diabetes mellitus no insulinodependiente: Como monoterapia cuando el tratamiento dietético resulta insuficiente o en combinación con sulfonilureas, biguanidas o insulina.
+
+Diabetes mellitus insulinodependiente: Como coadyuvante en el tratamiento con dieta e insulina.
+
+## PROPIEDADES FARMACÉUTICAS
+
+FARMACOCINÉTICA Y FARMACODINAMIA EN HUMANOS: La acarbosa ejerce su acción en la región intestinal del tubo digestivo, esta acción se debe a la inhibición de las enzimas intestinales (a-glucosidasa) que interviene en la degradación de di-oligo y polisacáridos de la dieta. Esto da lugar a un retraso en la absorción de los carbohidratos dependiente de la dosis debido a lo anterior, los monosacáridos llegan con menor rapidez a la sangre, de esta forma reduce y retarda la elevación posprandial de la glucemia.
+
+Gracias a la acción equilibradora sobre la absorción del azúcar a partir del intestino de las oscilaciones circadianas de la glucemia son mayores y disminuyen sus niveles. Como consecuencia del mismo mecanismo de acción se reduce la hiperinsulinemia en los diabéticos tipo II y los requerimientos de insulina exógena en los diabéticos tipo I.
+
+La farmacocinética se estudio en voluntarios que recibieron una solución de acarbosa (200 mg) marcada con C14 vía oral. Las sustancias sin cambios y sin metabolitos se excretaron en orina a 1.7% de la dosis administrada. 51% de la dosis se eliminó en heces a las 96 horas.
+
+El volumen relativo de distribución es de 0.39 l/kg y se calculó en voluntarios sanos a partir de la concentración enplasma posterior a la administración endovenosa.
+
+Biodisponibilidad: La biodisponibilidad es de 1 a 2%. El bajo porcentaje sistémico de la sustancia inhibitoria es deseable y explica su buena tolerabilidad sistémica, no siendo relevante para su efecto terapéutico.
+
+## CONTRAINDICACIONES
+
+CONTRAINDICACIONES: Hipersensibilidad a la acarbosa. Debido a que no se dispone de experiencia suficiente sobre su administración en niños, no deberá usarse en pacientes menores de 18 años.
+
+Alteraciones intestinales crónicas asociadas con problemas de digestión y absorción. En cuadros que pueden empeorar por una mayor formación de gases en el intestino.
+
+## RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA
+
+RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA: Actualmente no se dispone de suficiente información para valorar los posibles efectos negativos del empleo de acarbosa durante el embarazo. Sin embargo, no se observaron indicios de dichos efectos en los estudios efectuados en animales, por ello al igual que la mayoría de los medicamentos con acarbosa no debe administrarse durante el embarazo.
+
+Los estudios efectuados en animales mostraron que la acarbosa se elimina por la leche materna, por ello no se recomienda su empleo durante la lactancia.
+
+## REACCIONES ADVERSAS
+
+REACCIONES SECUNDARIAS Y ADVERSAS: En algunos pacientes y sobre todo al inicio del tratamiento se produce un aumento de la fermentación de los carbohidratos en las regiones distales del intestino lo cual puede provocar la aparición de la flautulencia, meteorismo, distensión abdominal, ocasionalmente diarrea y menos frecuentemente dolor abdominal, estos efectos pueden intensificarse si no se sigue una dieta adecuada.
+
+Si a pesar de seguir con el régimen dietético continúan produciéndose alteraciones, deberá consultar al médico y reducirse temporal o permanentemente la dosis, generalmente estas molestias disminuyen con el transcurso del tiempo sin suspender el tratamiento. Pueden presentarse en casos individuales reacciones de hipersensibilidad cutánea, por ejemplo, eritema, exantema y urticaria.
+
+PRECAUCIONES EN RELACIÓN CON EFECTOS DE CARCINOGÉNESIS, MUTAGÉNESIS, TERATOGÉNESIS Y SOBRE LA FERTILIDAD: En nueve estudios de toxicidad crónica en dos especies animales se comprobó que la acarbosa no fue tóxica cuando se utiliza en forma crónica por vía oral y que no tiene efecto potencial carinogénica.
+
+Efectos sobre la fertilidad: No se observaron efectos teratógenicos, debido a la acarbosa.
+
+Mutagenicidad: No hay evidencia de acción genotóxica debida a la acarbosa.
+
+Toxicidad: La acarbosa puede describirse como no tóxica ya que aun después de dosis orales de 10 g/kg la de DL50 no pudo determinarse.
+
+La sustancia fue prácticamente no tóxica después de su administración.
+
+## INTERACCIONES MEDICAMENTOSAS Y DE OTRO GÉNERO
+
+INTERACCIONES MEDICAMENTOSAS Y DE OTRO GÉNERO: Los antiácidos, colestiramina, absorbentes intestinales y preparados de enzima digestivas pueden disminuir el efecto de acarbosa, si se administra con sulfonilureas, metformina o insulina se puede requerir disminución de la dosis de estos fármacos.
+
+Acarbosa tiene el efecto antihiperglucemiante pero no induce hipoglucemia por sí solo; en caso de hipoglucemia se debe considerar que durante el tratamiento con hipoglucemiantes y/o insulina asociados con acarbosa el azúcar se descompone en fructuosa y glucosa, por lo que el azúcar común es inadecuado para contrarrestar la hipoglucemia y, por tanto, deberá usarse glucosa I.V. o dextrosa oral.
+
+## HALLAZGOS DE LABORATORIO CLÍNICO
+
+ALTERACIONES EN LOS RESULTADOS DE PRUEBAS DE LABORATORIO: En casos individuales a dosis de 200 mg tres veces al día o mayores, se pueden presentar elevaciones asintomáticas de las transaminasas hepáticas. El efecto desaparece al descontinuar. Cuando esta dosis se hace necesaria se deberá monitorizar las enzimas hepáticas a intervalos regulares por un periodo de seis meses.
+
+## PRECAUCIONES Y ADVERTENCIAS
+
+PRECAUCIONES GENERALES: Utilizar con precaución en pacientes con insuficiencia renal grave o crónica. Asimismo, como no se dispone de experiencia suficiente sobre la administración GLUFIN no debe administrarse en pacientes menores de 18 años.
+
+## DOSIS Y VÍA DE ADMINISTRACIÓN
+
+DOSIS Y VÍA DE ADMINISTRACIÓN: Oral.
+
+La dosis se ajusta individualmente ya que la eficacia y la tolerabilidad difiere de un paciente a otro. La dosis recomendadas son las siguientes: inicialmente 1 tableta de 50 mg de acarbosa tres veces al día o ½ tableta de100 mg de acarbosa tres veces al día. Posteriormente y de acuerdo con su efecto terapéutico y tolerabilidad hasta dos tabletas de 50 mg de acarbosa tres veces al día ó 1 tableta de 100 mg de acarbosa tres veces al día.
+
+Ocasionalmente puede ser necesario incrementar la dosis de 200 mg de acarbosa tres veces al día.
+
+Se puede aumentar la dosis a intervalos de 4-8 semanas, si se requiere. Si se presentan síntomas molestos a pesar del cumplimiento estricto de la dieta no se debe aumentar la dosis. La dosis promedio es de 300 mg por día; pacientes con dosis de 200 mg tres veces al día requieren de estricto control médico.
+
+Las tabletas de acarbosa se tomarán inmediatmaente al principio de la comida. Se pueden ingerir enteros con un poco de agua, o bien masticarlos con los primeros bocados de la comida.
+
+Duración de uso: No se preveé que pueda existir alguna restricción para el uso de acarbosa en forma crónica.
+
+## MANIFESTACIONES Y MANEJO DE LA SOBREDOSIFICACIÓN O INGESTA ACCIDENTAL
+
+MANIFESTACIONES Y MANEJO DE LA SOBREDOSIFICACIÓN O INGESTA ACCIDENTAL: Cabe esperar síntomas intestinales si acarbosa se ingiere junto con alimentos que contengan exceso de carbohidratos. En caso de sobredosificación junto con la ingesta de bebidas azucaradas y/o comida rica en carbohidratos durante las siguientes 4-6 horas.
+
+## PRESENTACIÓN
+
+PRESENTACIONES:
+
+Venta al público: Caja con 30 tabletas de 50 y 100 mg.
+
+Sector Salud: Frasco con 30 tabletas de 50 mg.
+
+## RECOMENDACIONES SOBRE ALMACENAMIENTO
+
+RECOMENDACIONES SOBRE ALMACENAMIENTO: A temperaturas mayores de 25ºC y humedad relativa de más de 75%, las tabletas pueden sufrir decoloración si no se encuentran en su empaque, por lo que las tabletas sólo se deberán extraer del empaque hasta su uso. Consérvese a temperatura ambiente a no más de 30ºC y en lugar seco.
+
+## LEYENDAS DE PROTECCIÓN
+
+LEYENDAS DE PROTECCIÓN:
+
+Su venta requiere receta médica.
+
+No se deje al alcance de los niños.
+
+No se administre durante el embarazo ni en la lactancia.
+
+Buffington´s de México, S. A. de C. V.
+
+Reg. Núm. 370M2001, SSA
+
+GEAR-401702/R2001

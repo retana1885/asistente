@@ -1,0 +1,197 @@
+# MAZDA
+
+**URL:** https://www.medicamentosplm.com/home/productos/mazda-capsulas-de-liberacion-prolongada/134/101/51643/18
+
+**Sección:** M
+
+**Acceso restringido detectado:** True
+
+---
+
+## COMPOSICIÓN
+
+FORMA FARMACÉUTICA Y FORMULACIÓN:
+
+Cada CÁPSULA de liberación prolongada contiene:
+
+| Clorhidrato de Venlafaxina equivalente a de Venlafaxina | 37.5 mg | 50 mg | 75 mg | 150 mg |
+| --- | --- | --- | --- | --- |
+| Excipiente cbp | 1 cápsula | 1 cápsula | 1 cápsula | 1 cápsula |
+
+Clorhidrato de Venlafaxina equivalente a de Venlafaxina
+
+37.5 mg
+
+50 mg
+
+75 mg
+
+150 mg
+
+Excipiente cbp
+
+1 cápsula
+
+1 cápsula
+
+1 cápsula
+
+1 cápsula
+
+## INDICACIONES TERAPÉUTICAS
+
+INDICACIONES TERAPÉUTICAS: La Venlafaxina de liberación prolongada se utiliza como tratamiento para la depresión y/o depresión con ansiedad. Así mismo se utiliza para los trastornos de ansiedad generalizada y para el tratamiento de la ansiedad a largo plazo, tratamiento de ansiedad social a largo plazo, tratamiento del trastorno de pánico incluyendo el tratamiento a largo plazo.
+
+## PROPIEDADES FARMACÉUTICAS
+
+FARMACOCINÉTICA Y FARMACODINAMIA:
+
+Farmacodinamia: El mecanismo de la acción antidepresiva de la Venlafaxina en los humanos se asocia con la potenciación de la actividad de los neurotransmisores en el sistema nervioso central (SNC). Los estudios preclínicos han demostrado que la Venlafaxina y su metabolito activo, es decir, la O-desmetilvenlafaxina (ODV), son potentes inhibidores de la recaptación neuronal de serotonina y norepinefrina e inhibidores débiles de la recaptación de dopamina. La Venlafaxina y la ODV no tienen afinidad significativa sobre los receptores colinérgicos muscarínicos, histaminérgicos H1 o adrenérgicos α-1 in vitro . Existe una hipótesis de que la actividad farmacológica en estos receptores está asociada con los diferentes efectos cardiovasculares, anticolinérgicos y sedantes que se presentan con otros fármacos psicotrópicos. La Venlafaxina y la ODV no poseen actividad inhibitoria de la monoamino oxidasa (IMAO).
+
+Farmacocinética: Las concentraciones en estado estable de Venlafaxina y ODV en el plasma se alcanzan antes de 3 días del tratamiento con dosis orales repetidas. La Venlafaxina y la ODV exhibieron una cinética lineal en el intervalo posológico de 75 a 450 mg/día. La media ± desviación estándar (DE) del aclaramiento plasmático en estado estable de la Venlafaxina y la ODV es de 1.3 ± 0.6 y 0.4 ± 0.2 L/h/kg, respectivamente; la vida media de eliminación aparente es de 5 ± 2 y 11 ± 2 horas, respectivamente; y el volumen de distribución aparente (en estado estable) es de 7.5 ± 3.7 y 5.7 ± 1.8 L/kg, respectivamente. En concentraciones terapéuticas, la Venlafaxina y la ODV tienen un grado mínimo de fijación a las proteínas plasmáticas (27 y 30%, respectivamente).
+
+Absorción: La Venlafaxina se absorbe bien y se metaboliza en el hígado. El único metabolito activo importante es la O-desmetilvenlafaxina (ODV), por lo menos un 92% de la dosis oral única de Venlafaxina es absorbido. La biodisponibilidad absoluta de la Venlafaxina es de aproximadamente un 45%.
+
+La administración de Venlafaxina FF (150 mg cada 24 horas) generalmente resultó en una Cmáx más bajo (150 ng/mL para la Venlafaxina y 260 ng/mL para la ODV) y un tiempo para alcanzar la concentración máxima (Tmáx) más prolongado (5.5 horas para la Venlafaxina y 9 horas respectivamente), el periodo de absorción de las cápsulas de Venlafaxina de liberación prolongada y las tabletas de liberación inmediata es similar.
+
+Eliminación: La Venlafaxina se excreta principalmente a través de los riñones, un 87% se recupera en la orina en las primeras 48 horas después de su administración y se recupera un 5% de Venlafaxina sin cambios.
+
+En pacientes con disfunción renal la vida media de eliminación de ésta y del ODV aumentan dependiendo del grado de deterioro renal, la vida media de eliminación aumenta 1.5 veces aproximadamente en pacientes con falla renal moderada y entre un 2.5 y 3 veces en pacientes con enfermedad renal terminal.
+
+En pacientes con enfermedad hepática la vida media de eliminación de ODV oral se prolonga un 40% aproximadamente.
+
+## CONTRAINDICACIONES
+
+CONTRAINDICACIONES: La Venlafaxina está contraindicada en caso de hipersensibilidad a ésta o a cualquiera de los componentes de la fórmula. Está contraindicado el uso concomitante de cualquier inhibidor de la mono-aminooxidasa (IMAOs) y Venlafaxina, se debe dejar pasar por lo menos un periodo de 14 días después de descontinuar el tratamiento con IMAO.
+
+## RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA
+
+RESTRICCIONES DE USO DURANTE EL EMBARAZO Y LA LACTANCIA: El uso de Venlafaxina en humanos durante el embarazo no se ha establecido. Algunos neonatos que han sido expuestos a Venlafaxina al final del tercer trimestre del embarazo, han desarrollado complicaciones que requieren alimentación por tubo soporte respiratorio y hospitalización prolongada en unidad de terapia intensiva, dichas complicaciones han llegado a presentarse en el momento del nacimiento. La Venlafaxina se excreta en la leche humana por lo que no se debe administrar en periodos de lactancia. O en caso de usar la Venlafaxina, descontinuar la lactancia.
+
+## REACCIONES ADVERSAS
+
+REACCIONES SECUNDARIAS Y ADVERSAS: La Seguridad de la Venlafaxina no ha sido evaluada en niños menores de 6 años. De la misma forma la eficacia en menores de 18 años aún no se ha establecido.
+
+La Venlafaxina no ha sido evaluada en pacientes con antecedentes de infarto al miocardio o con antecedentes de enfermedad cardiaca inestable, por lo que debe ser usada con precaución. Algunos pacientes han presentado aumento en la presión arterial relacionada a la dosis los cuales necesitaron tratamiento de inmediato.
+
+Se ha presentado aumento en la presión arterial, hipercolesterolemia, disminución del apetito, pérdida de peso por lo que cuando se encuentren bajo tratamiento con Venlafaxina se recomienda tener un adecuado control del peso y la presión arterial, en caso de presentarse aumento de la presión arterial, debe considerarse el descontinuar el tratamiento con Venlafaxina.
+
+Con frecuencia se presenta: Hipertensión arterial, vasodilatación, astenia, pérdida del apetito, pérdida de peso, náuseas y/o vómito, estreñimiento, hipercolesterolemia (cuando el uso es prolongado y/o las dosis son elevadas). Sueño anormal, insomnio, vértigo, incremento del tono muscular, boca seca, sudoración y sudoración nocturna, disminución de la libido, en hombres eyaculación y orgasmos anormales, disfunción eréctil y micción alterada, retardo involuntario o incapacidad para iniciar la micción, midriasis, alteraciones en la acomodación visual.
+
+Con poca frecuencia se presentan: Reacciones de fotosensibilidad, hipotensión postural, síncope, vómito, equimosis, sangrado de membranas y mucosas, prolongación del tiempo de sangrado, pruebas de función hepáticas anormales, hiponatremia, aumento de peso, incremento del tono muscular, insomnio, nerviosismo, parestesias, temblor, sedación, alucinaciones, apatía, mioclonus, alteraciones en la coordinación y balance.
+
+En muy rara ocasión se presenta: Anafilaxia, fotosensibilidad, hepatitis, síndrome de secreción inapropiada de hormona antidiurética, prolongación del segmento QT, fibrilación ventricular, taquicardia ventricular, diarrea, bruxismo, pancreatitis, discrasias sanguíneas, anemia aplásica, agranulocitosis, neutropenia y pancitopenia, incremento de la prolactina sérica, Acatisia, convulsiones, reacciones maniacas, síndrome neuroléptico maligno y síndrome serotoninérgico, delirio, reacciones extrapiramidales, distonía, discinesia y discinesia tardía. Eosinofilia pulmonar, alopecia, rash cutáneo, eritema multiforme, síndrome de Stevens-Johnson, prurito, urticaria, sensaciones táctiles alteradas, tinnitus , glaucoma de ángulo estrecho. En mujeres orgasmos anormales, menorragia, retención urinaria.
+
+Cuando la Venlafaxina se ha descontinuado abruptamente o se ha disminuido la dosis o cuando se ha disminuido gradualmente el tratamiento, se han reportado los siguientes síntomas: ansiedad, nerviosismo, agitación, hipomanía, trastornos del sueño, insomnio, somnolencia, fatiga, parestesias, mareo, convulsiones, vértigo, tinnitus , cefalea, alteraciones de la coordinación y el balance, sudoración, sequedad de boca, anorexia, náusea, vómito y diarrea, por lo regular las reacciones de descontinuación de la Venlafaxina son leves y se resolvieron sin tratamiento.
+
+En pacientes pediátricos: Las reacciones adversas en niños y adolescentes entre 6 y 17 años fue similar al que se presentó en adultos. Algunos estudios clínicos pediátricos presentaron incremento en los reportes de hostilidad, incremento en el trastorno depresivo mayor, eventos adversos relacionados con suicidio, ideación suicida y lesiones autoinfligidas. También se observaron las siguientes reacciones adversas: agitación, dispepsia, dolor abdominal, epistaxis, mialgias, equimosis.
+
+PRECAUCIONES EN RELACIÓN CON EFECTOS DE CARCINOGÉNESIS, MUTAGÉNESIS, TERATOGÉNESIS Y SOBRE LA FERTILIDAD: En los estudios toxicológicos no se observaron evidencias de carcinogénesis, mutagénesis o trastornos de la fertilidad.
+
+## INTERACCIONES MEDICAMENTOSAS Y DE OTRO GÉNERO
+
+INTERACCIONES MEDICAMENTOSAS Y DE OTRO GÉNERO: Se han reportado reacciones adversas severas en pacientes que han discontinuado un IMAO y han comenzado con Venlafaxina, o que han discontinuado el tratamiento con Venlafaxina e inician con un IMAO, dichas reacciones van desde: temblor, diaforesis, náuseas, vómito, mioclonus, enrojecimiento de la piel, mareo, hipertermia, manifestaciones semejantes; a un síndrome neuroléptico maligno, convulsiones y muerte.
+
+Medicamentos del SNC: Existe riesgo de usar Venlafaxina en combinación con otros medicamentos activos del SNC y no se han evaluado sistemáticamente, por lo que debe tenerse especial precaución en caso de administrarse en combinación con otros medicamentos que actúen sobre el SNC.
+
+Síndrome Serotoninérgico: Con el tratamiento de Venlafaxina se puede presentar el síndrome serotoninérgico el cual puede ser una amenaza contra la vida, principalmente si se usa concomitantemente con otros fármacos que actúen sobre el sistema neurotransmisor serotoninérgico incluyendo triptanos, IRNSs, Rhys, Linezolide IMAO reversible no-selectivo a sí mismo con precursores de serotonina como el triptófano. Los síntomas del síndrome de serotonina pueden variar desde inestabilidad autonómica a cambios en el estado mental, aberraciones neuromusculares y/o síntomas gastrointestinales.
+
+Los efectos de la Warfarina se pueden potencializar si se administra junto con Venlafaxina.
+
+Etanol: Los pacientes bajo tratamiento con Venlafaxina deben evitar el consumo de alcohol puesto que es una droga que actúa directamente en el sistema nervioso central.
+
+Cimetidina: Inhibe el metabolismo del primer paso de la Venlafaxina no afecta la farmacocinética de ODV. Se espera que la actividad farmacológica total de la Venlafaxina más ODV aumente ligeramente en la mayor parte de los pacientes.
+
+Haloperidol: Estudios demuestran una disminución en la depuración total oral, incremento en el área bajo la curva e incremento en la Cmáx sin cambios en la vida media, por lo que debe ser tomado en cuenta en pacientes tratados conjuntamente con Venlafaxina y Haloperidol.
+
+Imipramina: El AUC de la desipramina, la Cmáx y la Cmín, se incrementaron en presencia de Venlafaxina, el AUC de 2-OH-desipramina aumentó, la imipramina no afectó la farmacocinética de Venlafaxina y ODV por lo que debe ser tomado en cuenta en pacientes bajo tratamiento con Imipramina y Venlafaxina simultáneamente.
+
+Indinavir: Un estudio farmacocinético con indinavir mostró una disminución de 28% en el ABC y una disminución de 365 en el Cmáx para indinavir. Indinavir no afectó la farmacocinética de Venlafaxina y O-desmetilvenlafaxina. No se conoce el significado clínico de esta interacción.
+
+Ketoconazol: El uso concomitante de inhibidores del CYP3A4 y Venlafaxina puede incrementar los niveles de ésta y ODV. Por lo tanto se aconseja tener precaución cuando un paciente utilice en conjunto un inhibidor del CYP3A4 y Venlafaxina.
+
+Metropolol: En un estudio realizado la administración concomitante de Venlafaxina con Metropolol presentó incremento en las concentraciones plasmáticas de metropolol sin alterar las concentraciones plasmáticas del metabolito activo.
+
+Risperidona: La Venlafaxina incrementó el AUC de la risperidona sin presentar alteración en la farmacocinética.
+
+El Litio y el Diazepam: Parecen no afectar la farmacocinética ni el ODV de la Venlafaxina.
+
+Medicamentos metabolizados por las isoenzimas del citocromo P-450: La Venlafaxina es un inhibidor relativamente débil de la CYP2D6. La Venlafaxina no inhibe in vitro al CYP3A4, CYP1A2 y CYP2C9 esto por algunos estudios in vivo con los siguientes medicamentos:
+
+Alprazolam (CYP3A4), Cafeína (CYP1A2), Carbamazepina (CYP3A4) y Diazepam (CYP3A4 y CYP2C19) y CYP2C9.
+
+Medicamentos con elevada unión a proteínas plasmáticas: La Venlafaxina no presenta una unión importante a las proteínas plasmáticas (unión 27%) por lo que la administración de Venlafaxina a un paciente que tome otro medicamento que se una extensamente a las proteínas plasmáticas no debe provocar un incremento en la concentración libre del mismo.
+
+Warfarina: Puede ocurrir potenciación del efecto anticoagulante en pacientes que se encuentran en tratamiento con Warfarina después de la administración de Venlafaxina.
+
+## HALLAZGOS DE LABORATORIO CLÍNICO
+
+ALTERACIONES EN LOS RESULTADOS DE PRUEBAS DE LABORATORIO: En algunos estudios de investigación se presentaron cambios en la biometría hemática, hipercolesterolemia, cambios en las pruebas de funcionamiento hepático y en los niveles de electrólitos séricos. Por lo que durante el tratamiento con Venlafaxina deberá evaluarse a cada paciente de manera individual.
+
+## PRECAUCIONES Y ADVERTENCIAS
+
+PRECAUCIONES GENERALES: Los pacientes bajo tratamiento con Venlafaxina deben ser monitorizados adecuadamente, además de observarse estrechamente ante la posibilidad de empeoramiento o suicidalidad. Se debe advertir a los pacientes, familiares y/o cuidadores referente de una emergencia de ansiedad, ataques de pánico, agitación, irritabilidad, hostilidad, agresividad, impulsividad, acatisia, manía, hipomanía o cualquier otro cambio en el comportamiento, así como en el caso de aumento en la depresión e ideas suicidas, sobre todo al inicio de la terapia o con cualquier cambio en la dosis o régimen de dosificación. Se debe considerar el riesgo de intento de suicidio especialmente en pacientes deprimidos y se debe administrar la menor cantidad de medicamento que sea consistente con el mejor manejo del paciente para evitar el riesgo de sobredosis.
+
+El suicidio es un riesgo conocido de la depresión y de algunos otros trastornos psiquiátricos.
+
+Algunos estudios a corto plazo mostraron que medicamentos antidepresivos incrementan el riesgo de suicidio en niños, adolescentes y adultos jóvenes entre 18 y 24 años con depresión mayor y otros trastornos psiquiátricos. Estudios a corto plazo no mostraron un incremento en el riesgo de suicidio con antidepresivos comparados con placebo en adultos de 65 años o más.
+
+De la misma forma que con otros fármacos serotoninérgicos, se puede presentar con la Venlafaxina el síndrome serotoninérgico, una condición de amenaza potencial contra la vida, principalmente con el uso concomitante de otros medicamentos que afecten el sistema neurotransmisor serotoninérgico.
+
+## DOSIS Y VÍA DE ADMINISTRACIÓN
+
+DOSIS Y VÍA DE ADMINISTRACIÓN: Se recomienda tomar el medicamento a la misma hora con los alimentos, la dosis máxima recomendada es de 375 mg/día se recomienda dividir la dosis en 3 tomas al día.
+
+Las cápsulas no deben abrirse o disolverse en agua.
+
+La dosis inicial recomendada de Venlafaxina es de 75 mg/día, en caso de que no se obtenga una respuesta adecuada puede incrementarse la dosis hasta un máximo de 225 mg/día. Los incrementos de dosis de Venlafaxina de liberación prolongada pueden hacerse a intervalos de aproximadamente cada 2 semanas o más y mantenerse la dosis por lo menos durante 4 días.
+
+En caso de disminuir la dosis se recomienda la reducción progresiva de ésta. Cuando se descontinúe la terapia con Venlafaxina deberá hacerse por lo menos en un periodo de dos semanas. Si la Venlafaxina ha sido utilizada durante más de seis semanas el periodo requerido para la disminución progresiva puede depender de la dosis, la duración de la terapia y la evaluación de cada paciente en forma individual.
+
+Trastorno de ansiedad social (Fobia Social): La dosis de inicio recomendada es de 75 mg/día administrada en una dosis única. Para algunos casos puede ser necesario iniciar con 37.5 mg/día durante 4 a 7 días para permitir a los nuevos pacientes ajustarse al medicamento antes de incrementar la dosis a 75 mg/día. Los incrementos en las dosis deben ser de hasta 75 mg/día según se requiera y debe hacerse en intervalos no menores a 4 días. Se ha utilizado dosis máxima de hasta 225 mg/día. En caso de descontinuar la terapia cuando se ha mantenido ésta por más de seis semanas, se recomienda disminuciones de la dosis cada semana, durante un periodo de 2 semanas y/o evaluar a cada paciente dependiendo de la dosis y del tiempo de tratamiento.
+
+Pacientes con deterioro hepático: La dosis total de Venlafaxina debe reducirse en 50% en pacientes con deterioro hepático moderado. Reducciones mayores a 50% pueden ser adecuadas para algunos pacientes.
+
+Pacientes con deterioro renal: La dosis total diaria de Venlafaxina debe reducirse en 25-50% para pacientes con deterioro renal con un índice de filtración glomerular (TFG)de 10-70 ml/min.
+
+La dosis total diaria de Venlafaxina debe reducirse en 50% en pacientes en hemodiálisis. La administración debe suspenderse hasta que la sesión de diálisis se complete.
+
+Pacientes geriátricos: No es necesario realizar ajuste a la dosis en este rango de edad, se debe evaluar cada caso individual.
+
+Pacientes pediátricos: La experiencia del uso de Venlafaxina en pacientes menores de 18 años es insuficiente.
+
+Depresión: La dosis usual para prevenir la recaída o para prevenir la recurrencia de un nuevo episodio es similar a la utilizada durante el tratamiento inicial. Los pacientes deben ser valorados regularmente en orden de evaluar el beneficio de la terapia a largo plazo.
+
+Se recomienda la disminución gradual de la dosis cuando se vaya a descontinuar la terapia con Venlafaxina por un periodo mínimo de 2 semanas si se ha utilizado Venlafaxina por más de 6 semanas. El periodo requerido para la disminución puede depender de la dosis, duración de la terapia y de cada paciente.
+
+En el trastorno de ansiedad social, no hay datos suficientes de la eficacia del tratamiento con Venlafaxina, posterior a 12 semanas. Deberá reevaluarse periódicamente la necesidad de continuar con el medicamento en pacientes bajo tratamiento con Venlafaxina y con trastorno de la ansiedad social que hayan mejorado.
+
+## MANIFESTACIONES Y MANEJO DE LA SOBREDOSIFICACIÓN O INGESTA ACCIDENTAL
+
+MANIFESTACIONES Y MANEJO DE LA SOBREDOSIFICACIÓN O INGESTA ACCIDENTAL: En caso de sobredosis se deberá tomar las medidas preventivas para el tratamiento de la sobredosis con antidepresivos. Deberá mantenerse vía aérea permeable, ventilación y oxigenación adecuadas. Mantener signos vitales y ritmo cardiaco adecuados, así como los signos vitales estables. Llevar acabo medidas sintomáticas y de mantenimiento. Puede considerarse la utilización de carbón activado, la inducción al vómito o lavado gástrico. Por el amplio volumen de distribución del clorhidrato de Venlafaxina, no es probable que la diuresis forzada, la diálisis, la hemoperfusión y la exanguíneo transfusión resulten de utilidad. No se conocen antídotos específicos de la Venlafaxina. En caso de sobredosis debe considerarse la posibilidad que el paciente haya ingerido más de una droga. Las manifestaciones clínicas que se presentan con sobredosis de Venlafaxina predominantemente en combinación con otros fármacos y/o alcohol; se caracterizan por cambios electrocardiográficos (prolongación del intervalo QT, bloqueo de rama, prolongación QRS) taquicardia sinusal y ventricular, bradicardia, hipotensión, vértigo, deterioro de la conciencia que puede ir desde somnolencia a estado de coma, convulsiones y muerte.
+
+## PRESENTACIÓN
+
+PRESENTACIONES: Caja con 10 o 20 cápsulas de liberación prolongada de 37.5 mg, 50 mg, 75 mg y 150 mg.
+
+## RECOMENDACIONES SOBRE ALMACENAMIENTO
+
+RECOMENDACIONES SOBRE ALMACENAMIENTO: Conservar en un lugar seco a temperatura ambiente menor a 30°C, en un lugar seco.
+
+## LEYENDAS DE PROTECCIÓN
+
+LEYENDAS DE PROTECCIÓN:
+
+Literatura exclusiva para médicos. No se use en el embarazo, lactancia ni en menores de 18 años. No se deje al alcance de los niños. Su venta requiere receta médica.
+
+Hecho en México por:
+
+LABORATORIOS PISA, S.A. de C.V.
+
+Av. Miguel Ángel de Quevedo No. 555
+
+Col. Romero de Terreros, Deleg. Coyoacán
+
+C.P. 04310, México, D.F.
+
+Reg. Núm. 195M2011, SSA IV
