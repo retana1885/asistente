@@ -1,0 +1,1741 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Consultor PLM · Farmacias San Camilo · Base de Medicamentos</title>
+<link rel="icon" type="image/x-icon" href="logo_asistente.ico">
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0e17;
+    --surface: #111827;
+    --surface2: #1a2235;
+    --border: #1e2d45;
+    --accent: #00d4aa;
+    --accent2: #0ea5e9;
+    --accent-dim: rgba(0,212,170,0.12);
+    --text: #e8edf5;
+    --text-muted: #6b7f99;
+    --text-dim: #3d5070;
+    --red: #ff4d6d;
+    --yellow: #ffd166;
+    --pill-bg: #162036;
+  }
+
+  * { margin:0; padding:0; box-sizing:border-box; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+  }
+
+  .bg-particles {
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    overflow: hidden;
+    z-index: 0;
+  }
+  .particle {
+    position: absolute;
+    bottom: -24px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 30% 30%, rgba(14,165,233,0.45), rgba(0,212,170,0.12) 55%, rgba(0,212,170,0));
+    filter: blur(0.4px);
+    animation-name: floatUp;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    opacity: 0;
+  }
+  @keyframes floatUp {
+    0% {
+      transform: translate3d(0, 0, 0);
+      opacity: 0;
+    }
+    12% { opacity: 0.75; }
+    88% { opacity: 0.35; }
+    100% {
+      transform: translate3d(var(--drift, 0px), -112vh, 0);
+      opacity: 0;
+    }
+  }
+
+  /* HEADER */
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 32px;
+  border-bottom: 1px solid var(--border);
+  background: rgba(10,14,23,0.95);
+  backdrop-filter: blur(12px);
+  position: sticky; top:0; z-index:100;
+}
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .logo-icon {
+    width: 36px; height: 36px;
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 18px;
+    overflow: hidden;
+  }
+
+  .logo-icon img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .logo-text {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    font-family: 'DM Serif Display', serif;
+    font-size: clamp(21px, 1.45vw, 30px);
+    letter-spacing: -0.35px;
+  }
+  .logo-main {
+    color: var(--text);
+    text-shadow: 0 0 18px rgba(14,165,233,0.16);
+  }
+  .logo-dot {
+    color: rgba(232,237,245,0.62);
+    font-size: 26px;
+    transform: translateY(-1px);
+  }
+  .logo-clinic {
+    font-style: italic;
+    background: linear-gradient(90deg, var(--accent), var(--accent2));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 0 16px rgba(0,212,170,0.18);
+  }
+
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.header-center {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+}
+
+  .header-center img {
+    width: 220px;
+  max-width: 26vw;
+  min-width: 120px;
+  height: auto;
+  display: block;
+  object-fit: contain;
+  opacity: 0.9;
+    filter: drop-shadow(0 6px 14px rgba(14,165,233,0.14));
+  }
+
+  @media (max-width: 980px) {
+    .header-center { display: none; }
+  }
+
+  .db-badge {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--accent);
+    background: var(--accent-dim);
+    border: 1px solid rgba(0,212,170,0.25);
+    padding: 4px 10px;
+    border-radius: 20px;
+  }
+
+  #api-key-input {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 7px 12px;
+    color: var(--text);
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    width: 240px;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+  #api-key-input:focus { border-color: var(--accent); }
+  #api-key-input::placeholder { color: var(--text-dim); }
+
+  /* MAIN LAYOUT */
+  .main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    max-width: 900px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 24px;
+    position: relative;
+    z-index: 1;
+  }
+
+  /* HERO */
+  .hero {
+    padding: 52px 0 32px;
+    text-align: center;
+  }
+
+  .hero h1 {
+    font-family: 'DM Serif Display', serif;
+    font-size: 42px;
+    line-height: 1.15;
+    letter-spacing: -1px;
+    margin-bottom: 12px;
+  }
+  .hero h1 em {
+    font-style: italic;
+    background: linear-gradient(90deg, var(--accent), var(--accent2));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+
+
+  .hero p {
+    color: var(--text-muted);
+    font-size: 15px;
+    max-width: 520px;
+    margin: 0 auto 28px;
+    line-height: 1.6;
+  }
+
+  /* QUICK PROMPTS */
+  .quick-prompts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    margin-bottom: 36px;
+  }
+
+  .qp {
+    background: var(--pill-bg);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 7px 14px;
+    font-size: 12.5px;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: all 0.18s;
+    white-space: nowrap;
+  }
+  .qp:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: var(--accent-dim);
+  }
+
+  .legal-banner {
+    margin: 10px 0 8px;
+    width: 100%;
+    border: 1px solid rgba(255, 209, 102, 0.35);
+    background: rgba(255, 209, 102, 0.08);
+    color: #ffe6a6;
+    border-radius: 10px;
+    padding: 9px 12px;
+    font-size: 12px;
+    line-height: 1.45;
+    text-align: center;
+  }
+  .legal-banner strong { color: #ffe6a6; }
+  .legal-banner.hidden { display: none; }
+
+  /* CHAT AREA */
+  #chat-area {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-bottom: 24px;
+    min-height: 0;
+  }
+
+  .msg {
+    display: flex;
+    gap: 14px;
+    animation: fadeUp 0.3s ease;
+  }
+
+  @keyframes fadeUp {
+    from { opacity:0; transform: translateY(10px); }
+    to { opacity:1; transform: translateY(0); }
+  }
+
+  .msg.user { flex-direction: row-reverse; }
+
+  .avatar {
+    width: 34px; height: 34px;
+    border-radius: 10px;
+    display: flex; align-items:center; justify-content:center;
+    font-size: 15px;
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+  .avatar.ai {
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+  }
+  .avatar.user-av {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    font-size: 13px;
+  }
+
+  .bubble {
+    max-width: 82%;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 14px 18px;
+    font-size: 14.5px;
+    line-height: 1.65;
+  }
+  .msg.user .bubble {
+    background: var(--pill-bg);
+    border-color: rgba(0,212,170,0.2);
+    border-radius: 16px 4px 16px 16px;
+  }
+  .msg.ai .bubble {
+    border-radius: 4px 16px 16px 16px;
+  }
+
+  .bubble table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 12px 0;
+    font-size: 13px;
+  }
+  .bubble th {
+    background: var(--surface2);
+    padding: 8px 12px;
+    text-align: left;
+    color: var(--accent);
+    font-weight: 500;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border-bottom: 1px solid var(--border);
+  }
+  .bubble td {
+    padding: 8px 12px;
+    border-bottom: 1px solid rgba(30,45,69,0.5);
+    color: var(--text);
+    vertical-align: top;
+  }
+  .bubble tr:hover td { background: rgba(0,212,170,0.04); }
+  .bubble a { color: var(--accent2); text-decoration: none; }
+  .bubble a:hover { text-decoration: underline; }
+  .bubble strong { color: var(--text); font-weight: 600; }
+  .bubble h3 { color: var(--accent); font-size: 14px; margin: 12px 0 6px; font-family: 'DM Mono', monospace; }
+  .bubble ul { padding-left: 18px; margin: 6px 0; }
+  .bubble li { margin: 4px 0; }
+  .bubble code {
+    background: var(--surface2);
+    padding: 1px 6px;
+    border-radius: 4px;
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    color: var(--accent);
+  }
+  .bubble hr { border: none; border-top: 1px solid var(--border); margin: 14px 0; }
+
+  .meta-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid var(--border);
+  }
+  .meta-pill {
+    font-family: 'DM Mono', monospace;
+    font-size: 10.5px;
+    padding: 3px 8px;
+    border-radius: 4px;
+    background: var(--surface2);
+    color: var(--text-muted);
+  }
+  .meta-pill.found { color: var(--accent); background: var(--accent-dim); }
+
+  .media-grid {
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px solid var(--border);
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 10px;
+  }
+  .media-card {
+    display: block;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+    text-decoration: none;
+    transition: border-color 0.2s;
+  }
+  .media-card:hover { border-color: var(--accent2); }
+  .media-card img {
+    width: 100%;
+    height: 110px;
+    object-fit: cover;
+    display: block;
+    background: #0a111e;
+  }
+  .media-title {
+    font-size: 11px;
+    color: var(--text-muted);
+    padding: 7px 8px;
+    line-height: 1.35;
+    min-height: 40px;
+  }
+
+  /* TYPING INDICATOR */
+  .typing {
+    display: flex; gap: 5px; align-items: center;
+    padding: 4px 0;
+  }
+  .typing span {
+    width: 6px; height: 6px;
+    background: var(--accent);
+    border-radius: 50%;
+    animation: bounce 1.2s infinite;
+    opacity: 0.7;
+  }
+  .typing span:nth-child(2) { animation-delay: 0.2s; }
+  .typing span:nth-child(3) { animation-delay: 0.4s; }
+  @keyframes bounce {
+    0%,60%,100% { transform: translateY(0); }
+    30% { transform: translateY(-6px); }
+  }
+
+  /* INPUT BAR */
+  .input-bar {
+    position: sticky;
+    bottom: 0;
+    background: linear-gradient(to top, var(--bg) 70%, transparent);
+    padding: 20px 0 28px;
+  }
+
+  .mode-switch-wrap {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 8px;
+  }
+  .mode-switch {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 3px;
+  }
+  .mode-btn {
+    border: 0;
+    background: transparent;
+    color: var(--text-muted);
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    padding: 5px 10px;
+    border-radius: 999px;
+    cursor: pointer;
+    transition: all 0.18s;
+  }
+  .mode-btn:hover { color: var(--text); }
+  .mode-btn.active {
+    background: var(--accent-dim);
+    color: var(--accent);
+  }
+
+  .disambig-actions {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid var(--border);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .disambig-btn {
+    border: 1px solid var(--border);
+    background: var(--pill-bg);
+    color: var(--text-muted);
+    border-radius: 999px;
+    font-size: 12px;
+    padding: 6px 10px;
+    cursor: pointer;
+    transition: all 0.18s;
+  }
+  .disambig-btn:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: var(--accent-dim);
+  }
+
+  .input-wrap {
+    display: flex;
+    gap: 10px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 12px 16px;
+    transition: border-color 0.2s;
+  }
+  .input-wrap:focus-within { border-color: var(--accent); }
+
+  #query-input {
+    flex: 1;
+    background: none;
+    border: none;
+    outline: none;
+    color: var(--text);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14.5px;
+    resize: none;
+    height: 24px;
+    max-height: 120px;
+    overflow-y: auto;
+    line-height: 1.5;
+  }
+  #query-input::placeholder { color: var(--text-dim); }
+
+  #send-btn {
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    border: none;
+    border-radius: 10px;
+    width: 38px; height: 38px;
+    cursor: pointer;
+    display: flex; align-items:center; justify-content:center;
+    font-size: 16px;
+    transition: opacity 0.2s, transform 0.1s;
+    flex-shrink: 0;
+    align-self: flex-end;
+  }
+  #send-btn:hover { opacity:0.9; transform: scale(1.05); }
+  #send-btn:disabled { opacity:0.4; cursor:not-allowed; transform:none; }
+
+  /* STATUS BAR */
+  #status-bar {
+    text-align: center;
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--text-dim);
+    padding: 6px 0 0;
+  }
+
+  /* WELCOME STATE */
+  #welcome {
+    padding: 20px 0;
+  }
+
+  /* SCROLLBAR */
+  ::-webkit-scrollbar { width: 4px; height: 4px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+
+  /* LOADING OVERLAY */
+  #loading-overlay {
+    position: fixed; inset:0;
+    background: var(--bg);
+    display: flex; flex-direction:column;
+    align-items:center; justify-content:center;
+    gap: 16px;
+    z-index: 200;
+    transition: opacity 0.5s;
+  }
+  #loading-overlay.hidden { opacity:0; pointer-events:none; }
+  .load-bar-wrap {
+    width: 260px; height: 3px;
+    background: var(--border);
+    border-radius: 3px;
+    overflow: hidden;
+  }
+  .load-bar {
+    height: 100%;
+    background: linear-gradient(90deg, var(--accent), var(--accent2));
+    border-radius: 3px;
+    animation: loadBar 2s ease forwards;
+  }
+  @keyframes loadBar {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+  .load-text {
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    color: var(--text-muted);
+  }
+</style>
+</head>
+<body>
+
+<div class="bg-particles" id="bg-particles"></div>
+
+<!-- LOADING -->
+<div id="loading-overlay">
+  <div style="font-family:'DM Serif Display',serif;font-size:28px;letter-spacing:-0.5px;">
+    Cargando <em style="color:var(--accent);font-style:italic;">base PLM</em>
+  </div>
+  <div class="load-bar-wrap"><div class="load-bar"></div></div>
+  <div class="load-text" id="load-text">Iniciando...</div>
+</div>
+
+<!-- HEADER -->
+<header>
+  <div class="logo">
+    <div class="logo-icon"><img src="logo_asistente.jpg" alt="Asistente Consultor"></div>
+    <div class="logo-text">
+      <span class="logo-main">Consultor PLM</span>
+      <span class="logo-dot">·</span>
+      <span class="logo-clinic">Farmacias San Camilo</span>
+    </div>
+  </div>
+  <div class="header-center">
+    <img src="logo_san camilo.png" alt="Logo San Camilo">
+  </div>
+  <div class="header-right">
+    <span class="db-badge" id="db-count">⟳ cargando...</span>
+    <input type="text" id="api-key-input" placeholder="Modo local sin API key" value="v2 · sin LLM" readonly />
+  </div>
+</header>
+
+<!-- MAIN -->
+<div class="main">
+  <!-- HERO -->
+  <div class="hero" id="welcome">
+    <h1>Consulta la base<br><em>PLM Medicamentos</em></h1>
+    <p>Haz preguntas en lenguaje natural sobre composición, indicaciones, contraindicaciones, embarazo, interacciones y más.</p>
+
+    <div class="quick-prompts">
+      <div class="qp" onclick="usePrompt(this)">¿Qué contiene Barmicil?</div>
+      <div class="qp" onclick="usePrompt(this)">Productos con betametasona en tabla</div>
+      <div class="qp" onclick="usePrompt(this)">Compara Barmicil vs Quadriderm</div>
+      <div class="qp" onclick="usePrompt(this)">Medicamentos con diclofenaco y sus indicaciones</div>
+      <div class="qp" onclick="usePrompt(this)">¿Qué dice Barmicil sobre embarazo?</div>
+      <div class="qp" onclick="usePrompt(this)">Tabla de productos con clotrimazol</div>
+      <div class="qp" onclick="usePrompt(this)">¿Existe Amoxil en la base?</div>
+      <div class="qp" onclick="usePrompt(this)">Similares a Barmicil por sustancia activa</div>
+      <div class="qp" onclick="usePrompt(this)">Lista de productos con ibuprofeno</div>
+      <div class="qp" onclick="usePrompt(this)">Lista de medicamentos con paracetamol</div>
+      <div class="qp" onclick="usePrompt(this)">¿Cuáles son las contraindicaciones de terbinafina crema?</div>
+      <div class="qp" onclick="usePrompt(this)">Interacciones de ibuprofeno</div>
+      <div class="qp" onclick="usePrompt(this)">Embarazo y lactancia de diclofenaco</div>
+      <div class="qp" onclick="usePrompt(this)">¿Para qué sirve omeprazol?</div>
+      <div class="qp" onclick="usePrompt(this)">Composición de amoxicilina cápsulas</div>
+      <div class="qp" onclick="usePrompt(this)">Similares a terbinafina por sustancia activa</div>
+      <div class="qp" onclick="usePrompt(this)">Compara ibuprofeno vs naproxeno</div>
+      <div class="qp" onclick="usePrompt(this)">Productos con loratadina en tabla</div>
+      <div class="qp" onclick="usePrompt(this)">¿Qué contiene Quadriderm?</div>
+      <div class="qp" onclick="usePrompt(this)">Contraindicaciones de metformina</div>
+    </div>
+  </div>
+
+  <!-- CHAT -->
+  <div id="chat-area"></div>
+
+  <!-- INPUT -->
+  <div class="input-bar">
+    <div class="mode-switch-wrap">
+      <div class="mode-switch" aria-label="Modo de respuesta">
+        <button class="mode-btn" id="mode-quick-btn" data-mode="quick" type="button">Rápida</button>
+        <button class="mode-btn" id="mode-full-btn" data-mode="full" type="button">Completa</button>
+      </div>
+    </div>
+    <div class="legal-banner" id="legal-banner">
+      <strong>⚠ Información de referencia; no sustituye el criterio médico profesional.</strong>
+      <br>Verifique normativas sanitarias locales y lineamientos institucionales vigentes.
+    </div>
+    <div class="input-wrap">
+      <textarea id="query-input" placeholder="Pregunta sobre cualquier medicamento de la base PLM..." rows="1"></textarea>
+      <button id="send-btn" onclick="sendQuery()" title="Enviar">➤</button>
+    </div>
+    <div id="status-bar">Listo · modo local activo (sin API)</div>
+  </div>
+</div>
+
+<script>
+// ─────────────────────────────────────────────
+// ESTADO GLOBAL
+// ─────────────────────────────────────────────
+let PLM_DATA = [];
+let chatHistory = [];
+const APP_MODE = 'v2-local-no-llm';
+let TITLE_INDEX = [];
+let DOC_ROUTE_INDEX = [];
+let DOC_BY_URL = new Map();
+let DOC_CACHE = new Map();
+let IMG_ROUTE_INDEX = [];
+let IMG_BY_URL = new Map();
+let LAST_MEDIA_ITEMS = [];
+let LAST_DISAMBIG_OPTIONS = [];
+let PENDING_DISAMBIG = null;
+let RESPONSE_MODE = 'quick';
+
+// ─────────────────────────────────────────────
+// CARGAR JSON
+// ─────────────────────────────────────────────
+async function loadData() {
+  const loadText = document.getElementById('load-text');
+  try {
+    loadText.textContent = 'Cargando base local...';
+    const [plmRes, routesRes, imagesProductRes, imagesRes] = await Promise.all([
+      fetch('plm_data.json'),
+      fetch('indice_rutas_plm.json'),
+      fetch('indice_imagenes_producto.json'),
+      fetch('indice_imagenes_plm.json')
+    ]);
+
+    if (!plmRes.ok) throw new Error('No se pudo cargar plm_data.json');
+    const json = await plmRes.json();
+    PLM_DATA = json.data || [];
+
+    if (routesRes.ok) {
+      const routesJson = await routesRes.json();
+      DOC_ROUTE_INDEX = routesJson.items || [];
+      DOC_BY_URL = new Map(DOC_ROUTE_INDEX.map(x => [x.u, x]));
+    }
+
+    let productItems = [];
+    let fallbackItems = [];
+    if (imagesProductRes.ok) {
+      const imagesJson = await imagesProductRes.json();
+      productItems = imagesJson.items || [];
+    }
+    if (imagesRes.ok) {
+      const imagesJson = await imagesRes.json();
+      fallbackItems = imagesJson.items || [];
+    }
+    IMG_BY_URL = new Map();
+    for (const x of fallbackItems) {
+      if (x && x.u && x.img) IMG_BY_URL.set(x.u, x);
+    }
+    for (const x of productItems) {
+      if (x && x.u && x.img) IMG_BY_URL.set(x.u, x);
+    }
+    IMG_ROUTE_INDEX = Array.from(IMG_BY_URL.values());
+
+    loadText.textContent = 'Procesando registros...';
+    TITLE_INDEX = PLM_DATA
+      .map(item => ({ item, titleNorm: normalize(item.t) }))
+      .filter(x => x.titleNorm.length >= 5)
+      .sort((a, b) => b.titleNorm.length - a.titleNorm.length);
+    document.getElementById('db-count').textContent = `📦 ${PLM_DATA.length.toLocaleString()} productos`;
+    loadText.textContent = `${PLM_DATA.length.toLocaleString()} registros listos ✓ · ${DOC_ROUTE_INDEX.length.toLocaleString()} fichas · ${IMG_ROUTE_INDEX.length.toLocaleString()} imágenes`;
+    setTimeout(() => {
+      document.getElementById('loading-overlay').classList.add('hidden');
+    }, 600);
+  } catch(e) {
+    loadText.textContent = '⚠ Error: ' + e.message + ' — asegúrate de que plm_data.json esté en la misma carpeta';
+    document.getElementById('loading-overlay').style.background = '#1a0a0a';
+  }
+}
+
+// ─────────────────────────────────────────────
+// BÚSQUEDA / FILTRADO LOCAL
+// ─────────────────────────────────────────────
+function normalize(str) {
+  return (str || '').toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z0-9\s]/g, ' ').trim();
+}
+
+function extractTerms(query) {
+  const q = normalize(query);
+  // Stopwords español
+  const stop = new Set(['que','cual','cuales','como','para','con','sin','los','las','del','una','uno','son','sus','tiene','este','esta','estos','estas','sobre','entre','qué','cómo','cuál','hay','dan','dan','dame','lista','tabla','haz','menciona','incluye','productos','medicamentos','medicamento','base','ficha','dice','favor','por','mas','segun']);
+  return q.split(/\s+/).filter(w => w.length > 2 && !stop.has(w));
+}
+
+function searchRecords(query, maxResults = 15) {
+  const terms = extractTerms(query);
+  if (terms.length === 0) return [];
+
+  const scores = PLM_DATA.map((item, idx) => {
+    const titleNorm = normalize(item.t);
+    const substNorm = (item.s || []).map(normalize).join(' ');
+    const contentNorm = normalize((item.r || '').substring(0, 800));
+    
+    let score = 0;
+    for (const term of terms) {
+      if (titleNorm.includes(term)) score += 10;
+      if (substNorm.includes(term)) score += 8;
+      if (contentNorm.includes(term)) score += 3;
+    }
+
+    // Bonus: coincidencia exacta de nombre completo
+    const queryNorm = normalize(query);
+    if (titleNorm === queryNorm) score += 50;
+    if (titleNorm.startsWith(terms[0])) score += 15;
+
+    return { item, score, idx };
+  });
+
+  return scores
+    .filter(x => x.score > 0)
+    .sort((a,b) => b.score - a.score)
+    .slice(0, maxResults)
+    .map(x => x.item);
+}
+
+function isHeadingLine(line) {
+  const clean = (line || '').replace(/[:.]/g, '').trim();
+  if (clean.length < 3 || clean.length > 90) return false;
+  const letters = clean.replace(/[^A-Za-zÁÉÍÓÚÜÑáéíóúüñ]/g, '');
+  if (!letters) return false;
+  const upper = letters.split('').filter(ch => ch === ch.toUpperCase()).length;
+  return (upper / letters.length) > 0.82;
+}
+
+function compactText(text) {
+  return (text || '').replace(/\s+/g, ' ').trim();
+}
+
+function firstSentences(text, maxSentences = 2, maxChars = 360) {
+  const clean = compactText(text);
+  if (!clean) return '';
+  const parts = clean.split(/(?<=[.!?])\s+/).filter(Boolean);
+  const selected = parts.slice(0, maxSentences).join(' ');
+  return selected.length > maxChars ? selected.slice(0, maxChars) + '...' : selected;
+}
+
+function extractSection(raw, aliases, maxChars = 800) {
+  if (!raw) return '';
+  const aliasNorm = aliases.map(a => normalize(a));
+  const lines = raw.split(/\r?\n/).map(l => l.trim());
+  let start = -1;
+
+  for (let i = 0; i < lines.length; i++) {
+    const n = normalize(lines[i]);
+    if (aliasNorm.some(a => n.includes(a))) {
+      start = i + 1;
+      break;
+    }
+  }
+  if (start === -1) return '';
+
+  const out = [];
+  for (let i = start; i < lines.length; i++) {
+    const line = lines[i];
+    if (!line) continue;
+    if (isHeadingLine(line) && out.length > 0) break;
+    if (aliasNorm.some(a => normalize(line).includes(a))) continue;
+    out.push(line);
+    if (compactText(out.join(' ')).length >= maxChars) break;
+  }
+
+  return firstSentences(out.join(' '), 3, maxChars);
+}
+
+function detectIntent(query) {
+  const q = normalize(query);
+  if ((/\b(lista|listado|tabla|dame|muestrame|mostrar)\b/.test(q) && /\b(productos?|medicamentos?)\b/.test(q)) ||
+      (/\b(productos?|medicamentos?)\b/.test(q) && /\b(con|contienen|contengan|tengan|que contienen|que tengan)\b/.test(q))) {
+    return 'lista_sustancia';
+  }
+  if (/\b(vs|versus|compar|diferenc)/.test(q)) return 'comparacion';
+  if (/\b(similar|alternativ|parecid)/.test(q)) return 'similares';
+  if (/\b(contiene|composicion|sustancia|ingrediente|formula)/.test(q)) return 'composicion';
+  if (/\b(para que sirve|indicacion|uso|usos|sirve)\b/.test(q)) return 'indicaciones';
+  if (/\b(contraindic|no usar|prohibid)/.test(q)) return 'contraindicaciones';
+  if (/\b(embarazo|lactancia|gestacion|embarazada)/.test(q)) return 'embarazo';
+  if (/\b(interaccion|interactua|combinar|combinacion)/.test(q)) return 'interacciones';
+  return 'general';
+}
+
+function uniqueByUrl(items) {
+  const seen = new Set();
+  return items.filter(item => {
+    const key = item.u || item.t;
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
+function modeLabel() {
+  return RESPONSE_MODE === 'quick' ? 'rápida' : 'completa';
+}
+
+function setResponseMode(mode) {
+  RESPONSE_MODE = mode === 'full' ? 'full' : 'quick';
+  const q = document.getElementById('mode-quick-btn');
+  const f = document.getElementById('mode-full-btn');
+  if (q) q.classList.toggle('active', RESPONSE_MODE === 'quick');
+  if (f) f.classList.toggle('active', RESPONSE_MODE === 'full');
+  try { localStorage.setItem('plm_response_mode', RESPONSE_MODE); } catch {}
+}
+
+function initResponseModeUI() {
+  let saved = 'quick';
+  try {
+    saved = localStorage.getItem('plm_response_mode') || 'quick';
+  } catch {}
+  setResponseMode(saved);
+
+  document.querySelectorAll('.mode-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      setResponseMode(btn.dataset.mode);
+      setStatus(`Listo · modo local activo (${modeLabel()})`);
+    });
+  });
+}
+
+function isMultiQueryIntent(query) {
+  const q = normalize(query);
+  return /\b(lista|productos|medicamentos|similares|vs|versus|compar|tabla|varios|alternativas)\b/.test(q);
+}
+
+function buildDisambiguationResponse(query, candidates) {
+  const top = uniqueByUrl(candidates).slice(0, 5);
+  if (top.length === 0) return '';
+
+  LAST_MEDIA_ITEMS = [];
+  LAST_DISAMBIG_OPTIONS = top;
+  PENDING_DISAMBIG = { originalQuery: query, options: top };
+
+  const optionLabel = (x) => {
+    const slug = (x.u || '').split('/productos/')[1]?.split('/')[0] || 'sin-slug';
+    return `${x.t} · ${slug}`;
+  };
+  const options = top.map((x, i) => `${i + 1}. ${optionLabel(x)}`).join('\n');
+  return [
+    'Encontré varios productos posibles para tu consulta. Para evitar errores, dime el nombre exacto:',
+    '',
+    options,
+    '',
+    `Puedes responder con un número (1-${top.length}) o tocar una opción debajo.`
+  ].join('\n');
+}
+
+function buildDisambiguationActions(options) {
+  if (!options || options.length === 0) return '';
+  const chips = options.slice(0, 5).map((x, i) => {
+    const slug = (x.u || '').split('/productos/')[1]?.split('/')[0] || x.t;
+    const label = `${i + 1}. ${slug}`;
+    return `<button class="disambig-btn" type="button" onclick="selectDisambiguation(${i})">${escapeHtml(label)}</button>`;
+  }).join('');
+  return `<div class="disambig-actions">${chips}</div>`;
+}
+
+function selectDisambiguation(index) {
+  const input = document.getElementById('query-input');
+  if (!input) return;
+  input.value = String(index + 1);
+  sendQuery();
+}
+
+function findExplicitProducts(query, max = 3) {
+  const q = normalize(query);
+  if (!q) return [];
+
+  const hits = [];
+  for (const x of TITLE_INDEX) {
+    if (q.includes(x.titleNorm)) hits.push(x.item);
+    if (hits.length >= max * 4) break;
+  }
+
+  return uniqueByUrl(hits).slice(0, max);
+}
+
+function isGenericTag(tag) {
+  const t = normalize(tag);
+  const generic = new Set([
+    'tableta','tabletas','capsula','capsulas','solucion','suspension','jarabe','crema','gel','unguento','pomada',
+    'locion','inyectable','ampolleta','gotas','spray','parche','supositorio','ovulo','gragea','comprimido','oral'
+  ]);
+  return generic.has(t) || t.length < 4;
+}
+
+function normalizeIngredient(text) {
+  let t = normalize(text);
+  t = t
+    .replace(/\b(forma|farmaceutica|formulacion|formula|ingredientes|activo|activos|cada|contiene|contienen|equivalente|equivalentes|excipiente|vehiculo|vehiculo\s*c\s*b\s*p|c\s*b\s*p|cbp|presentacion|presentaciones)\b/g, ' ')
+    .replace(/\b(ml|mg|g|mcg|ui|mui|%|gr|mL)\b/g, ' ')
+    .replace(/\b\d+[\d.,]*\b/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  if (!t || t.length < 5) return '';
+  if (isGenericTag(t)) return '';
+  return t;
+}
+
+function getActiveSubstances(item) {
+  const fromTags = (item.s || [])
+    .map(s => ({ raw: s, norm: normalizeIngredient(s) }))
+    .filter(x => x.norm);
+
+  const seen = new Set();
+  const unique = [];
+  for (const x of fromTags) {
+    if (seen.has(x.norm)) continue;
+    seen.add(x.norm);
+    unique.push(x);
+  }
+  return unique;
+}
+
+function getQuerySubstanceTerms(query) {
+  const junk = new Set([
+    'producto','productos','medicamento','medicamentos','lista','listado','tabla','similares','similar',
+    'contiene','contienen','contengan','tengan','tiene','dame','muestrame','mostrar','cuales','cual',
+    'quiero','buscar','busca','que','con','de','del','para','por','favor','tableta','tabletas','capsula',
+    'capsulas','crema','gel','jarabe','solucion','suspension'
+  ]);
+
+  return extractTerms(query)
+    .map(t => normalizeIngredient(t) || normalize(t))
+    .filter(t => t && t.length >= 4 && !junk.has(t) && !isGenericTag(t));
+}
+
+function scoreSubstanceMatch(term, substanceNorm) {
+  if (!term || !substanceNorm) return 0;
+  if (substanceNorm === term) return 100;
+  if (substanceNorm.includes(term)) return 70;
+  if (term.includes(substanceNorm)) return 60;
+  return 0;
+}
+
+function buildListBySubstanceResponse(query) {
+  const terms = getQuerySubstanceTerms(query);
+  if (terms.length === 0) {
+    return 'Para listar por sustancia, escribe por ejemplo: `Lista de productos con ibuprofeno`.';
+  }
+
+  const results = [];
+
+  for (const item of PLM_DATA) {
+    const substances = getActiveSubstances(item);
+    if (substances.length === 0) continue;
+
+    let bestScore = 0;
+    const matched = [];
+
+    for (const s of substances) {
+      for (const term of terms) {
+        const sc = scoreSubstanceMatch(term, s.norm);
+        if (sc > 0) {
+          bestScore = Math.max(bestScore, sc);
+          matched.push(s.raw);
+        }
+      }
+    }
+
+    if (bestScore > 0) {
+      results.push({
+        item,
+        score: bestScore,
+        matched: Array.from(new Set(matched)).slice(0, 3)
+      });
+    }
+  }
+
+  const unique = [];
+  const seen = new Set();
+  for (const x of results.sort((a, b) => b.score - a.score || a.item.t.localeCompare(b.item.t))) {
+    const key = x.item.u || x.item.t;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    unique.push(x);
+  }
+
+  if (unique.length === 0) {
+    LAST_MEDIA_ITEMS = [];
+    return `No encontré productos que coincidan con la(s) sustancia(s): ${terms.join(', ')}.`;
+  }
+
+  const topLimit = RESPONSE_MODE === 'quick' ? 15 : 40;
+  const top = unique.slice(0, topLimit);
+  LAST_MEDIA_ITEMS = [];
+  const rows = top.map(x => `| ${x.item.t} | ${x.matched.join(', ') || 'Coincidencia en sustancia'} | ${x.item.u} |`).join('\n');
+  return [
+    `Productos que contienen **${terms.join(', ')}** (modo ${modeLabel()}):`,
+    '',
+    '| Producto | Sustancia encontrada | Fuente |',
+    '|---|---|---|',
+    rows,
+    '',
+    `Total encontrados: ${unique.length}${unique.length > top.length ? ` (mostrando ${top.length})` : ''}.`
+  ].join('\n');
+}
+
+function ingredientsMatch(a, b) {
+  if (!a || !b) return false;
+  if (a === b) return true;
+  if (a.length < 6 || b.length < 6) return false;
+  return a.includes(b) || b.includes(a);
+}
+
+function sanitizeMdPath(path) {
+  const p = (path || '').replace(/\\/g, '/');
+  const idx = p.toLowerCase().indexOf('secciones/');
+  return idx >= 0 ? p.substring(idx) : p;
+}
+
+function parseMarkdownSections(md) {
+  const sections = {};
+  const lines = (md || '').split(/\r?\n/);
+  let current = '';
+
+  for (const line of lines) {
+    const m = line.match(/^##\s+(.+)$/);
+    if (m) {
+      current = normalize(m[1]);
+      if (!sections[current]) sections[current] = [];
+      continue;
+    }
+    if (current) sections[current].push(line);
+  }
+
+  const out = {};
+  for (const k of Object.keys(sections)) {
+    out[k] = sections[k].join('\n');
+  }
+  return out;
+}
+
+function findSectionByAliases(sectionMap, aliases) {
+  if (!sectionMap) return '';
+  const keys = Object.keys(sectionMap);
+  for (const alias of aliases) {
+    const aliasNorm = normalize(alias);
+    const key = keys.find(k => k.includes(aliasNorm));
+    if (key && sectionMap[key]) return sectionMap[key];
+  }
+  return '';
+}
+
+function extractSubstancesFromComposition(compText) {
+  if (!compText) return [];
+  const rows = [];
+  const lines = compText.split(/\r?\n/).map(x => x.trim()).filter(Boolean);
+
+  const isNoiseLine = (line) => {
+    const n = normalize(line);
+    if (!n) return true;
+    if (/^[-|:]+$/.test(line)) return true;
+    if (/^(composicion|forma farmaceutica y formulacion|formula|ingredientes|ingredientes activos)$/.test(n)) return true;
+    if (/^(cada|cada 100 g|cada 100 ml|cada ml|cada tableta|cada capsula)/.test(n)) return true;
+    return false;
+  };
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    if (isNoiseLine(line)) continue;
+
+    const tableMatch = line.match(/^\|\s*([^|]+)\s*\|\s*([^|]+)\s*\|/);
+    if (tableMatch) {
+      const ing = tableMatch[1].trim();
+      const ingNorm = normalizeIngredient(ing);
+      if (ingNorm) rows.push({ raw: ing, norm: ingNorm });
+      continue;
+    }
+
+    const inlineRegex = /([A-Za-zÁÉÍÓÚÜÑáéíóúüñ][A-Za-zÁÉÍÓÚÜÑáéíóúüñ()'\-\s]{3,}?)\s+\d+[\d.,]*\s*(mg|g|mcg|ui|ml)\b/gi;
+    let m = inlineRegex.exec(line);
+    while (m) {
+      const ing = m[1].trim();
+      const ingNorm = normalizeIngredient(ing);
+      if (ingNorm) rows.push({ raw: ing, norm: ingNorm });
+      m = inlineRegex.exec(line);
+    }
+
+    const next = lines[i + 1] || '';
+    if (/^\d+[\d.,]*\s*(mg|g|mcg|ui|ml)\b/i.test(next)) {
+      const ingNorm = normalizeIngredient(line);
+      if (ingNorm) rows.push({ raw: line, norm: ingNorm });
+    }
+  }
+
+  const seen = new Set();
+  const unique = [];
+  for (const x of rows) {
+    if (!x.norm || x.norm.length < 5) continue;
+    if (seen.has(x.norm)) continue;
+    seen.add(x.norm);
+    unique.push(x);
+  }
+  return unique.slice(0, 10);
+}
+
+async function getMarkdownBundleForItem(item) {
+  const ref = DOC_BY_URL.get(item.u);
+  if (!ref || !ref.m) return null;
+
+  const mdPath = sanitizeMdPath(ref.m);
+  if (!mdPath) return null;
+  if (DOC_CACHE.has(mdPath)) return DOC_CACHE.get(mdPath);
+
+  try {
+    const res = await fetch(mdPath);
+    if (!res.ok) return null;
+    const md = await res.text();
+    const sectionMap = parseMarkdownSections(md);
+    const composicionRaw = findSectionByAliases(sectionMap, ['composicion', 'formula']);
+    const bundle = {
+      sectionMap,
+      substances: extractSubstancesFromComposition(composicionRaw)
+    };
+    DOC_CACHE.set(mdPath, bundle);
+    return bundle;
+  } catch {
+    return null;
+  }
+}
+
+async function getItemSubstances(item) {
+  const fromMd = await getMarkdownBundleForItem(item);
+  if (fromMd && fromMd.substances && fromMd.substances.length > 0) return fromMd.substances;
+  return getActiveSubstances(item);
+}
+
+async function getProductSections(item) {
+  const mdBundle = await getMarkdownBundleForItem(item);
+  if (mdBundle && mdBundle.sectionMap) {
+    const sm = mdBundle.sectionMap;
+    return {
+      composicion: firstSentences(findSectionByAliases(sm, ['composicion', 'formula']) || ((item.s || []).join(', ')), 3, 700),
+      indicaciones: firstSentences(findSectionByAliases(sm, ['indicaciones terapeuticas', 'indicaciones']) || '', 3, 700),
+      contraindicaciones: firstSentences(findSectionByAliases(sm, ['contraindicaciones']) || '', 3, 700),
+      embarazo: firstSentences(findSectionByAliases(sm, ['restricciones de uso durante el embarazo y la lactancia', 'embarazo y lactancia', 'embarazo', 'lactancia']) || '', 3, 700),
+      interacciones: firstSentences(findSectionByAliases(sm, ['interacciones medicamentosas', 'interacciones']) || '', 3, 700)
+    };
+  }
+
+  const raw = item.r || '';
+  return {
+    composicion: extractSection(raw, ['composicion', 'forma farmaceutica y formulacion']) || (item.s || []).join(', '),
+    indicaciones: extractSection(raw, ['indicaciones terapeuticas', 'indicaciones']),
+    contraindicaciones: extractSection(raw, ['contraindicaciones']),
+    embarazo: extractSection(raw, ['embarazo y la lactancia', 'embarazo', 'lactancia']),
+    interacciones: extractSection(raw, ['interacciones medicamentosas', 'interacciones'])
+  };
+}
+
+function markdownSources(items) {
+  const unique = uniqueByUrl(items).slice(0, 6);
+  if (unique.length === 0) return '';
+  return unique.map(i => `- ${i.u}`).join('\n');
+}
+
+function escapeHtml(str) {
+  return (str || '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+function getItemImage(item) {
+  const ref = IMG_BY_URL.get(item.u);
+  if (!ref || !ref.img) return '';
+  return ref.img;
+}
+
+function buildMediaGallery(items) {
+  if (!items || items.length === 0) return '';
+  const cards = uniqueByUrl(items)
+    .map(item => ({ item, img: getItemImage(item) }))
+    .filter(x => x.img)
+    .slice(0, 4)
+    .map(x => (
+      `<a class="media-card" href="${escapeHtml(x.item.u)}" target="_blank" rel="noopener noreferrer">` +
+      `<img src="${escapeHtml(x.img)}" alt="${escapeHtml(x.item.t)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none'" />` +
+      `<div class="media-title">${escapeHtml(x.item.t)}</div>` +
+      `</a>`
+    ));
+
+  if (cards.length === 0) return '';
+  return `<div class="media-grid">${cards.join('')}</div>`;
+}
+
+async function buildComparisonResponse(query, found) {
+  const byVs = query.split(/\bvs\b|\bversus\b/i).map(x => x.trim()).filter(Boolean);
+  const picked = [];
+
+  for (const term of byVs.slice(0, 2)) {
+    const hit = searchRecords(term, 1)[0];
+    if (hit) picked.push(hit);
+  }
+
+  const explicit = findExplicitProducts(query, 2);
+  const fallback = uniqueByUrl(found).slice(0, 2);
+  const products = uniqueByUrl([...picked, ...explicit, ...fallback]).slice(0, 2);
+  if (products.length < 2) {
+    LAST_MEDIA_ITEMS = [];
+    return 'No encontré dos productos claros para comparar. Prueba con formato: `Barmicil vs Quadriderm`.';
+  }
+
+  LAST_MEDIA_ITEMS = [];
+
+  const rowParts = await Promise.all(products.map(async item => {
+    const sec = await getProductSections(item);
+    const subs = await getItemSubstances(item);
+    const subText = subs.length > 0 ? subs.map(x => x.raw).slice(0, 4).join(', ') : 'No disponible';
+    const indicator = RESPONSE_MODE === 'quick'
+      ? firstSentences(sec.indicaciones || 'No disponible', 1, 95)
+      : firstSentences(sec.indicaciones || 'No disponible', 1, 120);
+    return `| ${item.t} | ${subText} | ${indicator} | ${item.u} |`;
+  }));
+  const rows = rowParts.join('\n');
+
+  return [
+    `Comparación local (${modeLabel()}) de **${products[0].t}** y **${products[1].t}**:`,
+    '',
+    '| Producto | Sustancias activas | Indicaciones (resumen) | Fuente |',
+    '|---|---|---|---|',
+    rows,
+    '',
+    'Fuentes consultadas:',
+    markdownSources(products)
+  ].join('\n');
+}
+
+async function buildSimilarResponse(query, found) {
+  const base = findExplicitProducts(query, 1)[0] || uniqueByUrl(found)[0];
+  if (!base) return 'No encontré un producto base para buscar similares.';
+
+  const baseSubstances = await getItemSubstances(base);
+  if (baseSubstances.length === 0) {
+    return `No encontré sustancias activas claras para **${base.t}** en el campo de sustancias.`;
+  }
+
+  const similars = [];
+  const maxSimilars = RESPONSE_MODE === 'quick' ? 6 : 10;
+
+  for (const item of PLM_DATA) {
+    if ((item.u || item.t) === (base.u || base.t)) continue;
+    const currentSubs = getActiveSubstances(item);
+    const shared = [];
+
+    for (const bs of baseSubstances) {
+      for (const cs of currentSubs) {
+        if (ingredientsMatch(bs.norm, cs.norm)) {
+          shared.push(bs.raw);
+          break;
+        }
+      }
+    }
+
+    if (shared.length > 0) {
+      similars.push({ item, shared: Array.from(new Set(shared)) });
+      if (similars.length >= maxSimilars) break;
+    }
+  }
+
+  if (similars.length === 0) {
+    LAST_MEDIA_ITEMS = [];
+    return `No encontré productos con sustancias compartidas con **${base.t}** en la muestra actual.`;
+  }
+
+  LAST_MEDIA_ITEMS = [];
+
+  const rows = similars.map(x => `| ${x.item.t} | ${x.shared.join(', ')} | ${x.item.u} |`).join('\n');
+  return [
+    `Similares por sustancia activa para **${base.t}** (modo ${modeLabel()}):`,
+    '',
+    '| Producto | Sustancia compartida | Fuente |',
+    '|---|---|---|',
+    rows,
+    '',
+    'Fuente base:',
+    `- ${base.u}`
+  ].join('\n');
+}
+
+async function buildDeterministicResponse(query, found, options = {}) {
+  const intent = detectIntent(query);
+  LAST_DISAMBIG_OPTIONS = [];
+  const skipDisambiguation = !!options.skipDisambiguation;
+
+  if (intent === 'lista_sustancia') {
+    PENDING_DISAMBIG = null;
+    return buildListBySubstanceResponse(query);
+  }
+
+  const explicit = findExplicitProducts(query, 3);
+  const wantsMultiple = isMultiQueryIntent(query);
+
+  if (!skipDisambiguation && !wantsMultiple && explicit.length > 1) {
+    return buildDisambiguationResponse(query, explicit);
+  }
+
+  const items = options.forceItems
+    ? uniqueByUrl(options.forceItems).slice(0, 3)
+    : ((explicit.length > 0 && !wantsMultiple)
+      ? explicit.slice(0, 1)
+      : uniqueByUrl([...explicit, ...found]).slice(0, 3));
+
+  if (!skipDisambiguation && !wantsMultiple && explicit.length === 0 && items.length > 1) {
+    return buildDisambiguationResponse(query, items);
+  }
+
+  PENDING_DISAMBIG = null;
+
+  if (items.length === 0) {
+    LAST_MEDIA_ITEMS = [];
+    return 'No encontré coincidencias claras en `plm_data.json` para esta consulta. Intenta con nombre comercial exacto o sustancia activa.';
+  }
+
+  if (intent === 'comparacion') return await buildComparisonResponse(query, items);
+  if (intent === 'similares') return await buildSimilarResponse(query, items);
+
+  LAST_MEDIA_ITEMS = items.length === 1 ? [items[0]] : [];
+
+  const titleByIntent = {
+    lista_sustancia: 'Listado por sustancia',
+    composicion: 'Composición',
+    indicaciones: 'Indicaciones terapéuticas',
+    contraindicaciones: 'Contraindicaciones',
+    embarazo: 'Embarazo y lactancia',
+    interacciones: 'Interacciones',
+    general: 'Resumen de ficha técnica'
+  };
+
+  const blocksList = await Promise.all(items.map(async item => {
+    const sec = await getProductSections(item);
+    const subs = await getItemSubstances(item);
+    const subText = subs.length > 0 ? subs.map(x => x.raw).slice(0, 6).join(', ') : ((item.s || []).join(', ') || 'No disponible');
+    let body = '';
+
+    if (RESPONSE_MODE === 'quick') {
+      let quickUse = sec.indicaciones || 'No disponible.';
+      let quickAlert = sec.contraindicaciones || sec.embarazo || sec.interacciones || 'No disponible.';
+
+      if (intent === 'embarazo') quickAlert = sec.embarazo || 'No disponible.';
+      if (intent === 'interacciones') quickAlert = sec.interacciones || 'No disponible.';
+      if (intent === 'contraindicaciones') quickAlert = sec.contraindicaciones || 'No disponible.';
+      if (intent === 'indicaciones') quickUse = sec.indicaciones || 'No disponible.';
+      if (intent === 'composicion') quickUse = sec.composicion || 'No disponible.';
+
+      body = [
+        `- Sustancias activas: ${subText}`,
+        `- Uso principal: ${firstSentences(quickUse, 1, 180)}`,
+        `- Alerta clave: ${firstSentences(quickAlert, 1, 180)}`,
+        `- Fuente: ${item.u}`
+      ].join('\n');
+
+      return `### ${item.t}\n${body}`;
+    }
+
+    if (intent === 'composicion') {
+      body = `- Sustancias activas: ${subText}\n- Detalle: ${sec.composicion || 'No disponible en el extracto.'}`;
+    } else if (intent === 'indicaciones') {
+      body = `- ${sec.indicaciones || 'No disponible en el extracto.'}`;
+    } else if (intent === 'contraindicaciones') {
+      body = `- ${sec.contraindicaciones || 'No disponible en el extracto.'}`;
+    } else if (intent === 'embarazo') {
+      body = `- ${sec.embarazo || 'No encontré una sección explícita de embarazo/lactancia en este extracto.'}`;
+    } else if (intent === 'interacciones') {
+      body = `- ${sec.interacciones || 'No encontré una sección explícita de interacciones en este extracto.'}`;
+    } else {
+      body = [
+        `- Sustancias: ${subText}`,
+        `- Indicaciones: ${sec.indicaciones || 'No disponible.'}`,
+        `- Contraindicaciones: ${sec.contraindicaciones || 'No disponible.'}`,
+        `- Embarazo/Lactancia: ${sec.embarazo || 'No disponible.'}`,
+        `- Interacciones: ${sec.interacciones || 'No disponible.'}`
+      ].join('\n');
+    }
+
+    return `### ${item.t}\n${body}\n- Fuente: ${item.u}`;
+  }));
+
+  const blocks = blocksList.join('\n\n');
+
+  return [
+    `**${titleByIntent[intent]}** (modo ${modeLabel()})`,
+    '',
+    blocks,
+    '',
+    'Nota: Respuesta generada de forma determinística desde base local (`secciones/*.md` y `plm_data.json`), sin inferencias clínicas.'
+  ].join('\n');
+}
+
+// ─────────────────────────────────────────────
+// ENVIAR CONSULTA
+// ─────────────────────────────────────────────
+async function sendQuery() {
+  const input = document.getElementById('query-input');
+  const rawQuery = input.value.trim();
+  if (!rawQuery) return;
+
+  let query = rawQuery;
+  let forcedItems = null;
+
+  if (PENDING_DISAMBIG && Array.isArray(PENDING_DISAMBIG.options) && PENDING_DISAMBIG.options.length > 0) {
+    const n = Number(rawQuery);
+    if (Number.isInteger(n) && n >= 1 && n <= PENDING_DISAMBIG.options.length) {
+      forcedItems = [PENDING_DISAMBIG.options[n - 1]];
+      query = PENDING_DISAMBIG.originalQuery;
+      PENDING_DISAMBIG = null;
+    } else {
+      addMessage('user', rawQuery);
+      input.value = '';
+      input.style.height = '24px';
+      LAST_DISAMBIG_OPTIONS = PENDING_DISAMBIG.options;
+      addMessage('ai', `Para continuar, selecciona una opción válida escribiendo un número del 1 al ${PENDING_DISAMBIG.options.length}.`, 0, [], LAST_DISAMBIG_OPTIONS);
+      return;
+    }
+  }
+
+  if (PLM_DATA.length === 0) {
+    setStatus('⚠ La base de datos aún no ha cargado');
+    return;
+  }
+
+  // Ocultar hero en primer mensaje
+  document.getElementById('welcome').style.display = 'none';
+  document.getElementById('legal-banner')?.classList.add('hidden');
+
+  // Agregar mensaje usuario
+  addMessage('user', rawQuery);
+  input.value = '';
+  input.style.height = '24px';
+
+  // Buscar registros relevantes
+  const found = forcedItems ? forcedItems : searchRecords(query);
+  LAST_MEDIA_ITEMS = [];
+  LAST_DISAMBIG_OPTIONS = [];
+  
+  // Mostrar typing
+  const typingId = addTyping();
+  setStatus(`🔍 Encontré ${found.length} registros relevantes · Generando respuesta ${modeLabel()}...`);
+  document.getElementById('send-btn').disabled = true;
+
+  try {
+    const reply = await buildDeterministicResponse(query, found, {
+      forceItems: forcedItems,
+      skipDisambiguation: !!forcedItems
+    });
+    chatHistory.push({ role: 'user', content: query });
+    chatHistory.push({ role: 'assistant', content: reply });
+    if (chatHistory.length > 12) chatHistory = chatHistory.slice(-12);
+
+    removeTyping(typingId);
+    addMessage('ai', reply, found.length, LAST_MEDIA_ITEMS, LAST_DISAMBIG_OPTIONS);
+    setStatus(`✓ ${found.length} registros consultados · respuesta ${modeLabel()} generada`);
+
+  } catch(e) {
+    removeTyping(typingId);
+    addMessage('ai', `**Error local:** ${e.message || 'Error desconocido'}\n\nRevisa el formato de la consulta o los archivos locales de base PLM.`, 0);
+    setStatus('⚠ Error en la consulta');
+  }
+
+  document.getElementById('send-btn').disabled = false;
+}
+
+// ─────────────────────────────────────────────
+// UI HELPERS
+// ─────────────────────────────────────────────
+function addMessage(role, text, foundCount, mediaItems, disambigOptions) {
+  const area = document.getElementById('chat-area');
+  const div = document.createElement('div');
+  div.className = `msg ${role}`;
+  
+  const avatar = role === 'ai'
+    ? `<div class="avatar ai">⚕</div>`
+    : `<div class="avatar user-av">👤</div>`;
+
+  const metaPill = (role === 'ai' && foundCount !== undefined)
+    ? `<div class="meta-pills"><span class="meta-pill found">📦 ${foundCount} registros PLM</span></div>`
+    : '';
+
+  const mediaHtml = (role === 'ai' && mediaItems && mediaItems.length > 0)
+    ? buildMediaGallery(mediaItems)
+    : '';
+
+  const disambigHtml = (role === 'ai' && disambigOptions && disambigOptions.length > 0)
+    ? buildDisambiguationActions(disambigOptions)
+    : '';
+
+  div.innerHTML = `
+    ${avatar}
+    <div class="bubble">${renderMarkdown(text)}${metaPill}${mediaHtml}${disambigHtml}</div>
+  `;
+  area.appendChild(div);
+  div.scrollIntoView({ behavior: 'smooth', block: 'end' });
+}
+
+function addTyping() {
+  const area = document.getElementById('chat-area');
+  const div = document.createElement('div');
+  const id = 'typing-' + Date.now();
+  div.id = id;
+  div.className = 'msg ai';
+  div.innerHTML = `<div class="avatar ai">⚕</div><div class="bubble"><div class="typing"><span></span><span></span><span></span></div></div>`;
+  area.appendChild(div);
+  div.scrollIntoView({ behavior: 'smooth', block: 'end' });
+  return id;
+}
+
+function removeTyping(id) {
+  document.getElementById(id)?.remove();
+}
+
+function setStatus(msg) {
+  document.getElementById('status-bar').textContent = msg;
+}
+
+function usePrompt(el) {
+  document.getElementById('query-input').value = el.textContent;
+  document.getElementById('query-input').focus();
+}
+
+// ─────────────────────────────────────────────
+// MARKDOWN RENDERER (ligero)
+// ─────────────────────────────────────────────
+function renderMarkdown(text) {
+  let html = text
+    // Tablas
+    .replace(/^\|(.+)\|$/gm, '<tr-row>$1</tr-row>')
+    // Headers
+    .replace(/^### (.+)$/gm, '<h3>$1</h3>')
+    .replace(/^## (.+)$/gm, '<h3>$1</h3>')
+    .replace(/^# (.+)$/gm, '<h3>$1</h3>')
+    // Bold
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    // Italic
+    .replace(/\*(.+?)\*/g, '<em>$1</em>')
+    // Code inline
+    .replace(/`([^`]+)`/g, '<code>$1</code>')
+    // Links
+    .replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, '<a href="$2" target="_blank">$1</a>')
+    // URLs sueltas
+    .replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank">$1</a>')
+    // HR
+    .replace(/^---$/gm, '<hr>')
+    // Bullet lists
+    .replace(/^[-*] (.+)$/gm, '<li>$1</li>')
+    // Line breaks
+    .replace(/\n/g, '\n');
+
+  // Procesar tablas
+  if (html.includes('<tr-row>')) {
+    const lines = html.split('\n');
+    let inTable = false;
+    let tableHtml = '';
+    let isHeader = true;
+    let result = [];
+
+    for (const line of lines) {
+      const rowMatch = line.match(/^<tr-row>(.+)<\/tr-row>$/);
+      if (rowMatch) {
+        const cells = rowMatch[1].split('|').map(c => c.trim()).filter(Boolean);
+        if (cells.every(c => /^[-:]+$/.test(c))) { isHeader = false; continue; }
+        if (!inTable) { tableHtml = '<table><thead>'; inTable = true; isHeader = true; }
+        if (isHeader) {
+          tableHtml += '<tr>' + cells.map(c => `<th>${c}</th>`).join('') + '</tr></thead><tbody>';
+          isHeader = false;
+        } else {
+          tableHtml += '<tr>' + cells.map(c => `<td>${c}</td>`).join('') + '</tr>';
+        }
+      } else {
+        if (inTable) { result.push(tableHtml + '</tbody></table>'); inTable = false; tableHtml = ''; isHeader = true; }
+        result.push(line);
+      }
+    }
+    if (inTable) result.push(tableHtml + '</tbody></table>');
+    html = result.join('\n');
+  }
+
+  // Wrap li tags
+  html = html.replace(/(<li>.*<\/li>\n?)+/g, m => `<ul>${m}</ul>`);
+
+  // Párrafos: líneas que no son etiquetas HTML
+  html = html.split('\n').map(line => {
+    const trimmed = line.trim();
+    if (!trimmed) return '<br>';
+    if (trimmed.startsWith('<')) return line;
+    return `<p>${line}</p>`;
+  }).join('');
+
+  return html;
+}
+
+// ─────────────────────────────────────────────
+// TEXTAREA AUTO-RESIZE + ENTER
+// ─────────────────────────────────────────────
+document.getElementById('query-input').addEventListener('input', function() {
+  this.style.height = '24px';
+  this.style.height = Math.min(this.scrollHeight, 120) + 'px';
+});
+
+document.getElementById('query-input').addEventListener('keydown', function(e) {
+  if (e.key === 'Enter' && !e.shiftKey) {
+    e.preventDefault();
+    sendQuery();
+  }
+});
+
+function initBackgroundParticles() {
+  const wrap = document.getElementById('bg-particles');
+  if (!wrap) return;
+
+  const count = Math.max(18, Math.min(42, Math.floor(window.innerWidth / 34)));
+  const frag = document.createDocumentFragment();
+
+  for (let i = 0; i < count; i++) {
+    const p = document.createElement('span');
+    p.className = 'particle';
+
+    const size = 2 + Math.random() * 5;
+    const left = Math.random() * 100;
+    const duration = 11 + Math.random() * 16;
+    const delay = -Math.random() * duration;
+    const drift = (Math.random() * 80 - 40).toFixed(0) + 'px';
+
+    p.style.width = `${size}px`;
+    p.style.height = `${size}px`;
+    p.style.left = `${left}%`;
+    p.style.animationDuration = `${duration}s`;
+    p.style.animationDelay = `${delay}s`;
+    p.style.setProperty('--drift', drift);
+
+    frag.appendChild(p);
+  }
+
+  wrap.innerHTML = '';
+  wrap.appendChild(frag);
+}
+
+let particlesResizeTimer = null;
+window.addEventListener('resize', () => {
+  if (particlesResizeTimer) clearTimeout(particlesResizeTimer);
+  particlesResizeTimer = setTimeout(initBackgroundParticles, 220);
+});
+
+// ─────────────────────────────────────────────
+// INIT
+// ─────────────────────────────────────────────
+document.getElementById('api-key-input').value = `modo: ${APP_MODE}`;
+initResponseModeUI();
+setStatus(`Listo · modo local activo (${modeLabel()})`);
+initBackgroundParticles();
+loadData();
+</script>
+</body>
+</html>
